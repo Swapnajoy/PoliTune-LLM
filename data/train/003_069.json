@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 69,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : The President of India can return any bill passed by Parliament of reconsideration of the Houses. Reason (R) : The President cannot return money bills to the Parliament for reconsideration of the Houses. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "All bills passed by the Parliament can become laws only after receiving the assent of the President. After a bill is presented to him, the President shall declare either that he assents to the Bill, or that he withholds his assent from it. As a third option, he can return a bill to the Parliament, if it is not a money bill or a constitutional amendment bill, for reconsideration. When, after reconsideration, the bill is passed and presented to the President, with or without amendments, the President cannot withhold his assent from it."
+}

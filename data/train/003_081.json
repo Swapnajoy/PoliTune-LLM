@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 81,
+  "type": "statements_correctness",
+  "input": "Govt. decided to add four new tribes, Abuj Maria, Korba, Hill Korba and Kodaku into the list of scheduled tribes. Which of the following is/are correct in regard to granting the status of scheduled tribe to a tribe? P. President has the authority to include or exclude a tribe from the list of schedule tribes. Q. The criterion for a community to be recognized as scheduled tribe is not spelled out in the constitution Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to article 342 of the constitution it is the parliament, which can decide on the inclusion and exclusion of a tribe into the list of schedule tribe. The President may with respect to any State or Union territory, and where it is a State, after consultation with the Governor thereof, by public notification, specify the tribes or tribal communities or parts of or groups within tribes or tribal communities which shall for the purposes of this Constitution be deemed to be Scheduled Tribes in relation to that State or Union territory, as the case may be."
+}

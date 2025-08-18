@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 110,
+  "type": "statements_correctness",
+  "input": "Which of the following statements are correct regarding Joint Session of the Houses of the Parliament in India? P. It is an enabling provision, empowering the President to take steps for resolving deadlock between the two Houses. Q. It is not obligatory upon the President to summon the Houses to meet in a join sitting. R. It is being notified by the President. S. It is frequently resorted to establish the supremacy of the Lok Sabha. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "P, Q and R",
+    "C": "Q and R",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 108 of the Constitution empowers the President to summon a joint session of both houses “for the purpose of deliberating and voting on the Bill”. In India, if a bill has been rejected by any house of the parliament and if more than six months have elapsed, the President may summon a joint session for purpose of passing the bill. If at the joint sitting the Bill is passed with or without amendments with a majority of total number of members of the two Houses present and voting, it shall be deemed to be passed by both the Houses. It is not frequently restored to establish the supremacy of the Lok Sabha."
+}

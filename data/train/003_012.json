@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 12,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. There was a special provision for the Anglo-Indian community in certain services. Q. The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was passed in 1955. R. The Untouchability (Offences) Act, was renamed as the Protection of Civil Rights Act. Which of the statements given above are correct ?",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P and Q",
+    "C": "Q and R",
+    "D": "P and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Scheduled Castes and Tribes (Prevention of Atrocities) Act, 1989 an Act of the Parliament of India enacted to prevent atrocities against scheduled castes and scheduled tribes To, further strengthen the constitutional provision in Article 15 and Article 17, the parliament of India enacted the Untouchability (offences) Act in 1955. This act was further amended and renamed in 1976 as Protection of Civil Rights Act, 1955."
+}

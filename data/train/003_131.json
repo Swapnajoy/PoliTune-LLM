@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 131,
+  "type": "mcq_single",
+  "input": "Which of the following may be considered a Pressure Group?",
+  "options": {
+    "A": "Members of the Lok Sabha",
+    "B": "Member of a Panchayat",
+    "C": "Members of the cabinet",
+    "D": "Members of a trade union"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Members of a Trade Union may be considered a pressure Group. A pressure group can be described as an organised group that does not put up candidates for election, but seeks to influence government policy or legislation."
+}

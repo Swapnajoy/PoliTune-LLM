@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 346,
+  "type": "statements_correctness",
+  "input": "Which of the following statements with regard to Inter-State Council is/are correct? P. It was established under the provisions of the Constitution of India. Q. The Council is a recommendatory body. R. There is a standing committee of the Council under the Chairmanship of the Prime Minister of India to process matters for consideration of the Council. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Both P and R",
+    "B": "Only Q",
+    "C": "P and Q",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Inter-State Council was established under Article 263 of the Constitution of India through a Presidential Order dated 28 May 1990. As the article 263 makes it clear that the Inter-State Council is not a permanent constitutional body for coordination between the States of the Union. It can be established ‘at any time’ if it appears to the President that the public interests would be served by the establishment of such a Council. The Council is a recommendatory body. The Council shall consist of Prime Minister (Chairman), Chief Ministers of all States and union territories (Member), Administrators (UT) and Six Ministers of Cabinet rank to be nominated by the Prime Minister (Member).This is not a standing committee."
+}

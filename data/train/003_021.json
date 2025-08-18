@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 21,
+  "type": "mcq_single",
+  "input": "In which house is the presiding officer not a member of that house?",
+  "options": {
+    "A": "Lok Sabha",
+    "B": "Rajya Sabha",
+    "C": "Vidhan-Sabha",
+    "D": "Vidhan parishad"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Vice-President of India is ex-officio Chairman of Rajya Sabha."
+}

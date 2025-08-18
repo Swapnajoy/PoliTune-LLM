@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 324,
+  "type": "mcq_single",
+  "input": "An emergency under Article 352 of the Constitution of India can be declared only during:",
+  "options": {
+    "A": "War, external aggression or internal disturbance.",
+    "B": "War, external aggression or armed rebellion.",
+    "C": "Failure of Constitutional Machinery in the State.",
+    "D": "Financial instability in the country."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "National emergency under article 352, emergency can be declared on the basis of external aggression or armed rebellion in the whole of India or a part of its territory. Such an emergency was declared in India in 1962 (Indo-China war), 1971 (Indo-Pakistan war), and 1975 (declared by Indira Gandhi)."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 58,
+  "type": "mcq_single",
+  "input": "Which writ is issued by the High court to the lower courts to stop legal action?",
+  "options": {
+    "A": "Habeas Corpus",
+    "B": "Prohibition",
+    "C": "Quo Warranto",
+    "D": "Certiorari"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Prohibition writ is issued by the high court to the lower courts to stop legal action. A writ of prohibition is a writ directing a subordinate to stop doing something the law prohibits. In practice, the court directs the clerk to issue the writ, and directs the Sheriff to serve it on the subordinate, and the clerk prepares the writ and gives it to the Sheriff, who serves it."
+}

@@ -1,0 +1,19 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 8,
+  "type": "mcq_single",
+  "input": "Which one of the following states started the Panchayati Raj institution soon after the 73rd Constitutional Amendment Act was passed?",
+  "options": {
+    "A": "Karnataka",
+    "B": "Bihar",
+    "C": "West Bengal (d) orissa"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C"
+  ],
+  "answer": "A",
+  "explanation": "Some states like Kerala, Karnataka, Sikkim, West Bengal, Rajasthan, Tamil Nadu, Madya Pradesh etc. have taken good steps in devolution of Power, authority and responsibilities to the Panchayats, other states like Goa, Arunachal Pradesh and Jharkhand have done little in devolving Powers to the Panchayats as provided under Article 243-G of the Constitution."
+}

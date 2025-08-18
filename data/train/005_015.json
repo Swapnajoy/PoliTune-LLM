@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 15,
+  "type": "mcq_single",
+  "input": "The decision to conduct Panchayat Elections is taken by which of the following?",
+  "options": {
+    "A": "The Central Government",
+    "B": "The State Government",
+    "C": "The District Judge",
+    "D": "The Election Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The State Election Commissions constituted under the Constitution (Seventy-third and Seventy-fourth) Amendments Act, 1992 for each State / Union Territory are vested with the powers of conduct of elections to the Corporations, Muncipalities, Zilla Parishads, District Panchayats, Panchayat Samitis, Gram Panchayats and other local bodies. They are independent of the Election Commission of India."
+}

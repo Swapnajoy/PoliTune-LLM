@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 137,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are not central feature(s) of Article 343 of the Constitution of India? (CDS 2015-II) P. Hindi in Devanagari Script shall be the national language of the Union. Q. The official language of the Union shall be Hindi in Devanagari Script. R. English language shall continue to be used for official purposes within States. S. If two or more States agree, Hindi language should be the official language of communication between the States. Select the correct answer using the code given below.",
+  "options": {
+    "A": "P, R and S",
+    "B": "Q and S only",
+    "C": "Q, R and S",
+    "D": "Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 343 of the constitution of India states that: • Hindi in Devanagari script shall be the national language of the Union. • English language shall continue to be used for official purpose within states. • If two or more than two states agree, Hindi language should be the official language of communication between the states."
+}

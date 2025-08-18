@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 58,
+  "type": "mcq_single",
+  "input": "Which one of the following statements is correct?",
+  "options": {
+    "A": "Only the Rajya Sabha and not the Lok Sabha can have nominated members",
+    "B": "There is a constitutional provision for nominating two members belonging to the Anglo-Indian Community to the Rajya Sabha.",
+    "C": "There is no constitutional bar for nominated members to be appointed as a Union Minister",
+    "D": "A nominated member can vote both in the Presidential and Vice Presidential elections"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "There is no bar on appointment of a person from outside the legislature as Minister, but he cannot continue as Minister for more than 6 months unless he secures a seat in either house of the parliament (by election or nomination) in the meantime ."
+}

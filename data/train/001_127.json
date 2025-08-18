@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 127,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. The Eleventh Schedule was inserted in the Constitution of India by the Constitution (Seventy Third Amendment) Act, 1992. Q. The Eleventh Schedule of the Constitution of India corresponds to Article 243-W of the Constitution of India. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

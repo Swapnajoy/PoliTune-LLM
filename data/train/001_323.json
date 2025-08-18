@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 323,
+  "type": "mcq_single",
+  "input": "While a proclamation of emergency is in operation the duration of the Lok Sabha can be extended for a period",
+  "options": {
+    "A": "not exceeding three months",
+    "B": "not exceedng nine-months",
+    "C": "of one year at a time",
+    "D": "of two years at a time"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "While a proclamation of emergency is in operation, this period may be extended by Parliament by law for a period not exceeding one year at a time.Under Article 352 the president can declare a national emergency when the security of India or part of it is threatened by war or external aggression or armed rebellion."
+}

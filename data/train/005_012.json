@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 12,
+  "type": "mcq_single",
+  "input": "Three-tier system of Panchayati Raj consists of",
+  "options": {
+    "A": "Gram Panchayat, Panchayat Samiti, Block Samiti",
+    "B": "Gram Panchayat, Block Samiti, Zila Parishad",
+    "C": "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+    "D": "Gram Panchayat, Zila Parishad, Block Samiti"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Panchayati Raj is a system of governance in which are the basic unit of administrations . It has 3 levels: Gram panchayat (village level), Mandal Parishad or block samiti or panchayat samiti (block level) and Zila parishad (district level)."
+}

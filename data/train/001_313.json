@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 313,
+  "type": "mcq_single",
+  "input": "Which principle among the ‘following was added to the Directive Principles of State Policy by the 42nd Amendment to the Constitution?",
+  "options": {
+    "A": "Equal pay for equal work for both men and women",
+    "B": "Participation of workers in the management of industries",
+    "C": "Right to work, education and public assistance",
+    "D": "Securing living wage and human conditions of work to workers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The 42nd Amendment Act of 1976 added four new Directive Principles to the original list. They require the State: 1. To secure opportunities for healthy development of children (Article 39). 2. To promote equal justice and to provide free legal aid to the poor (Article 39 A). 3. To take steps to secure the participation of workers in the management of industries (Article 43 A). 4. To protect and improve the environment and to safeguard forests and wild life (Article 48 A)."
+}

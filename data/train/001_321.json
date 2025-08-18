@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 321,
+  "type": "mcq_single",
+  "input": "Which one of the following is the time limit for the ratification of an emergency period by parliament?",
+  "options": {
+    "A": "14 days",
+    "B": "1 month",
+    "C": "3 months",
+    "D": "6 months"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The time limit for the ratification of an emergency period by Parliament is 1 month."
+}

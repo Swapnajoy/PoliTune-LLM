@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 16,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding the composition of the Constituent Assembly: P. The representatives were to be elected from the four constituents – Hindu, Muslim, Sikh and Christian. Q. The chairman of the Union Constitution Committee was Sardar Vallabhbhai Patel. R. The total strength of the Constituent Assembly was 389. S. The Drafting Committee under the chairmanship of Dr. B. R. Ambedkar consisted of eight members. Which of these is/are correct?",
+  "options": {
+    "A": "P, Q, R and S",
+    "B": "P, Q and S",
+    "C": "R only",
+    "D": "P only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Seats allocated to each British province were to be decided among the three principal communities Muslim, Sikhs and general (all except Muslims and Sikhs), in proportion to their population. The chairman of the Union constitution committee was Jawaharlal Nehru. The total strength of constituent Assembly was to be 389. Drafting Committee was consisted of seven members."
+}

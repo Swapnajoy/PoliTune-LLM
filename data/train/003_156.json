@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 156,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a department in the Ministry of Human Resource Development?",
+  "options": {
+    "A": "Department of Elementary Education and Literacy",
+    "B": "Department of Secondary Education and Higher Education",
+    "C": "Department of Technical Education",
+    "D": "Department of women and child development"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

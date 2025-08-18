@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 312,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are not related to fundamental duties? P. To cherish and follow the noble ideals which inspired our national struggle for freedom Q. To value and preserve the rich heritage of our composite culture R. To promote the educational and economic interests of the weaker sections of the people, especially the Scheduled Castes and Scheduled Tribes. S. To protect all monuments of historic interest and national importance. Select the correct answer using the code given below.",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "R and S",
+    "D": "S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 51(a), Part IV(a) of the Indian Constitution, specifies the list of fundamental duties of the citizens. According to it “to promote the educational and economic interests of the weaker sections of the people, especially the Scheduled castes and Scheduled Tribes” and “To protect all monuments of historic interests and national importance” are not fundamental duties."
+}

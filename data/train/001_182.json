@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 182,
+  "type": "mcq_single",
+  "input": "Censorship of the press is –",
+  "options": {
+    "A": "Prohibited by the Constitution",
+    "B": "Judged by test of reasonableness",
+    "C": "Restriction on freedom of the press mentioned in Article 19",
+    "D": "Specified in Article 31 of the Indian Constitution The Preamble"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Censorship of the press is Judged by test of reasonableness."
+}

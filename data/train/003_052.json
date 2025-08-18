@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 52,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. Ministers are liable for the official acts done by the President or the governor on their advice. Q. The ministers can be sued for crimes as well as torts in ordinary courts like common citizen. Which of the following statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The ministers are not liable for the official acts done by the president and the governors on their advice as the courts are debarred from inquiring into such cases."
+}

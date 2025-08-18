@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 114,
+  "type": "mcq_single",
+  "input": "Joint sittings of the two Houses of Indian Parliament are held to",
+  "options": {
+    "A": "elect the President of India",
+    "B": "elect the Vice President of India",
+    "C": "adopt a Constitution Amendment Bill",
+    "D": "consider and pass a Bill on which the two Houses disagree"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "In case of a deadlock due to disagreement between the two Houses on a Bill, an extraordinary situation arises which is resolved by both the Houses sitting together.which is resolved by both the Houses sitting together.The Constitution empowers the President to summon a ‘joint sitting’ of both the Houses. Article 108 of the constitution deals with the Joint sitting of both Houses."
+}

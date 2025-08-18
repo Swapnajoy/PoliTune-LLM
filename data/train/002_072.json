@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 72,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about the attorney general of India: P. He is appointed by the President of India Q. He must have the same qualifications as required for a judge of the Supreme Court R. He must be a member of either House of Parliament S. He can be removed by impeachment by Parliament Which of these statements are correct?",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "Q, R and S",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 76 of the constitution says about Attorney General of India. The president shall appoint a person who is qualified the same as a judge of the Supreme Court."
+}

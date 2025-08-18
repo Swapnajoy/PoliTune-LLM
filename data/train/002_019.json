@@ -1,0 +1,19 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 19,
+  "type": "statements_correctness",
+  "input": "The provision of the Act relating to the duties of the Comptroller and Auditor-General of India are to audit and report on all the expenditure form which of the following? P. Consolidated Fund of India Q. Consolidated Fund of each State R. Contingency Fund of India S. Public Account of India Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q, R and S",
+    "B": "Q, R and S only",
+    "D": "P, R and S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "CAG audits the accounts related to all expenditure from the Consolidated Fund, Consolidated Fund of each state, Contingency Fund of India and Public Accounts of India."
+}

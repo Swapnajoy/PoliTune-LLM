@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 67,
+  "type": "statements_correctness",
+  "input": "Which of the following statements are correct about Indian Government? P. Rajya Sabha represents the local interests of the States. Q. A member of Rajya Sabha must be a resident of the State from which he is elected. R. Number of seats allotted to a State has to be proportionate to its population. S. The term of a member of Rajya Sabha is same as that of Senator in the US. Codes:",
+  "options": {
+    "A": "Q, R and S",
+    "B": "P, Q and R",
+    "C": "P, R and S",
+    "D": "P and Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

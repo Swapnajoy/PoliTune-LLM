@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 208,
+  "type": "statements_correctness",
+  "input": "According to the Citizenship Act, 1955, by which of the following ways can a person lose citizenship of India? P. By Renunciation Q. By Termination R. By Deprivation Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "P, Q and R",
+    "D": "P and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Loss of Citizenship: - Renunciation: It is a voluntary act by which a person, after requiring the citizenship of another country, gives up his Indian citizenship. Termination Takes place by operation of law when an Indian citizen voluntarily acquires the citizenship of another country. He automatically ceases to be an Indian citizen. Deprivation It is a compulsory termination of the citizenship of India obtained by registration or Naturalisation, by the Government of India, on charges of using fraudulent means to acquire citizenship."
+}

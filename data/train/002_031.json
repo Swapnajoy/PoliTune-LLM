@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 31,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The first Public Service Commission in India was set up in the year 1926, on the recommendation of the Lee Commission on the Superior Civil Services in India. Q. The Government of India Act, 1935, provided for setting up of public service commissions at both the federal and provincial levels. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The first Public Service Commission was set up on October 1st, 1926. However, its limited advisory functions failed to satisfy the people’s aspirations and the continued stress on this aspect by the leaders of our freedom movement resulted in the setting up of the Federal Public Service Commission under the Government of India Act 1935. Under this Act, for the first time, provision was also made for the formation of Public Service Commissions at the provincial level."
+}

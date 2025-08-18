@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 151,
+  "type": "mcq_single",
+  "input": "Article 368 of the Constitution of India deals with",
+  "options": {
+    "A": "the powers of the Parliament of India to amend the Constitution",
+    "B": "financial emergency",
+    "C": "reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha",
+    "D": "Official Language of the Union of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Article 368 deals with power of Parliament to amend the Constitution and its procedure."
+}

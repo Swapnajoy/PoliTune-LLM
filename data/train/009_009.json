@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 9,
+  "type": "statements_correctness",
+  "input": "Consider the following events : P. Fourth general elections in India Q. Formation of Haryana state R. Mysore named as Karnataka state S. Meghalaya and Tripura become full states Which one of the following is the correct chronological order of the above?",
+  "options": {
+    "A": "Q-P-S-R",
+    "B": "S-R-Q-P",
+    "C": "Q-R-S-P",
+    "D": "S-P-Q-R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Haryana state - Act 1966 Fourth Lok Sabha - 16th March 1967 Manipur Tripura and Meghalaya- Act, 1971 Karnataka - Act, 1973"
+}

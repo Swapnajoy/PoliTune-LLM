@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 285,
+  "type": "mcq_single",
+  "input": "Who of the following Chief Justice of India acted as the President of India also?",
+  "options": {
+    "A": "Justice M. Hidayatullah",
+    "B": "Justice P.N. Bhagwati",
+    "C": "Justice Mehar Chand Mahajan",
+    "D": "Justice B.K. Mukherjee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

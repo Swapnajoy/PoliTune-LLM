@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 31,
+  "type": "mcq_single",
+  "input": "Who is competent to dissolve the Rajya Sabha?",
+  "options": {
+    "A": "The Chairman of Rajya Sabha",
+    "B": "The President",
+    "C": "The joint session of Parliament",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Rajya sabha is not a subject of dissolution."
+}

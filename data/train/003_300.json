@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 300,
+  "type": "mcq_single",
+  "input": "The Federal court of India was established in",
+  "options": {
+    "A": "1947",
+    "B": "1946",
+    "C": "1935",
+    "D": "1937"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

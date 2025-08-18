@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 255,
+  "type": "mcq_single",
+  "input": "Which one of the following rights conferred by the Constitution of India is also available to non-citizens?",
+  "options": {
+    "A": "Freedom of speech, assembly and form association",
+    "B": "Freedom to move, reside and settle in any part of the territory of India",
+    "C": "Freedom to acquire property or to carry on any occupation, trade or business",
+    "D": "Right to constitutional remedies"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Freedom to acquire property or to carry on any occupation trade or business is also available to non citizens."
+}

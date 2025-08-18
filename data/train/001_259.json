@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 259,
+  "type": "statements_correctness",
+  "input": "Which of the following statements regarding writ of certiorari is/are correct? P. There should be court, tribunal or an officer having legal authority to determine the questions of deciding Fundamental Rights with a duty to act judicially. Q. Writ of certiorari is available during the tendency of proceedings before a subordinate court. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only I",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "If a lower court or tribunal gives its decision but based on wrong jurisdiction the affected party can move this writ to a higher court like supreme court or High Court. The writ of certiorari issued to subordinate judicial or quasi judicial body when they act. · Without or in excess of jurisdiction · In violation of the prescribed procedure · In contravention of principles of natural justice · Resulting in an error of law apparent on the face of record."
+}

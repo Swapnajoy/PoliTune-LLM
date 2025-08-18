@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 200,
+  "type": "statements_correctness",
+  "input": "Which of the following bodies are headed by the Prime Minister ? P. National Integration Council Q. National Water Resources Council R. National Development Council S. Inter-State Council T. Zonal Council Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, R, S and T",
+    "B": "R, S and T",
+    "C": "P, Q, R and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

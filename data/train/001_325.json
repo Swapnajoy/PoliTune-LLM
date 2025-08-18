@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 325,
+  "type": "mcq_single",
+  "input": "The President of India can issue proclamation of Emergency",
+  "options": {
+    "A": "on the advice of the Prime Minister",
+    "B": "on the advice of the Council of Ministers",
+    "C": "in his own discretion",
+    "D": "when the decision of the Union Cabinet for the issue of such proclamation has been communicated to him in writing"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 352 of the Indian Constitution mentions the National Emergency in India can be declared by . Tthe President can declare such an emergency only on the basis of a written request by the Council of Ministers headed by the Prime Minister."
+}

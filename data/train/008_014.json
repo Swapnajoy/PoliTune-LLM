@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "Which one of the following has been recognised as National Party in 2016?",
+  "options": {
+    "A": "INLD",
+    "B": "Akali Dal",
+    "C": "TMC",
+    "D": "AIADMK"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The All India Trinamool Congress is an Indian political party based in West Bengal. It was founded on 1st January 1998 and has been recognised as National Party in 2016."
+}

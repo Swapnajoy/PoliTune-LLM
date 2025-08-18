@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 171,
+  "type": "mcq_single",
+  "input": "In India, the Prime Minister remains in office so long as he enjoys the",
+  "options": {
+    "A": "Support of armed forces",
+    "B": "Confidence of Rajya Sabha",
+    "C": "Confidence of Lok Sabha",
+    "D": "Support of the people"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

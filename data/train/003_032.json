@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 32,
+  "type": "mcq_single",
+  "input": "The speaker’s vote in the Lok Sabha is called",
+  "options": {
+    "A": "Casting vote",
+    "B": "Sound vote",
+    "C": "Direct vote",
+    "D": "Indirect vote"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The speaker’s vote in the Lok Sabha is called casting vote. A casting vote is a vote given to the presiding officer of a council or legislative body to resolve a deadlock and which can be exercised only when such a deadlock exists."
+}

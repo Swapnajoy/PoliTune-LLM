@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 21,
+  "type": "statements_correctness",
+  "input": "Consider the following and select correct answer by using codes given below P. The Governor shall take oath or affirmation before entering upon his office. Q. The format of oath or affirmation is given in the Third schedule of Indian Constitution. R. The Governor shall make and subscribe the oath or affirmation in the presence of Chief Justice of the High Court or in his absence senior most judge of that Court. S. The process of oath and affirmation is given in the Article 159 of Indian Constitution. Codes:",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P, R and S",
+    "C": "P, Q and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The format of the oath and affirmation of the governor is also mentioned under the Article 159 of the Indian Constitution."
+}

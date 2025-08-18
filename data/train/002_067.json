@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 67,
+  "type": "mcq_single",
+  "input": "Who is the first Law Officer of the Government of India?",
+  "options": {
+    "A": "Chief Justice of India",
+    "B": "Union Law Minister",
+    "C": "Attorney General of India",
+    "D": "Law Secretary"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Attorney General of India is the first law officer of the Government of India."
+}

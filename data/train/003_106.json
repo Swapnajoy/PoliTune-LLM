@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 106,
+  "type": "statements_correctness",
+  "input": "There are provisions in the Constitution of India which empower the Parliament to modify or annul the operation of certain provisions of the Constitution without actually amending them. They include P. any law made under Article 2 (relating to admission or establishment of new states) Q. any law made under Article 3 (relating to formation of new states) R. amendment of First Schedule and Fourth Schedule Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "Q and R",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 2- (Admission or establishment of new States) Parliament may by law admit into the Union, or establish new States on such terms and conditions as it thinks fit. Article 3- Formation of new States and alteration of areas, boundaries or names of existing States. Amendment in the First and Fourth schedule can be done through constitution amendment bill."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 169,
+  "type": "mcq_single",
+  "input": "How many times can the President of India seek re-election to his post?",
+  "options": {
+    "A": "Once",
+    "B": "2 times",
+    "C": "3 times",
+    "D": "Any numbers of time"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

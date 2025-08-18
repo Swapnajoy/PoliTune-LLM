@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 84,
+  "type": "mcq_single",
+  "input": "How many subjects are kept under the jurisdiction of panchayats in the eleven schedule of the Constitution?",
+  "options": {
+    "A": "27",
+    "B": "28",
+    "C": "29",
+    "D": "30"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "There are 29 subjects kept under the jurisdiction of Panchayats in the XI schedule of the constitution."
+}

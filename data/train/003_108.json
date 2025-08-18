@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 108,
+  "type": "statements_correctness",
+  "input": "The legislative power of the Parliament includes making laws P. on matters not enumerated in the Concurrent List and State List. Q. in respect of entries in the State List if two or more State Legislatures consider it desirable R. for implementing any treaty agreement or convention with any country even if it falls in the State List. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only Q",
+    "B": "P and Q",
+    "C": "P and R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 248- Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List. Article 252- If it appears to the Legislatures of two or more States to be desirable that any of the matters with respect to which Parliament has no power to make laws for the States except as provided in Articles 249 and 250 should be regulated in such States by Parliament by law. Article 253- Legislation for giving effect to international agreements notwithstanding anything in the foregoing provisions of this Chapter, Parliament has power to make any law for the whole or any part of the territory of India for implementing any treaty, agreement or convention with any other country or countries or any decision made at any international conference, association or other body."
+}

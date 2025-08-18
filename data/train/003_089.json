@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 89,
+  "type": "mcq_single",
+  "input": "Who among the following was the first Speaker of the Lok Sabha?",
+  "options": {
+    "A": "M A Ayyangar",
+    "B": "G V Mavalankar",
+    "C": "Sardar Hukam Singh",
+    "D": "N Sanjiva Reddy"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Ganesh Vasudev Mavalankar became the Speaker of the Provisional Parliament on 26 November 1949 and continued to occupy the office till the 1st Lok Sabha that was constituted in 1952."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 68,
+  "type": "mcq_single",
+  "input": "Who among the following holds his office at the pleasure of the President?",
+  "options": {
+    "A": "Chairman of the Union Public Service Commission",
+    "B": "Attorney General of India",
+    "C": "Speaker of the Lok Sabha",
+    "D": "Comptroller and Auditor General of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The term of Office of the AG is not fixed by the constitution. Further the Constitution does not contain the procedure and grounds for his removal. He holds office during the pleasure of the president."
+}

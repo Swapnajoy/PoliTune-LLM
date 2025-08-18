@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 45,
+  "type": "mcq_single",
+  "input": "Who is authorized to transfer the judges of one High Court to another High Court?",
+  "options": {
+    "A": "The President",
+    "B": "The Chief Justice of India",
+    "C": "A collegium of judges of the Supreme Court.",
+    "D": "The Law Minister"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The President may, after consultation with the Chief Justice of India, transfer a judge from one high court to any other high court. When a judge has been or is transferred, he shall, during the period he serves, after the commencement of the Constitution (Fifteenth Amendment) Act, 1963, as a Judge of the other High Court."
+}

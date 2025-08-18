@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 113,
+  "type": "mcq_single",
+  "input": "Which of the following statements correctly describes the fourth schedule of the Constitution of India?",
+  "options": {
+    "A": "It lists the distribution of powers between the Union and the States.",
+    "B": "It contains the language listed in the constitution.",
+    "C": "It contains the provisions regarding the administration of tribal areas.",
+    "D": "It allocates seats in the council of states."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The fourth schedule of the constitution is about allocation of seats in the council of states. Fourth Schedule (Articles 4(1) and 80(2)) details the allocation of seats in the Rajya Sabha (the upper house of Parliament) per State or Union Territory."
+}

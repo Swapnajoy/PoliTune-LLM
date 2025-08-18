@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 318,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. No Proclamation of Emergency can be made by the President of India unless the Union Ministers of Cabinet rank, headed by the Prime Minister, recommended to him, in writing, that such a Proclamation should be issued. Q. The President of India must issue a Proclamation of Revocation of Emergency any time that the Lok Sabha passes a resolution disapproving the proclamation or its continuance. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "According to Article 352, the President shall not issue a Proclamation under clause (1) or a Proclamation varying such Proclamation unless the decision of the Union Cabinet (that is to say, the Council consisting of the Prime Minister and other Ministers of Cabinet rank appointed under article 75) that such a Proclamation issued has been communicated to him in writing. Every Proclamation issued under this article shall be laid before each House of Parliament and shall, except where it is a Proclamation revoking a previous Proclamation, cease to operate at the expiration of one month unless before the expiration of that period it has been approved by resolutions of both Houses of Parliament: Provided that if any such Proclamation (not being a Proclamation revoking a previous Proclamation) is issued at a time when the House of the People has been dissolved, or the dissolution of the House of the People takes place during the period of one month referred to in this clause."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 333,
+  "type": "mcq_single",
+  "input": "The power to enlarge the jurisdiction of the Supreme Court of India with respect to any matter included in the Union list of legislative powers rests with:",
+  "options": {
+    "A": "The President of India",
+    "B": "The Chief Justice of India",
+    "C": "The Parliament",
+    "D": "The Union Ministry of Law"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

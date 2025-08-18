@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 360,
+  "type": "statements_correctness",
+  "input": "Consider the following statements – P. The oath of the Judges of High Court is administered by the Governor of the State. Q. The oath of the judges of Supreme Court is administered by the President of India. Which of the above statements(s) is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

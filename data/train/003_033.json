@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 33,
+  "type": "mcq_single",
+  "input": "The chairman of the Lok Sabha is designated as",
+  "options": {
+    "A": "Chairman",
+    "B": "Speaker",
+    "C": "Vice President",
+    "D": "President"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Chairman of Lok sabha is designated as speaker."
+}

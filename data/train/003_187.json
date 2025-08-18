@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 187,
+  "type": "mcq_single",
+  "input": "Who among the following have held the office of the Vice President of India? (1) Mohd. Hidayatullah (2) Fakhruddin Ali Ahmed (3) Neelam Sanjiva Reddy (4) Shankar Dayal Sharma Select the correct answer using the code given below:",
+  "options": {
+    "A": "1, 2, 3 and 4",
+    "B": "1 and 4 only",
+    "C": "2 and 3 only",
+    "D": "3 and 4 only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 17,
+  "type": "mcq_single",
+  "input": "The main purpose of Panchayati Raj is",
+  "options": {
+    "A": "To create employment",
+    "B": "To increase agricultural production",
+    "C": "To make people politically conscious",
+    "D": "To make people participate in development administration"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The main aim of Panchayat raj system is to settle the local problems locally and to make the people politically conscious."
+}

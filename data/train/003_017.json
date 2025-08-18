@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 17,
+  "type": "mcq_single",
+  "input": "How many members are nominated by the president in the Rajya Sabha",
+  "options": {
+    "A": "2",
+    "B": "10",
+    "C": "12",
+    "D": "15"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "There are 12 members nominated by the president in the Rajya Sabha. The Rajya Sabha (RS) or Council of States is the upper house of the Parliament of India. Membership is limited to 250 members, 12 of whom are nominated by the President of India for their contributions to art, literature, science, and social services. The remainder of the body is elected by the state and territorial legislatures."
+}

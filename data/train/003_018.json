@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 18,
+  "type": "mcq_single",
+  "input": "A bill presented in Parliament becomes an Act after",
+  "options": {
+    "A": "It is passed by both the Houses.",
+    "B": "The president has given his assent",
+    "C": "The Prime Minister has signed it",
+    "D": "The Supreme Court has declared it to be within the competence of the Union Parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Under article 53 power of president mentioned. Any bill presented in parliament becomes an act after president’s assent"
+}

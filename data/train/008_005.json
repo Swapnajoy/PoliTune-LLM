@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 5,
+  "type": "mcq_single",
+  "input": "Who is the founder of the Bahujan Samaj Party (BSP)?",
+  "options": {
+    "A": "Jyotiba Phule",
+    "B": "Kanshi Ram",
+    "C": "B.R. Ambedkar",
+    "D": "Sahu Maharaj"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "BSP was founded in 1983 by Kanshi Ram. Due to his deteriorating health in the 1990s, former school teacher Mayawati became the party’s leader."
+}

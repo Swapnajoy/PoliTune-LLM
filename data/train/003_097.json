@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 97,
+  "type": "mcq_single",
+  "input": "In the Rajya Sabha, the states have been given seats",
+  "options": {
+    "A": "in accordance with their population",
+    "B": "equally",
+    "C": "on the basis of population and economic position",
+    "D": "on the basis of present economic status"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In the Rajya Sabha the states have been given seats on the basis of population and economic position."
+}

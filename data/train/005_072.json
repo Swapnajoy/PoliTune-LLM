@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 72,
+  "type": "mcq_single",
+  "input": "The members of the Panchayat Samiti are",
+  "options": {
+    "A": "nominated by the Block Development officer",
+    "B": "nominated by the Zila Panchayat Chairman",
+    "C": "directly elected by the people",
+    "D": "indirectly electred by the members of the Village Panchayat"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The voters of the State Legislative Assembly of the region directly elect members of the Panchayat Samiti. All the Pradhans of the Gram Panchayat within the block area are also the members of Panchayat Samiti. The elected members of the Lok Sabha and the State Legislature belonging to the block or any part of it or the members of the Rajya Sabha residing in that block-all are ex-officio members of the Panchayat Samiti."
+}

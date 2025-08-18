@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 141,
+  "type": "mcq_single",
+  "input": "Sitting of Lok Sabha can be terminated by ........ of the house.",
+  "options": {
+    "A": "Adjournment since die",
+    "B": "Prorogation",
+    "C": "Dissolution",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Sitting of Lok Sabha can be terminated by Adjournment Sine die, prorogation, dissolution of the house."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 288,
+  "type": "statements_correctness",
+  "input": "Directive Principles of State Policy direct the State for which of the following? P. To secure a social order of the promotion of welfare of the people Q. To separate judiciary from executive R. To improve public health Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "P and R",
+    "D": "P, Q, and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

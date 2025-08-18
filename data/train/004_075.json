@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 75,
+  "type": "statements_correctness",
+  "input": "Which of the following are the main jurisdictions of the High Court of a State ? P. Original jurisdiction Q. Appellate jurisdiction R. Supervisory jurisdiction S. Advisory jurisdiction Choose the correct answer from the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P, R and S",
+    "D": "P, Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "At present a high court enjoys the following jurisdiction and powers: • Original Jurisdiction • Appellate Jurisdiction • Supervisory Jurisdiction • Control over subordinate courts • A court of record • Power of judicial review"
+}

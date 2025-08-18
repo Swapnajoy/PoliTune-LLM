@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 44,
+  "type": "mcq_single",
+  "input": "Who was the first President of India to make use of ‘Pocket Veto’?",
+  "options": {
+    "A": "Zakir Hussain",
+    "B": "Sanjeeva Reddy",
+    "C": "R. Venkatraman",
+    "D": "Gyani Zail Singh Finance Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "President Zail Singh introduced ‘Pocket veto’ in India, when he kept on pending on his table the controversial Postal Bill in 1986,. Even as the Rajiv Gandhi government spared no efforts to bring the law into force, opposition leaders called on Zail Singh to withhold, his assent."
+}

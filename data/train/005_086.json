@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 86,
+  "type": "mcq_single",
+  "input": "Which among the following in India have been referred to as “Glorified Municipalities” by critics?",
+  "options": {
+    "A": "Nagar Nighams",
+    "B": "Union Territories",
+    "C": "Panchayats",
+    "D": "States"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The critics slammed the Centre for making attempts to “weaken the States with too much interference, reducing them to the status of glorified municipal corporations.”"
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 7,
+  "type": "mcq_single",
+  "input": "The functions of which of the following bodies in India are limited to advisory nature only?",
+  "options": {
+    "A": "Legislative Council",
+    "B": "Rajya Sabha",
+    "C": "Lok Sabha",
+    "D": "Legislative Assembly"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Provincial Legislative Councils established were mere advisory bodies by means of which Government obtained advice and assistance. The Provincial Legislative Council could not interfere with the laws passed by the Central Legislature."
+}

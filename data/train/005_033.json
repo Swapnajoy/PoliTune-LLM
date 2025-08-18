@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 33,
+  "type": "mcq_single",
+  "input": "Which one of the following models was suggested by the Ashok Mehta Committee for the Panchayati Raj in India?",
+  "options": {
+    "A": "Three-tier model",
+    "B": "Mandal Panchayat model",
+    "C": "Two-tier model",
+    "D": "Gram Panchayat model"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Two-tier model was suggested by the Ashok Mehta committee for the Panchayati Raj in India. The 3-tier system of Panchayati Raj should be replaced by the 2-tier system:"
+}

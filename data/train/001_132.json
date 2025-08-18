@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 132,
+  "type": "statements_correctness",
+  "input": "Which of the following are correctly matched? P. Article 164 - Appointment of Chief Minister in the State Legislature Q. Article 222- Transfer of High Court Judges R. Article 11- Power of the Parliament to make laws with regard to citizenship",
+  "options": {
+    "A": "Only P",
+    "B": "P and Q",
+    "C": "Q and R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "All the three 1, 2, 3 correctly matched."
+}

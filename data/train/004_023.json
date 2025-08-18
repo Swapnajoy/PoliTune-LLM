@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 23,
+  "type": "statements_correctness",
+  "input": "Consider the following statements with respect to the powers of the Governor of a State : P. The governor can summon, prorogue and dissolve the State Assembly. Q. The Governor can adjourn the sittings of the State Assembly. R. The Governor addresses the first session of the Legislative Assembly after elections. S. The Governor causes to lay the annual budget in the State Assembly. Which of the statements given above are correct ?",
+  "options": {
+    "A": "P and Q",
+    "B": "P, R and S",
+    "C": "Q and R",
+    "D": "Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Governor is a part of the state legislative and can summon, adjourn or prorogue the state legislative. The governor can even dissolve the Vidhan Sabha. At the commencement of the first session after each general election to the Legislative Assembly and at the commencement of the first session of each year the Lieutenant Governor shall address the Legislative Assembly and inform it of the causes of its summons. As per Article 202 of the Constitution of India the Governor of a State shall, cause to be laid before the House or Houses of the Legislature of the State a Statement of the estimated receipts and expenditure of the State for a financial year. This estimated statement of receipt and expenditure for a financial year named in the Constitution as the “Annual Financial Statement” is commonly known as “Budget”."
+}

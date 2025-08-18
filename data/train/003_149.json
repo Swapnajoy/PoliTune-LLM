@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 149,
+  "type": "statements_correctness",
+  "input": "Before entering upon his office the President of India has to make and subscribe to an oath or affirmation. In this oath or affirmation he swears: P. To faithfully execute the office Q. To preserve, protect and defend the constitution and the law R. To devote himself to the service and well-being of the people of India. Which one of the contents of the oath or affirmation given above is correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The President of India in his oath or affirmation swears to faithfully execute the office, to preserve and protect constitution law and to devote himself to the service of the people of India. The President is required to make and subscribe in the presence of the Chief Justice of India (or in his absence, the senior most Judge of the Supreme Court), an oath or affirmation that he/she shall protect, preserve and defend the Constitution."
+}

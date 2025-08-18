@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 81,
+  "type": "mcq_single",
+  "input": "Which of the following states are the first states in india where Integrated Criminal Justice System (ICJS) will be launched?",
+  "options": {
+    "A": "Punjab and Haryana",
+    "B": "Telangana and Andhra Pradesh",
+    "C": "Madhya Pradesh and Chhattisgargh",
+    "D": "Bihar and Jharkhand"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Integrated Criminal Justice is system in which the courts, police stations, Prosecution, forensic Science laboratories and Jails are integrated. Telangana and Andhra Pradesh are the first two states that has chosen the ICJS system."
+}

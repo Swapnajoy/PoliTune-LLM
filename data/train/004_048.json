@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 48,
+  "type": "mcq_single",
+  "input": "In which year was the High Court in Madras established?",
+  "options": {
+    "A": "1862",
+    "B": "1871",
+    "C": "1881",
+    "D": "1891"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Madras High Court established in 1862. It consists of 74 Judges and a chief justice. Sanjay Kishan Kaul is present Chief justice of Madras court."
+}

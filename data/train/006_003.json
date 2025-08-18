@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 3,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The Central Information Commission can order inquiry into any matter if there are reasonable grounds. Q. The Central Information Commission has the power to secure compliance of its decisions from the public authority. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The central Information Commission was established by the central government in 2005. It was constituted through an official Gazette Notification under the provisions of the Right to Information act (2005). Hence, It is not a constitutional body."
+}

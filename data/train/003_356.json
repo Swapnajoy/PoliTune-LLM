@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 356,
+  "type": "mcq_single",
+  "input": "A judge of the Supreme Court may resign his office by written a letter to",
+  "options": {
+    "A": "the Chief Justice",
+    "B": "the President",
+    "C": "the Prime Minister",
+    "D": "the Law Minister"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

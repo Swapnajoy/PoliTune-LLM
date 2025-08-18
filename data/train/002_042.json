@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 42,
+  "type": "mcq_single",
+  "input": "Which of the following is not a Constitutional body?",
+  "options": {
+    "A": "Union Public Service Commission",
+    "B": "State Public Service Commission",
+    "C": "Finance Commission",
+    "D": "Planning Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Planning Commission was an Executive body (created by an Executive order and the rest are constitutional bodies created by the provisions of Constitution). ."
+}

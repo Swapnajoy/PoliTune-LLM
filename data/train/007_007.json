@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 7,
+  "type": "mcq_single",
+  "input": "A college student desires to get elected to the municipal council of his city. The validity of his nomination would depend on the important condition, among others, that?",
+  "options": {
+    "A": "He obtains permission from the principal of his college.",
+    "B": "He is a member of a political party.",
+    "C": "His name figures in the voter’s list.",
+    "D": "He files a declaration owing allegiance to the constitution of India."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The validity of nomination of a person to get elected to the municipal council would depend on the condition that his name should be figured in the voter’s list."
+}

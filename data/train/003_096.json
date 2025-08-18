@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 96,
+  "type": "mcq_single",
+  "input": "Suppose a Legislation was passed by the Parliament imposing certain restrictions on newspapers. These included page ceiling, price and advertisements. The legislation is included in the Ninth Schedule to the Constitution of India. In this context, which one among the following statements is correct?",
+  "options": {
+    "A": "The legislation is invalid as it violates the Freedom of Press",
+    "B": "The legislation is valid by virtue of Article 31 B",
+    "C": "The legislation is invalid as it imposes unreasonable restrictions under Article 19 (2) of the Constitution",
+    "D": "The legislation is valid as the Press is not a citizen under Article 19 of the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 31B of the Constitution of India ensured that any law in the 9th Schedule could not be challenged in courts and Government can rationalize its programme of social engineering by reforming land and agrarian laws. In other words laws under Ninth Schedule are beyond the purview of judicial review even though they violate fundamental rights enshrined under part III of the Constitution. On the one hand considerable power was given to legislature under Article 31B and on the other hand the power of judiciary was curtailed, this is the starting point of tussle between legislature and judiciary."
+}

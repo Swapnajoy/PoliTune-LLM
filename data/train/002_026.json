@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 26,
+  "type": "statements_correctness",
+  "input": "Which of the following statements relating to the comptroller and Auditor General (CAG) of India is/are correct? P. The CAG can attend the sittings of the Committee on Public Accounts. Q. The CAG can attend the sittings of Lok Sabha and Rajya Sabha. R. The jurisdiction of CAG is co-extensive with powers of the Union Governement. Select the correct answer using the code given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q and R only",
+    "C": "P and Q only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

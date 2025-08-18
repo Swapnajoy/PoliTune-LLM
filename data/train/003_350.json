@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 350,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding e-courts, launched recently in India P. They will facilitate hearing of cases via video conferencing. Q. They will follow the same procedures that are laid out for the bench for hearing appeals in an open court. Which of the statement(s) given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

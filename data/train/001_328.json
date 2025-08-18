@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 328,
+  "type": "statements_correctness",
+  "input": "Which of the following are not necessarily the consequences of the proclamation of the President’s rule in a State? P. Dissolution of the State Legislative Assembly Q. Removal of the Council of Ministers in the State R. Dissolution of the local bodies Select the correct answer using the code given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "P and R only",
+    "C": "Q and R only",
+    "D": "P, Q and R Centre State Relations, Uniform Civil Code, Article 370, etc."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "MIND IT: you’ve to find the wrong statements here- they’re the right answers. • when the President’s Rule is imposed in a state, the President dismisses the state council of ministers headed by the chief minister. The state governor, on behalf of the President, carries on the state administration with the help of the chief secretary of the state or the advisors appointed by the President. Meaning “2” is definitely the consequence of proclamation. Hence all options involving “2” are wrong. Hence by elimination we are left with answer “B”: 1 and 3 only."
+}

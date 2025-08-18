@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 296,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: Directive principles of State Policy are : P. Not amendable Q. Not enforceable by any court R. Fundamental in the governance of the country Which of the above statements are correct?",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "Q and R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

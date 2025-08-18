@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 56,
+  "type": "mcq_single",
+  "input": "The speaker can ask a member of the House to stop speaking and let another member speak. This phenomenon is known as?",
+  "options": {
+    "A": "Decorum",
+    "B": "Crossing the floor",
+    "C": "Interpolation",
+    "D": "Yielding the floor"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Decorum = Parliamentary etiquette Crossing the floor = Changing the party Interpolation = Seeking clarification through ruling Yielding the floor = Respecting speaker’s order"
+}

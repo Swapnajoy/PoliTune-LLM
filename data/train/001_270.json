@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 270,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are not fundamental right(s) under the Constitution of India ? P. Right to education. Q. Right to work. R. Right to form associations. S. Right to practise any profession. Select the correct answer using the code given below:",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and S",
+    "C": "Q only",
+    "D": "P and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The seven fundamental rights are Right to equality, Right to freedom, Right against exploitation, Right to freedom of religion, Cultural and Educational rights, Right to constitutional remedies and Right to life."
+}

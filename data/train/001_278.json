@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 278,
+  "type": "statements_correctness",
+  "input": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India? P. Prohibition of traffic in human beings and forced labour Q. Abolition of untouchability R. Protection of the interests of minorities S. Prohibition of employment of children in factories and mines Select the correct answer using the code given below:",
+  "options": {
+    "A": "P, Q and S only",
+    "B": "Q, R and S only",
+    "C": "P and S only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Prof.DD Basu classifies fundamental right in following manner: Right to equality Abolition of untouchability. S “2” is wrong in the classification. This eliminates A and D. Right against Prohibition of human trafficking and forced exploitation Labour. Prohibition of employment of children in factories etc. So 1 and 4 are fitting. Cultural and Minorities rights. educational rights So 3 is wrong in classification. So by elimination, we are left with answer 1 and 4 only."
+}

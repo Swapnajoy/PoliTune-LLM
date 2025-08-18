@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 231,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are departmcnt(s) in Ministry of Defence ? P. Department of Defence Q. Department of Defence Research and Development R. Department of Defence Production S. Department of Defence Finance Select the correct answer using the code given below :",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, Q and R",
+    "C": "Q, R and S",
+    "D": "P only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

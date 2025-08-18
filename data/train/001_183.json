@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 183,
+  "type": "mcq_single",
+  "input": "The mention of the word ‘justice’ in the Preamble to the Constitution of India expresses",
+  "options": {
+    "A": "social, political and religious justice",
+    "B": "social, economic and cultural justice",
+    "C": "social, economic and political justice",
+    "D": "economic and political justice"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The mention of the world ‘justice’ in the Preamble to the Constitution of India expresses social, economic and political justice. Preamble has been amended only once so far during the emergency in India, 1976."
+}

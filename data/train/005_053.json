@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 53,
+  "type": "statements_correctness",
+  "input": "Which of the following provisions about the Panchayati Raj in the Constitution of India is/are correct? P. All the members of Panchayats at the village, intermediate and district levels are elected directly by the voters. Q. The Chairperson of Panchayats at the village, intermediate and district levels is elected directly by the voters. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Chairperson of Panchayats at inter-mediate and district levels are elected indirectly"
+}

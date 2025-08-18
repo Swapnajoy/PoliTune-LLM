@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 152,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. On the expiry of the term of five years by the President of India, the outgoing President must continue to hold office until his successor enters upon his office. Q. The Electoral College for the President’s election consists of the elected members of the Legislative Assemblies of Delhi and Puducherry also. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "As per Article 56, “Term of office of President (1) The President shall hold office for a term of five years from the date on which he enters upon his office under various provision. (2) Any resignation addressed under clause (a)of the proviso to clause (1) shall forthwith be communicated by him to the Speaker of the House of the People.”"
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 121,
+  "type": "statements_correctness",
+  "input": "Consider the following statements related to Article 368 of the Constitution: P. A Constitutional Amendment Bill can be passed at a joint session of Parliament in case of deadlock between the two Houses. Q. It is obligatory for the President of India to give his assent to a Constitutional Amendment Bill passed under Article 368. R. To amend 7th Schedule of the Constitution, ratification of more than half of the State legislature is essential. S. A proposal to amend the Constitution can only be introduced in the House of the People. Which of these are correct ?",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "Q and R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

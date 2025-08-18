@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 13,
+  "type": "mcq_single",
+  "input": "Which of the following statements is incorrect about Legislative Council?",
+  "options": {
+    "A": "1/3rd of its members are elected by local bodies",
+    "B": "President has the final power to decide about its composition",
+    "C": "It is not subject to dissolution",
+    "D": "Minimum strength of Legislative Council cannot be less than 40 State Executive"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "President does not has the final power to decide about the legislative council composition."
+}

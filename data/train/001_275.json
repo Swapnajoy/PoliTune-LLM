@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 275,
+  "type": "mcq_single",
+  "input": "When were the Fundamental Duties included in the Constitution?",
+  "options": {
+    "A": "At the time of framing of Constitution",
+    "B": "On 26th January, 1950",
+    "C": "In the 42nd Constitutional Amendment",
+    "D": "In the 41st Constitutional Amendment"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Fundamental Duties are defined as the moral obligations of all citizens to help promote a spirit of patriotism and to uphold the unity of India. These fundamental Duties were introduced in the Indian Constitution by the 42nd Amendment Act 1976- Article 51A, upon the recommendations of the Swarn Singh Committee."
+}

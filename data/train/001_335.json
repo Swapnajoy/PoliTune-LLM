@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 335,
+  "type": "statements_correctness",
+  "input": "Which of the following are the matters covered under List-I of Seventh Schedule of the Constitution of India ? P. Foreign loans Q. Atomic energy R. Insurance S. Public health Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q, R and S",
+    "B": "P, Q and R",
+    "C": "P and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

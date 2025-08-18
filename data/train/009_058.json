@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 58,
+  "type": "mcq_single",
+  "input": "Which of the following Republic/Republics was/were supported by Russia in Georgia war of 2008 ?",
+  "options": {
+    "A": "South Ossettia",
+    "B": "South Ossettia and Abkhazia both",
+    "C": "Abkhazia",
+    "D": "Nogorno Karabakh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "South Ossettia and Abkhazia republics were supported by Russia in Georgia war of 2008."
+}

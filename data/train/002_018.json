@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 18,
+  "type": "statements_correctness",
+  "input": "Who among the following can only be removed from the office in like manner and on the like grounds as a Judge of the Supreme Court? P. Comptroller and Auditor-General of India Q. Chief Election Commissioner R. Chairman, Union Public Service Commission S. Attorney General for India Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q, R and S",
+    "B": "P, Q and S only",
+    "C": "P and Q only",
+    "D": "Q and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

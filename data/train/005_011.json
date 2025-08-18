@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 11,
+  "type": "mcq_single",
+  "input": "Panchayati Raj in India is laid down under:",
+  "options": {
+    "A": "Fundamental Rights",
+    "B": "Directive Principle of State Policy",
+    "C": "Fundamental Duties",
+    "D": "Election Commission Act Policy"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "P.R. in India laid down under - DPSP mentioned in Part IV."
+}

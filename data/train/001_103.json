@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 103,
+  "type": "mcq_single",
+  "input": "Which part of the Constitution envisages a three tier system of panchayats ?",
+  "options": {
+    "A": "Part IV",
+    "B": "Part X",
+    "C": "Part XI",
+    "D": "Part XII"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Three tier system panchayats enlisted in part IV of the constitution."
+}

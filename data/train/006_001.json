@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 1,
+  "type": "mcq_single",
+  "input": "Which of the following is not provided by the Constitution of India?",
+  "options": {
+    "A": "Election Commission",
+    "B": "Finance Commissions",
+    "C": "Public Service Commission",
+    "D": "Planning Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The planning commission was not provided by the constitution of India."
+}

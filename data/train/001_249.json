@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 249,
+  "type": "statements_correctness",
+  "input": "The protection against arrest and detention under Article 22 of the Constitution of India is not available to (CDS 2015-II) P. an enemy alien Q. a person detained under a preventive detention law R. a foreigner S. an overseas citizen of India Select the correct answer using the code given below.",
+  "options": {
+    "A": "l and Q only",
+    "B": "P, R and S",
+    "C": "P, Q and R",
+    "D": "R and S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 22 of the Constitution of India states that no protection against arrest and detention is available to enemy of foreign state or a person detained under preventive detention law."
+}

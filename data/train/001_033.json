@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 33,
+  "type": "mcq_single",
+  "input": "Indian federal structure is inspired by which model of the countries given below?",
+  "options": {
+    "A": "USA",
+    "B": "Canada",
+    "C": "Switzerland",
+    "D": "Russia"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Federal structure of government in Indian constitution is taken from ‘Canadian constitution’. Charter of fundamental rights, power of Judicial review and independence of Judiciary, written constitution and preamble are taken from USA. Fundamental duties and five year planning are taken from Russia."
+}

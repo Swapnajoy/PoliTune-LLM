@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 11,
+  "type": "mcq_single",
+  "input": "How many nominated members are there in the Legislative Assembly of Uttarakhand (2016) ?",
+  "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "There is 1 nominated member in the Legislative Assembly of Uttrakhand 2016. George Ivan Gregory Mann a member of the Anglo - Indian Community has been nominated for this."
+}

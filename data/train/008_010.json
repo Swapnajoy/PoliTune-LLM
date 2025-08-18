@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 10,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. The Anti-Defection Law bans an elected member from voting against the explicit mandate of his/her party. Q. The Anti-Defection provisions do not apply if one-third of the members of a party disobey the mandate of the party and constitute themselves as a separate party. Which of the statement(s) given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The grounds for disqualification under the Anti-Defection Law are as follows: If he votes or abstains from voting in such House contrary to any direction issued by his political party or anyone authorised to do so, without obtaining prior permission. As a pre- condition for his disqualification, his abstention from voting should not be condoned by his party or the authorised person within 15 days of such incident. As per the 1985 Act, a ‘defection’ by one-third of the elected members of a political party was considered a ‘merger’. Finally, the 91st Constitutional Amendment Act, 2003, changed this. So now at least two-thirds of the members of a party have to be in favour of a “merger” for it to have validity in the eyes of the law."
+}

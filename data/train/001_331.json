@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 331,
+  "type": "mcq_single",
+  "input": "Article 371 B of the Constitution of India makes special provision for which of the following state(s)?",
+  "options": {
+    "A": "Maharashtra and Gujarat",
+    "B": "Assam",
+    "C": "Nagaland",
+    "D": "Manipur"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 371 B makes special provision for Assam. Article 371 A for Nagaland Article 371 C for Manipur state Article 371 for state of Maharashtra & Gujarat."
+}

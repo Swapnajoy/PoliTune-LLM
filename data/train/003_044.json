@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 44,
+  "type": "mcq_single",
+  "input": "What is the term of a Member of the Rajya Sabha?",
+  "options": {
+    "A": "Three years",
+    "B": "Four years",
+    "C": "Five years",
+    "D": "Six years"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Rajya Sabha is a permanent house, not subject to disolution, one third of its members retiring after every two years. Thus every member enjoys a 6-year tenure."
+}

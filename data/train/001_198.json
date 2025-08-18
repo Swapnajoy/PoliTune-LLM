@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 198,
+  "type": "statements_correctness",
+  "input": "Among the following ideals and philosophy, identify those enshrined in the Preamble to the Constitution of India. P. Sovereign democratic republic. Q. Socialism and secularism. R. Capitalism and free trade. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "P,Q and R",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "According to the preamble of Indian Constitution, India is a Sovereign, Socialist, Secular and Democratic republic. Capitalism and free trade is not enshrined in the preamble of the Indian constitution."
+}

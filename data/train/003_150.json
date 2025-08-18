@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 150,
+  "type": "statements_correctness",
+  "input": "The President of India has no power to P. Proclaim a financial emergency in the state Q. Proclaim the future of the constitutional machinery in the state. Which of the statement(s) given above regarding the special constitutional status of Jammu and Kashmir is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The President of India can proclaim the failure of the constitutional machinery in Jammu and Kashmir but the Proclamation should be grounded under the provision of the state constitution and not Indian constitution."
+}

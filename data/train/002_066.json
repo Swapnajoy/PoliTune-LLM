@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 66,
+  "type": "mcq_single",
+  "input": "The tenure of the Chairman of the National Human Rights Commission is –",
+  "options": {
+    "A": "3 years",
+    "B": "4 years",
+    "C": "5 years",
+    "D": "6 years Attorney General & Advocate General"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The National Human Rights Commission of India is an autonomous public body constituted on 12 October, 1993 under the Protection of Human Rights Ordinance of 28 September, 1993. The Chair Person and members of NHRC are appointed by the President of India."
+}

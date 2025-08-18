@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 60,
+  "type": "mcq_single",
+  "input": "Under the provisions of the Constitution of India, who is entitled to be consulted by the President of India in the matter of the appointments of the Judges of the High Court?",
+  "options": {
+    "A": "The Union Minister of Law and Justice",
+    "B": "The Advocate General of the State",
+    "C": "The Attorney-General of India",
+    "D": "The Governor"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Clause (1) of Article 217 says that “every judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 77,
+  "type": "mcq_single",
+  "input": "Which Article of Indian Constitution is related with the Protection of the interests of the minorities?",
+  "options": {
+    "A": "Article 17",
+    "B": "Article 29",
+    "C": "Article 30",
+    "D": "Article 31"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 30 is about right of minorities to establish and administer educational institutions. In article 31 compulsory acquisition of property is mentioned."
+}

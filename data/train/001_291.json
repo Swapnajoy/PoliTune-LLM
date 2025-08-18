@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 291,
+  "type": "mcq_single",
+  "input": "Though the Directive Principles of State Policy contained in the Constitution are not enforceable by any court, yet they are:",
+  "options": {
+    "A": "Fundamental in the governance of the country",
+    "B": "Binding on the State",
+    "C": "Enforceable at the instance of the President of India",
+    "D": "Superior to Fundamental Rights"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Directive Principles of the state are fundamental in the governance of country."
+}

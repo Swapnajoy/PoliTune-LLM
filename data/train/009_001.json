@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 1,
+  "type": "mcq_single",
+  "input": "Which one of the following is not an essential element of a federal form of government?",
+  "options": {
+    "A": "Written Constitution",
+    "B": "Independent judiciary",
+    "C": "Division of power",
+    "D": "Separation of powers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "In a federal form of government separation of powers is not an essential element. A federal state is a political entity characterized by a union of partially self-governing states or regions under a central (federal) government in a single political system. So the federation is a form of government in which a division of powers between central govt. and regional govt. eg. India."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 4,
+  "type": "mcq_single",
+  "input": "Which party provided two Prime Ministers in two years time?",
+  "options": {
+    "A": "B.J.P.",
+    "B": "Janata Party",
+    "C": "Janata Dal",
+    "D": "Samajwadi Janata Party"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Janata Dal provided two prime Ministers in two years. H.D. Deve Gowda - 1996 to 1997 (11th Prime Minister) I. K. Gujral - 1997 to 1998 (12th Prime minister)"
+}

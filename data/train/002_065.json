@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 65,
+  "type": "mcq_single",
+  "input": "The Planning Commission has been abolished by the Prime Minister",
+  "options": {
+    "A": "Narendra Modi",
+    "B": "Morarji Desai",
+    "C": "Atal Bihari Vajpayee",
+    "D": "I. K. Gujral"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Prime Minister Narendra Modi abolished the Planning Commission and replaced it with National Institution for Transforming India or NITI Aayog."
+}

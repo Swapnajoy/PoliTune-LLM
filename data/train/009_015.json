@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 15,
+  "type": "mcq_single",
+  "input": "The ‘Due Process of Law’ is the characteristics of the judicial system of",
+  "options": {
+    "A": "India",
+    "B": "France",
+    "C": "U.K.",
+    "D": "U.S.A"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Fifth and Fourteenth Amendments to the United States Constitution each contains a Due Process Clause. Due process deals with the administration of justice and thus the Due Process Clause acts as a safeguard from arbitrary denial of life, liberty, or property by the Government outside the sanction of law."
+}

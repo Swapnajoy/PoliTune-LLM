@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 206,
+  "type": "statements_correctness",
+  "input": "Under the Citizenship Act, 1955, by which of the following ways can a person become a citizen of India? P. By birth Q. By descent R. By registration S. By nationalisation T. By incorporation of territory Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, Q, R, S and T",
+    "B": "P and Q",
+    "C": "P, Q, R and T",
+    "D": "R, S and T"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under the citizenship Act 1955, a person can- not be a citizen of India by Nationalisation."
+}

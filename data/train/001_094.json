@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 94,
+  "type": "mcq_single",
+  "input": "Original jurisdiction of Supreme Court is mentioned in which of the following articles of Indian Constitution?",
+  "options": {
+    "A": "Article 131",
+    "B": "Article 132",
+    "C": "Article 143",
+    "D": "Article 148"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "original jurisdiction of Supreme Court is mentioned in Article 131 of the Indian Constitution. The Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute. Article 132 deals for appellate jurisdiction of Supreme court in appeals from High Court in certain cases."
+}

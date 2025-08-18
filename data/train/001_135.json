@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 135,
+  "type": "mcq_single",
+  "input": "Which one of the following language is not recognized in the Eighth Sehedule to the Constitution of India (CDS 2016-I)",
+  "options": {
+    "A": "English",
+    "B": "Sanskrit",
+    "C": "Urdu",
+    "D": "Nepali"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The recognized languages in the 8th Schedule of the constitution - Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepalli, Oriya, Punjabi, Sanskrit, Santhali, Sindhi, Tamil, Telugu & Urdu."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 196,
+  "type": "mcq_single",
+  "input": "Which one among the following statements is not correct? The word ‘socialist’ in the Preamble of the Constitution of India read with",
+  "options": {
+    "A": "Article 39 (d), would enable the court to uphold the constitutionality of nationalisation laws",
+    "B": "Article 14, would enable the court to strike down a-statute which failed to achieve the socialist goal to the fullest extent",
+    "C": "Article 25, would enable the court to ensure freedom guaranteed under that Article",
+    "D": "Article 23, would enable the court to reduce inequality in income and status"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Traffic in human beings and beggars and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law . The terms ‘Socialist’ was added by the 42nd Amendment and assert that the government must adopt socialistic policies to ensure decent life for all Indian citizens. Thus, the word Socialist in the preamble of the Constitution of India read with Article23."
+}

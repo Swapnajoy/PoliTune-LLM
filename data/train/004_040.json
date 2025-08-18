@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 40,
+  "type": "mcq_single",
+  "input": "Who among the following appointed by the Governor can be removed by only the President of India?",
+  "options": {
+    "A": "Chief Minister of a state",
+    "B": "A member of the State Public Service Commission",
+    "C": "Advocate - General",
+    "D": "Vice - Chancellor of a State University"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "A member of the State Public Service Commission appointed by the Governor can be removed by only the President of India."
+}

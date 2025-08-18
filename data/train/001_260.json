@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 260,
+  "type": "mcq_single",
+  "input": "Which one among the following statements regarding the constitutionally guaranteed Right to Education in India is correct?",
+  "options": {
+    "A": "This right covers both child and adult illiteracy and therefore, universally guarantees education to all citizens of India",
+    "B": "This right is a child right covering the age group of 6 to 14 years and becomes operational from the year 2015",
+    "C": "This right has been taken from the British Constitution which was the first Welfare State in the world",
+    "D": "This right has been given to all Indian children between the ages of 6 to 14 years under the 86th Constitutional Amendment Act"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The 86th amendment to the Constitution approved in 2002 providing free and compulsory education to all children age 6 to 14 years has been notified. It included Article 21(a) in the Indian constitution making education a fundamental right."
+}

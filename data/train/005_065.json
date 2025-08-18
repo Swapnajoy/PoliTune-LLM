@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 65,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : The 73rd Constitutional Amendment Act provided: P. For 27% reservation of seats in the Panchayats for the Other Backward Castes (OBCs). Q. That the Chairpersons of the Panchayats at intermediate or district level, shall be elected by, and from amongst the elected members thereof. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

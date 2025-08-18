@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 248,
+  "type": "statements_correctness",
+  "input": "The Constitution of India guarantees freedom of thought and expression to all its citizens subject to (CDS 2015-II) P. Implementation of Directive Principles Q. Fundamental Duties R. Right to Equality Select the correct answer using the code given below.",
+  "options": {
+    "A": "l and Q only",
+    "B": "Q and R only",
+    "C": "P only",
+    "D": "l, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Part IV of the Constitution of India provides the Directive Principle of State Policy. This policy has the following categories- social justice, economic welfare, foreign policy, legal and administrative matters."
+}

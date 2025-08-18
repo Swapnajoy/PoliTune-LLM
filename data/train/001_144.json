@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 144,
+  "type": "statements_correctness",
+  "input": "Which of the following statement(s) is/are not correct for the Ninth Schedule of the Constitution of India ? P. It was inserted by the first amendment in 1951. Q. It includes those laws which are beyond the purview of judicial review. R. It was inserted by the 42nd Amendment. S. The laws in the Ninth Schedule are primarily those which pertain to the matters of national security. Select the correct answer using the code given below :",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "R and S",
+    "D": "R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Ninth Schedule was added by the 1st Amendment 1951 to protect the laws included in it from judicial scrutiny on the ground of violation of fundamental rights.However in 2007 Supreme Court ruled that the laws included in it after 24 April 1973 are now open to judicial review."
+}

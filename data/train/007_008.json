@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 8,
+  "type": "mcq_single",
+  "input": "Which one of the following statements about Electoral Government in India is not correct? (CDS 2015-II)",
+  "options": {
+    "A": "The superintendence, direction and control of elections are vested in the Election Commission of India.",
+    "B": "There is one general electoral roll for every territorial constituency.",
+    "C": "The Parliament has the power to make laws relating to the delimitation of constituencies.",
+    "D": "The Supreme Court of India has the authority to scrutinize the validity of a law relating to delimitation of constituencies."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under Article 82 of the constitution, after every census, the delimitation commission demarcates the boundary of parliamentary constituency on the basis of Delimitation Act."
+}

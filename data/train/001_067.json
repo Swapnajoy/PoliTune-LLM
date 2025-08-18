@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 67,
+  "type": "mcq_single",
+  "input": "Which article of the Indian Constitution provides for the financial provisions?",
+  "options": {
+    "A": "Article 352",
+    "B": "Article 356",
+    "C": "Article 360",
+    "D": "Article 361"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 360 of the Indian Constitution provides for provision for the financial emergency. The provision of national emergency is mentioned under article 352. National emergency can be declared on the external aggression or armed rebellion in any part of country. Article 356 refers to imposition of ‘President’s rule’, also called constitutional emergency. Article 361 is for Protection of President and Governors and Rajpramukhs."
+}

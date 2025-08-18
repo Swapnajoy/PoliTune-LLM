@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 136,
+  "type": "mcq_single",
+  "input": "The purpose of an adjournment motion is to –",
+  "options": {
+    "A": "seek the leave of the House to introduce a bill",
+    "B": "censure the Government",
+    "C": "propose a reduction in the budget",
+    "D": "Draw the attention of the House to a matter of urgent public importance"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Adjournment Motion is the procedure for adjournment of the business of the House for the purpose of discussing a definite matter of urgent public importance, which can be moved with the consent of the speaker."
+}

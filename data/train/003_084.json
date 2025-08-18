@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 84,
+  "type": "statements_correctness",
+  "input": "A Bill is deemed to be a ‘Money Bill’ if it has any provisions dealing with (CDS 2015-II) P. imposition, abolition, remission, alteration or regulation of any tax Q. appropriation of money from the Consolidated Fund of India R. imposition of fines or other pecuniary penalties S. payment of fee for licences or fee for service rendered Select the correct answer using the code given below.",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, R and S",
+    "C": "P, Q and R",
+    "D": "Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "A Bill shall be deemed to be a money Bill if it contains the following matters (I) The imposition abolition, remission, alteration or regulation of any tax (II) The regulation of the borrowing of money or the giving of any guarantee by the Government of India, or the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the Government of India. (III)The custody of the consolidated fund or the contigency Fund of India, The payment of money into or withdrawal of money from any such fund."
+}

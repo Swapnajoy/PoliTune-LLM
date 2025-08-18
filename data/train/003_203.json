@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 203,
+  "type": "statements_correctness",
+  "input": "Consider the following Vice-Presidents of India: P. V.V. Giri Q. M. Hidayatullah R. B.D. Jatti S. G.S. Pathak Which on of the following is the correct chronology of their tenures?",
+  "options": {
+    "A": "P-S-R-Q",
+    "B": "Q-P-R-S",
+    "C": "R-Q-P-S",
+    "D": "S-P-R-Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

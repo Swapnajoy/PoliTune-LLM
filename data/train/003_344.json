@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 344,
+  "type": "statements_correctness",
+  "input": "Which of the statement given below is / are correct? (CDS 2016-I) P. The ideal of a common civil code is set forth in Article 44 of the Constitution of India Q. In certain respects, the High Courts in India have been given more extensive power than the Supreme Court R. The Supreme Court of India, the first fully independent Court for the country was set up under the Constitution of India in 1950 Select the correct answer using the code given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q and R only",
+    "C": "P only",
+    "D": "R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 278,
+  "type": "mcq_single",
+  "input": "On which of the following grounds can a judge of the Supreme Court be impeached?",
+  "options": {
+    "A": "Violation of constitution",
+    "B": "Proved misbehaviours",
+    "C": "Incapacity to act as a judge",
+    "D": "(b) & (c) both"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

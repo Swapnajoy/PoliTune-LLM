@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 4,
+  "type": "mcq_single",
+  "input": "Right to vote is a",
+  "options": {
+    "A": "Social right",
+    "B": "Personal right",
+    "C": "Political right",
+    "D": "Legal right"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Right to vote is a legal right."
+}

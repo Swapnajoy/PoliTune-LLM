@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 64,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are correct regarding effect of motions or resolutions adopted by the Houses of Parliament? P. The resolution expressing merely an opinion of the Houses is not binding on the government. Q. The resolutions adopted by the Houses on matters concerning its own proceeding are not binding. R. Resolutions having a statutory effect, if adopted, are binding on the government.",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Q and R only",
+    "D": "P and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The resolution adopted by the House in matters concerning its own proceedings are binding and have the force of law. Notice of resolution 170 : A member other than a minister who wishes to move a resolution on a day allotted for private members’ resolutions, shall give a notice to that effect at least two days before the date of ballot. The names of all members from whom such notices are received shall be balloted and those members who secure the first three places in the ballot for the day allotted for private members’ resolutions shall be eligible to give notice of one resolution each within two days after the date of the ballot. Form of resolution 171 : A resolution may be in the form of a declaration of opinion, or a recommendation; or may be in the form so as to record either approval or disapproval by the House of an act or policy of government, or convey a message; or commend, urge or request an action; or call attention to a matter or situation for consideration by government; or in such other form as the Speaker may consider appropriate."
+}

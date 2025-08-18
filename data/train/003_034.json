@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 34,
+  "type": "mcq_single",
+  "input": "Who decides whether a Bill is a money Bill or not?",
+  "options": {
+    "A": "Speaker of the Lok Sabha",
+    "B": "The President",
+    "C": "The Prime Minister",
+    "D": "The Parliamentary Select Committee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Speaker of Lok sabha decides wheather a bill is a money bill or not."
+}

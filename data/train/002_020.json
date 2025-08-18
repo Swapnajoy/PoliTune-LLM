@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 20,
+  "type": "mcq_single",
+  "input": "The Comptroller and Auditor General is appointed by the President. He can be removed",
+  "options": {
+    "A": "by the President",
+    "B": "on an address from both Houses of Parliament",
+    "C": "on the recommendation of the President by the Supreme Court",
+    "D": "by CJI"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Comptroller and Auditor General can be removed on an address from both Houses of Parliament. The Comptroller and Auditor General (CAG) of India is an authority, established by the Constitution of India under Chapter V."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 347,
+  "type": "mcq_single",
+  "input": "The original jurisdiction of the Supreme Court of India extends to",
+  "options": {
+    "A": "treaties and agreements signed by the Government of India",
+    "B": "disputes between the Government of India and one or more States",
+    "C": "disputes relating to implementation of the Directive Principles of State Policy",
+    "D": "a bill passed by the Parliament which is violative of the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

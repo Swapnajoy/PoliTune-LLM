@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 237,
+  "type": "statements_correctness",
+  "input": "The Supreme Court has increased the ambit of the Right to Life (Article 21) to include which of the following? P. Right to life includes the Right to live with dignity Q. Right to life includes the Right to livelihood R. Right to life includes the Right to receive minimum wages S. Right to life includes the Right to guaranteed employment for 100 days in a year Select the correct answer using the codes given below:",
+  "options": {
+    "A": "Only S",
+    "B": "P and Q",
+    "C": "P, Q and R",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

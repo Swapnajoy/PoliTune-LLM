@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 66,
+  "type": "mcq_single",
+  "input": "One of the implications of equality in society is the absence of",
+  "options": {
+    "A": "Privileges",
+    "B": "Restraints",
+    "C": "Competition",
+    "D": "Ideology"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "NEW NCERT Class 11, Political Science, page 45. • First step towards bringing about equality is of course ending the formal system of inequality and privileges. The caste system in India prevented people from the ‘lower’ castes from doing anything except manual labour. In many countries only people from some families could occupy high positions. Attainment of equality requires that all such restrictions or privileges should be brought to an end."
+}

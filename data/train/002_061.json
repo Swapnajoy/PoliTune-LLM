@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 61,
+  "type": "statements_correctness",
+  "input": "Consider the following bodies of India. P. The National Commission for scheduled castes Q. The National Commission for women R. The National Commission for Backward classes S. The National Human Rights Commission Which of the bodies given above is/are established by the constitution of India?",
+  "options": {
+    "A": "P only",
+    "B": "P, Q and R only",
+    "C": "P and R only",
+    "D": "P, Q, R and S Other Commissions & Miscellaneous"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The National Commission for Scheduled Castes is established by the Article 388 of the constitution of India whereas rest are established by acts of the parliament. National Commission for Scheduled Castes is an Indian constitutional body established with a view to provide safeguards against the exploitation of Scheduled Castes and to promote and protect their social, educational, economic and cultural interests, special provisions were made in the Constitution."
+}

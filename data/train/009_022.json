@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 22,
+  "type": "mcq_single",
+  "input": "Despite being a Republican State, India is a member of the Commonwealth of Nations whose head is the British Monarch. This is because",
+  "options": {
+    "A": "this mernbership does not affect the sovereign nature of the Indian Republic",
+    "B": "this membership only shows that the British ruled over India",
+    "C": "members of the association are sovereign and independent",
+    "D": "it is a symbol of the unity among the members of the association"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Commonwealth of Nations is an intergovernmental organisation of 53 member states that were mostly territories of the former British Empire. The membership only shows that the British ruled over India."
+}

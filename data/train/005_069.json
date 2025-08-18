@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 69,
+  "type": "statements_correctness",
+  "input": "How does participatory budgeting seek to make the functioning of local governance institutions more transparent and accountable? P. By allowing citizens to deliberate and negotiate over the distribution of public resources. Q. By allowing citizens to play a direct role in deciding how and where resources should be spent. R. By allowing historically excluded citizens with access to important decision-making venues. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "Only R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Participatory Budgeting is a democratic process of deliberation by citizens, civic officials and elected representatives on the issues that need attention and collectively arriving at decisions that would directly be included in the budget of the government. Participatory budgeting empowers the citizens to present their demands and priorities for improvement and influence through discussions and negotiations the budget allocations made by their municipalities. It is an opportunity in which the common citizens can decide about the allocation and distribution of public expenditure in their areas or regions."
+}

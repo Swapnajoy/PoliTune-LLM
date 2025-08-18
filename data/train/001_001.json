@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 1,
+  "type": "mcq_single",
+  "input": "Who was the chairman of the drafting committee of the Constituent Assembly?",
+  "options": {
+    "A": "J.L. Nehru",
+    "B": "Sardar Vallabhbhai Patel",
+    "C": "B.R. Ambedkar",
+    "D": "K.M.Munshi"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "B.R. Ambedkar was the Chairman of the drafting committee of the Constituent Assembly"
+}

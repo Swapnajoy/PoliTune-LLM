@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 137,
+  "type": "mcq_single",
+  "input": "Members of Parliament enjoy the Privilege of freedom from arrest in –",
+  "options": {
+    "A": "Criminal Cases",
+    "B": "Civil Cases",
+    "C": "Preventive detention",
+    "D": "All types of cases"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Members of Parliament enjoy the Privilege of freedom from arrest in Civil Cases."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 122,
+  "type": "mcq_single",
+  "input": "Sixth Schedule to the Constitution of India makes special administrative provisions in regard to the tribal areas in :",
+  "options": {
+    "A": "Assam, Meghalaya, Tripura and Mizoram",
+    "B": "Meghalaya, Assam, Nagaland and Manipur",
+    "C": "Tripura, Manipur, Mizoram and Meghalaya",
+    "D": "Arunanchal Pradesh, Nagaland, Assam and Tripura"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 339,
+  "type": "mcq_single",
+  "input": "Which of the following subjects lies in the concurrent list?",
+  "options": {
+    "A": "Agriculture",
+    "B": "Education",
+    "C": "Police",
+    "D": "Defence"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Education lies in the concurrent list. Education, includes technical education, medical education and universities, subject to the provisions of Entries 63, 64, 65 and 66 of List I."
+}

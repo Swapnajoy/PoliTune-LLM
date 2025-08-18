@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 339,
+  "type": "statements_correctness",
+  "input": "Which of the following statements are correct regarding the Fast Track Courts (FTCs) in India? P. The FTCs were started by the Central govern-ment pursuant to the observations of the First National Judicial Pay Commission, 1999, the 120th Report of the Law Commission on Manpower Planning in the judiciary, Q. The FTCs are established to expeditiously dispose of long pending cases in the Sessions Courts and long pending cases of undertrial prisoners. R. When judges were appointed to the FTCs, their service conditions were settled by the framing of rules which were done in consultation with the High Courts of the States. Select the answer from the code given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "P and Q",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

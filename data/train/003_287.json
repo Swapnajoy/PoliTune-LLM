@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 287,
+  "type": "mcq_single",
+  "input": "Salaries of the judges of the Supreme Court are determined by:",
+  "options": {
+    "A": "Pay Commission appointed by the President",
+    "B": "Law Commission",
+    "C": "Parliament",
+    "D": "Council of Ministers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

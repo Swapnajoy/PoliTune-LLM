@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 186,
+  "type": "statements_correctness",
+  "input": "Consider the following statements given below: P. J. L. Nehru was in his fourth term as the PM of India at the time of his death. Q. J.L. Nehru represented Rae Bareilly constituency as a Member of Parliament. R. The first non-congress PM of India assumed the office in the year 1977. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "R only",
+    "C": "P only",
+    "D": "P and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 230,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The writ of mandamus is available not only against judicial authorities but also against administrative authorities. Q. The writ of prohibition is issued only against judicial or quasi- judicial authorities. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Mandamu for “we order,” a writ (more modernly called a “writ of mandate”) which orders a public agency or governmental body to perform an act required by law when it has neglected or refused to do so. A writ of prohibition is a writ directing a subordinate to stop doing something the law prohibits."
+}

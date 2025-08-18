@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 36,
+  "type": "mcq_single",
+  "input": "Rajya Sabha enjoys more power than the Lok Sabha in the case of",
+  "options": {
+    "A": "Money bills",
+    "B": "Non-money bills",
+    "C": "Setting up of new All India Services",
+    "D": "Amendment of the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Rajya Sabha enjoys more power than the Lok Sabha in the case of setting up of new All India Services."
+}

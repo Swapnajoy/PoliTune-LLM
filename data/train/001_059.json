@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 59,
+  "type": "mcq_single",
+  "input": "Which among the following is not a basic feature of the Constitution of India ?",
+  "options": {
+    "A": "Fundamental rights",
+    "B": "Independence of judiciary",
+    "C": "Federalism",
+    "D": "The unquestioned right of the Parliament to amend any part of the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The unquestioned right of the Parliament to amend any part of the Constitution is not a basic feature of the Constitution of India."
+}

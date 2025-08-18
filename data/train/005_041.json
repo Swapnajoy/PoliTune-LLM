@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 41,
+  "type": "mcq_single",
+  "input": "After elections, vote of no-confidence against the sarpanch can be proposed only after",
+  "options": {
+    "A": "3 months",
+    "B": "6 months",
+    "C": "1 year",
+    "D": "2 years"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Provided that if the no-confidence motion is lost another such motion shall not be moved against that Sarpanch before the expiry of two years from the date of its having been lost."
+}

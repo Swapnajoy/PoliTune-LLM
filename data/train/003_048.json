@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 48,
+  "type": "mcq_single",
+  "input": "When an ordinary Bill is referred to a joint sitting of both the Houses of Indian Parliament, it has to be passed by a",
+  "options": {
+    "A": "simple majority of the total number of members of both the Houses present and voting",
+    "B": "two-third majority of the total number of members of both the Houses",
+    "C": "simple majority of the total number of members of both the Houses",
+    "D": "two-third majority of the total number of members of both the Houses present and voting"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Joint session is presided over by the speaker of Lok Sabha or in his absence by the Deputy Speaker. In a joint sitting a bill is passed simply by the majority of the both the members of the house present and voting."
+}

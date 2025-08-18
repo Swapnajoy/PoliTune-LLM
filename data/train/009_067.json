@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 67,
+  "type": "statements_correctness",
+  "input": "Consider the following in respect of Indian Ocean Naval Symposium (IONS): P. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy. Q. IONS is a voluntary initiative that seeks to increase maritime co- operation among navies of the littoral states of the Indian Ocean Region. Which of the above statements is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "• The 2015 event was hosted by S.Africa and co-chair Tanzania. So first statement is wrong. • In 2008, IONS was setup taking all the littoral countries of the Indian Ocean (IO) onboard to promote friendly relationship and…bear upon issues of regional maritime security and cooperation in the maritime domain. Second statement is right."
+}

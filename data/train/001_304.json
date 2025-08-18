@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 304,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a correct description of the Directive Principles of State Policy?",
+  "options": {
+    "A": "Directive Principles are not enforceable by the courts",
+    "B": "Directive Principles have a political sanction",
+    "C": "Directive Principles are declaration of objective for State Legislation",
+    "D": "Directive Principles promise equal income and free health care for all Indians"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Directive Principles of State Policy are guidelines for creating a social order characterized by social, economic, and political justice, liberty, equality, and fraternity as enunciated in the constitution’s preamble. It does not promise equal income and free healthcare for all Indians."
+}

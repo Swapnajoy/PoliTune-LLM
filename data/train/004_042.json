@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 42,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. An administrator of a union territory is an agent of the President of India and not head of state like a Governor. Q. The Parliament can make laws on any subject of the three lists (including the state list) for the Union territories. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

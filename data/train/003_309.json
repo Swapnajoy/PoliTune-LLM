@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 309,
+  "type": "mcq_single",
+  "input": "To be eligible to be appointed as a Judge of Supreme Court of India,how long a person should have practised in a High Court?",
+  "options": {
+    "A": "10 Years",
+    "B": "15 Years",
+    "C": "12 Years",
+    "D": "5 Years"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

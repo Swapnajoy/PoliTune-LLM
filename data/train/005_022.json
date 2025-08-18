@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 22,
+  "type": "mcq_single",
+  "input": "When and where Panchayati Raj system in India was introduced?",
+  "options": {
+    "A": "July5, 1957; Firozabad (U.P)",
+    "B": "October 2, 1959; Nagor (Rajasthan)",
+    "C": "Nov 14, 1959; Ahmedabad (Gujrat)",
+    "D": "December 3, 1960; Bhopal (M.P)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The panchayat raj system was first adopted by the state of Rajsthan in Nagor district on 2nd Oct 1959."
+}

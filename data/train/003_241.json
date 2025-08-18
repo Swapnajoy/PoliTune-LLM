@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 241,
+  "type": "mcq_single",
+  "input": "Who has the right under the Constitution to seek the opinion of the Supreme Court on Question of law?",
+  "options": {
+    "A": "President",
+    "B": "Any High Court",
+    "C": "Prime Minister",
+    "D": "All the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 119,
+  "type": "mcq_single",
+  "input": "The Parliament can legislate on a subject in the State list",
+  "options": {
+    "A": "by the wish of the President",
+    "B": "if the Rajya Sabha passes such a resolution",
+    "C": "under any circumstances",
+    "D": "by asking the legislature of the concerned state"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "If the Rajya Sabha passes any of the subjects of the state list with 2/3 majority of the House, declaring the subjects to have national importance then According to Art. 249 of the Constitution parliament acquire the power to make laws."
+}

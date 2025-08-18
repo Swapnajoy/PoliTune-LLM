@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 320,
+  "type": "mcq_single",
+  "input": "How many times has Financial Emergency been declared in India so far?",
+  "options": {
+    "A": "5 times",
+    "B": "4 times",
+    "C": "once",
+    "D": "Never"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 360 deals with provision of financial emergency and it never been declared in India."
+}

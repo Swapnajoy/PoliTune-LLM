@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 62,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding ‘No confidence motion’ P. Only a motion expressing want of confidence in the council of ministers as a whole is admitted and one expressing lack of confidence in an individual minister is out of order Q. A no confidence motion needs to set out grounds on which it is based. R. Any no confidence motion once moved can’t be withdrawn S. Rajya Sabha is not empowered to entertain a motion of no confidence Which of the following given above are not correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, Q, and R only",
+    "C": "Q and R only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "A no-confidence motion does not need to set out grounds on which it is based. The withdrawal of the notice by a member may be made when he is called upon by the speaker to ask for leave of the House."
+}

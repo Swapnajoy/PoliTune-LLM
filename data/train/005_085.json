@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 85,
+  "type": "mcq_single",
+  "input": "Under 74th Amendment of the Constitution, the local body for a transitional area is known as",
+  "options": {
+    "A": "Nyaya Panchayat",
+    "B": "Municipal Panchayat",
+    "C": "Nagar Panchayat",
+    "D": "Gram Panchayat"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under 74th Amendment of the Constitution the local body for a transitional area is known as Nagar Panchayat. This article provides that there be a Nagar Panchayat for transitional areas i.e. an area in transition from rural to urban, a municipality for a smaller urban area and a municipal corporation for a larger urban area. Amendment article 280"
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 28,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : Reservation of a State Bill for the assent of the President is a discretionary power of the Governor. Reason (R) : The President of India can disallow a Bill passed by a State Legislature or return it for reconsideration. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Assent to Bills – When a Bill has been passed by the Legislative Assembly of a State or, in the case of a State having a Legislative Council, has been passed by both Houses of the Legislature of the State, it shall be presented to the Governor and the Governor shall declare either that he assents to the Bill or that he withholds assent therefrom or that he reserves the Bill for the consideration of the President. Bills reserved for consideration – When a Bill is reserved by a Governor for the consideration of the President, the President shall declare either that he assents to the Bill or that he withholds assent therefrom."
+}

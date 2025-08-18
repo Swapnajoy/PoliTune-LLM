@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 79,
+  "type": "mcq_single",
+  "input": "If there is dispute between Panchayat and Cantonment Board, who will decide finally?",
+  "options": {
+    "A": "Collector, subject to approval of Divisional commissioner",
+    "B": "Divisional Commissioner, subject to approval of Panchayat and Rural Development Department",
+    "C": "Panchayat and Rural Development Department, Subject to approval of State Government",
+    "D": "State Government, Subject to approval of central Government"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "State Government, subject to approval of Central Government can decide the dispute between Panchayat and Cantonment Board."
+}

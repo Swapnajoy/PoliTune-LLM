@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 15,
+  "type": "mcq_single",
+  "input": "With reference to Lok Adalats, which one among the following statements is correct?",
+  "options": {
+    "A": "Lok Adalats have the jurisdiction to settle the matters at pre- litigative state and not those matters pending before any court",
+    "B": "Lok Adalats can deal with matters which are civil and not criminal in nature",
+    "C": "Lok Adalats has not been given any statutory status so far",
+    "D": "No appeal lies in a civil court against the order of the Lok Adalat"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Award has the same effect as of a Civil Court decree. The Supreme Court has held that award of the Lok Adalat is as good as the decree of a Court. The award of the Lok Adalat is fictionally deemed to be decrees of Court and therefore the courts have all the powers in relation thereto as it has in relation to a decree passed by itself. It was the legal services authority act 1987, which gave statutory status to Lok Adalat."
+}

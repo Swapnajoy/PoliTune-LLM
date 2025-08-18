@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 300,
+  "type": "statements_correctness",
+  "input": "Which of the following are included in the list of fundamental duties in the Constitution? P. To abide by the Constitution and respect its ideas and institutions Q. To safeguard public property and to abjure violence R. To uphold and protect the sovereignty, unity and integrity of India S. To uphold and protect secularism Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, R and S",
+    "B": "P, Q and S",
+    "C": "Q, R and S",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 13,
+  "type": "mcq_single",
+  "input": "Who was the president of the committee on whose recommendation was the Panchayati Raj established in India?",
+  "options": {
+    "A": "Balwant Rai Mehta",
+    "B": "Ashok Mehta",
+    "C": "Dr. Iqbal Narayan",
+    "D": "Jeevraj Mehta"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Balwant Rai Mehta Committee, headed by MP Balwantrai Mehta, was a committee appointed by the Government of India in January 1957 to examine the working of the Community Development Programme (1952) and the National Extension Service (1953) and to suggest measures for their better working."
+}

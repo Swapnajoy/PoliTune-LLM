@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 5,
+  "type": "statements_correctness",
+  "input": "Consider the following facts about the disallowance of State legislation. P. The President has no direct power to disallow a bill passed by the state legislative assembly. Q. But there is a provision for disallowance of the bill, passed by state legislative assembly, as are reserved by the State Governor for assent of the President.",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q is correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

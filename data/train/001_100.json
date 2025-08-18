@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 100,
+  "type": "mcq_single",
+  "input": "Which article of the Constitution laid down that state shall take steps to organize village panchayats?",
+  "options": {
+    "A": "Article 36",
+    "B": "Article 73",
+    "C": "Article 24",
+    "D": "Article 40"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 40 - Organization of village Panchayats Article 73 - Extent of executive power of union Article 36 - definition of DPSP Article 24 - Prohibition of employment of children in factories."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 59,
+  "type": "mcq_single",
+  "input": "As per United Nations Convention on the Law of sea (UNCLOS) states are entitled for Jurisdiction over sea water as under –",
+  "options": {
+    "A": "three miles from sea shore as territorial waters",
+    "B": "twelve miles from the shore for shipping",
+    "C": "two hundred miles as Exclusive Economic Zone (EEZ)",
+    "D": "all the three jurisdictions"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "As per United Nations Convention on the Law of Sea (UNCLOS) States are entitled for Jurisdiction over Sea water under – (i) three miles from sea shore as territorial waters (ii) twelve miles from the shore for shipping (iii) two hundred miles as Exclusive Economic Zone (EEZ)"
+}

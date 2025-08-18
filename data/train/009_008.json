@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 8,
+  "type": "mcq_single",
+  "input": "The Indian parliamentary system is different from the British Parliamentary system in that India has?",
+  "options": {
+    "A": "Both a real and a nominal executive",
+    "B": "A system of collective responsibility",
+    "C": "Bicameral legislature",
+    "D": "The system of judicial review"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The law that the British Parliament enacts, cannot be brought to the Judiciary for its review unlike the Indian Parliament, wherein the legislation that it passes, undergoes a judicial review. Any such legislation, as passed in the Indian Parliament can also be struck down in case the courts declare it to be violating the basic structure of the Indian Constitution."
+}

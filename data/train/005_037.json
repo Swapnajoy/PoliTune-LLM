@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 37,
+  "type": "mcq_single",
+  "input": "Which one of the following is not the concern of local government?",
+  "options": {
+    "A": "Public health",
+    "B": "Sanitation",
+    "C": "Public utility service",
+    "D": "Maintenance of public order"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The local government of India are vested with a long list of functions delegated to them by the state governments under the municipal legislation."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 25,
+  "type": "mcq_single",
+  "input": "Who among the following was not a member of the Drafting Committee of the Constitution of India?",
+  "options": {
+    "A": "B. R. Ambedkar",
+    "B": "K. M. Munshi",
+    "C": "Krishnaswamy Iyer",
+    "D": "M. K Gandhi"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Drafting Committee for framing the constitution was appointed on 29th August 1947.The committee comprised of a chairman and six other members. The committee members were:- Dr B. R. Ambedkar(Chairman), K M Munshi, Alladi Krishnaswamy Iyer, N Gopalaswami Ayengar, B L Mitter, Md. Saadullah and D P Khaitan."
+}

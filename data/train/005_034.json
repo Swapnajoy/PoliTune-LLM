@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 34,
+  "type": "mcq_single",
+  "input": "Which one of the following Directive principles is nearer to Gandhi’s philosophy?",
+  "options": {
+    "A": "Equal pay for equal work",
+    "B": "Separation of executive from judiciary",
+    "C": "Strengthening of Gram Panchayats",
+    "D": "Equal justice and free legal aid"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Gandhi’s philosophy was about strengthening of Gram Panchayats."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 135,
+  "type": "mcq_single",
+  "input": "The privileges enjoyed by members of a parliament are: I. Freedom from arrest with certain riders. II. Exemption from attendance as jurors and witnesses. III. Freedom of Speech.",
+  "options": {
+    "A": "Only III",
+    "B": "I and III",
+    "C": "I and II",
+    "D": "I, II and III"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The privileges enjoyed by members of a parliament are 1. Freedom from arrest with certain riders 2. Exemption from attendance 3. Freedom of speech"
+}

@@ -1,0 +1,17 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 55,
+  "type": "mcq_single",
+  "input": "Which one of the following High Courts has the territorial jurisdiction over Andaman and Nicobar Islands?",
+  "options": {
+    "A": "andhra Pradesh (b) Calcutta",
+    "B": "Madras (d) orissa"
+  },
+  "choices": [
+    "A",
+    "B"
+  ],
+  "answer": "B",
+  "explanation": "Calcutta High court has the territorial jurisdiction over Andaman and Nicobar Islands. The Calcutta High Court is the oldest High Court in India. It was established as the High Court of Judicature at Fort William on 1 July 1862 under the High Courts Act, 1861."
+}

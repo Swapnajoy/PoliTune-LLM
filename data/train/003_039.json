@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 39,
+  "type": "mcq_single",
+  "input": "Which of the following appointments is not made by the President of India?",
+  "options": {
+    "A": "Speakers of the Lok Sabha",
+    "B": "Chief Justice of India",
+    "C": "Chief of Air Staff",
+    "D": "Chief of Army"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Speaker of Lok sabha elected by simple majority in the Lok sabha."
+}

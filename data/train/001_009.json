@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 9,
+  "type": "mcq_single",
+  "input": "When did the Indian Constituent Assembly meet for the first time?",
+  "options": {
+    "A": "26 Jan, 1950",
+    "B": "15Aug, 1947",
+    "C": "9 Dec, 1946",
+    "D": "19 Nov, 1949"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The first meeting of the constituent assembly was held on 9 Dec 1946."
+}

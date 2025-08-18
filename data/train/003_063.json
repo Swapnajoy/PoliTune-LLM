@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 63,
+  "type": "statements_correctness",
+  "input": "In both the Houses of Parliament under the automotive vote recorder system each member casts his vote from the seat allotted to him. Consider the following: P. Green button represents AYES Q. Red button represents ABSTAIN R. Black button represent NOES Which of the above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "P and Q only",
+    "C": "Q and R only",
+    "D": "P and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Red Button represents NOES, Black button represents ABSTAIN."
+}

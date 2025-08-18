@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 50,
+  "type": "statements_correctness",
+  "input": "Which of the following features of the Indian Government system are the essential features of the parliamentary Government system? P. Presence of nominal and real executives Q. Membership of the ministers in the legislature R. Separation of powers between the Union and State government S. Independent judiciary system Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, Q and R only",
+    "C": "Q and R only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Separation of powers between the Union and state government or federal system may exist under the presidential government system also as it is found in the United states of America. The doctrine of “separation of powers” envisages the concept of division of powers. In India, the fountain-head of power is the Constitution."
+}

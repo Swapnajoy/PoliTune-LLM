@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 34,
+  "type": "mcq_single",
+  "input": "Which/Who of the following can appoint a commission to examine and report on any matter relating to the administration of the autonomous districts or regions?",
+  "options": {
+    "A": "Legislative Assembly of the State",
+    "B": "Governor of the State",
+    "C": "President of India",
+    "D": "Parliament of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

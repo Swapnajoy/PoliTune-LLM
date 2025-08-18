@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 16,
+  "type": "mcq_single",
+  "input": "Recently London High Court granted right to few elderly people to go ahead with their case against government in relation to Mau Mau Rebellion. In which country this rebellion took place?",
+  "options": {
+    "A": "Kenya",
+    "B": "Libya",
+    "C": "Ethiopia",
+    "D": "Republic of Congo"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Mau Mau Rebellion took place in Kenya. The Mau Mau Uprising (also known as the Mau Mau Revolt, Mau Mau Rebellion and Kenya Emergency) was a military conflict that took place in Kenya between 1952 and 1960. It involved Kikuyu-dominated anti-colonial groups summarily called Mau Mau and elements of the British Army, the local Kenya Regiment mostly consisting of the British, auxiliaries and anti-Mau Mau Kikuyu. The capture of rebel leader Dedan Kimathi on 21 October 1956 signalled the ultimate defeat of Mau Mau, and essentially ended the British military campaign"
+}

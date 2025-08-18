@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 9,
+  "type": "mcq_single",
+  "input": "The Ashok Mehta Committee laid greater emphasis on",
+  "options": {
+    "A": "Gram Sabha",
+    "B": "Mandal Sabha",
+    "C": "Taluka Panchayat Samiti",
+    "D": "Zila Parishad"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Ashok Mehta Committee recommendations put greater emphasis on Zila parishad. This committee recommended that, A district should be the first point for decentralization under popular supervision below the state level."
+}

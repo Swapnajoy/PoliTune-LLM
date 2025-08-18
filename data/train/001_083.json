@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 83,
+  "type": "mcq_single",
+  "input": "The provision of the sixth schedule shall not apply in which one of the following states?",
+  "options": {
+    "A": "Meghalaya",
+    "B": "Tripura",
+    "C": "Mizoram",
+    "D": "Goa"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "In 6th schedule provision for administration of tribal areas in Assam, Meghalaya, Tripura, Mizoram & Arunachal Pradesh is given."
+}

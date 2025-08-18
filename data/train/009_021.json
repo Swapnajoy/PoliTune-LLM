@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 21,
+  "type": "statements_correctness",
+  "input": "Why is political power sharing through different levels of government desirable in a democracy? P. It helps to reduce the possibility of conflict between various social groups. Q. It decreases the possibility of arbitrary decision-making. R. It prompts people’s participation at different levels of government. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only R",
+    "B": "P, Q and R",
+    "C": "P and R",
+    "D": "Only Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Power sharing helps in reducing the conflict between various social groups. Hence, power sharing is necessary for maintaining social harmony and peace.Power sharing helps in avoiding the tyranny of majority. The tyranny of majority not only destroys the minority social groups but also the majority social group. It decreases the possibility of arbitrary decision making.People’s voice forms the basis of a democratic government (people’s participation at different levels of government)."
+}

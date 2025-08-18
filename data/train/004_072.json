@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 72,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : In India, Every State has a High Court in its territory Reason (R) : The constitution of India provides for a High Court in each state",
+  "options": {
+    "A": "(a) and (R) is correct",
+    "B": "(a) and (R) is wrong",
+    "C": "(a) is correct (R) is wrong",
+    "D": "(a) is wrong (R) is correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "(a) is wrong (R) is correct."
+}

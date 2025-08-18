@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 48,
+  "type": "statements_correctness",
+  "input": "On which of the following matters, does the Finance Commission make recommendations to the President of India? P. The distribution between Union and States of net proceeds of taxes and allocation between the States of their respective share, of such proceeds. Q. The principles which should govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India. Select the correct answer using the codes given below :",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

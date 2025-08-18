@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 250,
+  "type": "mcq_single",
+  "input": "The States and the Central Government derive power from–",
+  "options": {
+    "A": "the Constitution of India",
+    "B": "the President of India",
+    "C": "the Prime Minister of India",
+    "D": "the Parliament of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

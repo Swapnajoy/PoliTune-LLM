@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 73,
+  "type": "mcq_single",
+  "input": "Under which of the constitutional provision, the Supreme Court of India extends advice to the president of India?",
+  "options": {
+    "A": "Article 141",
+    "B": "Article 142",
+    "C": "Article 143",
+    "D": "Article 144"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under article 143 of the constitutional provision, the Supreme Court of India extends advice to the President of India. The article is about Power of President to consult Supreme Court. Article 141 and 142 given so much power to the supreme court of India. The law declared by the supreme court shall be binding on all courts within the territory of India. Article 144 deals with civil and judicial authorities to act in the territory of India in aid of the Supreme court."
+}

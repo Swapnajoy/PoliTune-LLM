@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 75,
+  "type": "mcq_single",
+  "input": "Under which article the Parliament of India may constitute Administrative Tribunal ?",
+  "options": {
+    "A": "323 A",
+    "B": "323B",
+    "C": "324",
+    "D": "325"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 323 A specifies Administrative Tribunal like providing separate administrative tribunal for union and states,jurisdiction power, repeal or amend any order made by the President under clause. Article 323 B is about tribunals for other matters like tribunals of any disputes, complaints with respect to matters in which legislature has power to make laws. Article 324 deals with superintendence, direction and control of election to be vested in Election Commission. Article 325 stated, no person to be ineligible for inclusion in electoral roll on grounds of religion, race, caste or sex."
+}

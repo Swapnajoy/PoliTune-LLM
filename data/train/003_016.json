@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 16,
+  "type": "mcq_single",
+  "input": "The state wise allocation of seats in Lok Sabha is based on the 1971 census. Up to which year does this remain intact?",
+  "options": {
+    "A": "2031",
+    "B": "2026",
+    "C": "2021",
+    "D": "2011"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The state wise allocation of seats in Lok Sabha is based on 1971 census and this remain upto 2026 under article 82."
+}

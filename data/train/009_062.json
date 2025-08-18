@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 62,
+  "type": "mcq_single",
+  "input": "The US stopped cultivating ties with Taliban regime in Afghanistan after –",
+  "options": {
+    "A": "9/11 attacks in the US",
+    "B": "attacks on US embassies in Kenya and Tanzania",
+    "C": "attack on US military mission headquarter in Riyadh",
+    "D": "failures of talks on gas pipeline through Afghanistan"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The US stopped cultivating ties with Taliban Regime in Afghanistan after attack on US embassies in Kenya and Tanzania in1998."
+}

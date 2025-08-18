@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 261,
+  "type": "statements_correctness",
+  "input": "Which of the following are envisaged as being part of the ‘Right against Exploitation’ in the Constitution of India? P. Prohibition of traffic in human beings and forced labour. Q. Abolition of untouchability. R. Protection of the interests of the minorities. S. Prohibition of employment of children in factories and mines. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "P and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Articles 23 and 24 of the Indian Constitution safeguard women and children and others against exploitation of various forms. Article 23 declares slave trade, prostitution and human trafficking a punishable offence. Article 24 of the Indian Constitution prohibits employment of children below the age of 14 years in dangerous jobs like factories and mines."
+}

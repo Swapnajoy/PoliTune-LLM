@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "The Constitution of India does not contain any provision for the impeachment of",
+  "options": {
+    "A": "The President",
+    "B": "The Governor of state",
+    "C": "The Chief Justice of India",
+    "D": "The Vice President of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "There is no provision of impeachment of Governor of state."
+}

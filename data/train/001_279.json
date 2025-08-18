@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 279,
+  "type": "mcq_single",
+  "input": "Which one of the following statements is correct?",
+  "options": {
+    "A": "Rights are claims of the State against the citizens.",
+    "B": "Rights are privileges which are incorporated in the Constitution of a State.",
+    "C": "Rights are claims of the citizens against the State.",
+    "D": "Rights are privileges of a few citizens against the many."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "New NCERT,Std. 11, Political Theory Chapter 5: Rights , Page 72 • Through these rights, people make demands upon the state. So, “C” is most fitting answer."
+}

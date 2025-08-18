@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 63,
+  "type": "mcq_single",
+  "input": "Which among the following Union Territory has a Judicial Commissioner?",
+  "options": {
+    "A": "Pondicherry",
+    "B": "andaman & Nicobar Islands",
+    "C": "Daman & Diu",
+    "D": "Lakshadweep"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Act no. 16 of 1964 is an act to declare the judicial commissioner’s court for Goa, Daman and Diu [16th may, 1964]."
+}

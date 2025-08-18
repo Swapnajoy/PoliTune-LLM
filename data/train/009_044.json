@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 44,
+  "type": "mcq_single",
+  "input": "‘Balance of Power’ is an important principle of :",
+  "options": {
+    "A": "Liberal thought in international politics",
+    "B": "Marxist thought in international politics",
+    "C": "Traditional thought in international politics",
+    "D": "Realist thought in international politics"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "‘Balance of Power’ is and important principle of Realist thought in international politics which suggests that national security is enhanced when military capability is distributed so that no one state is strong enough to dominate all others."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 146,
+  "type": "mcq_single",
+  "input": "The Constitution of India vests the executive powers of the Indian Union in which of the following ?",
+  "options": {
+    "A": "The prime minister",
+    "B": "The president",
+    "C": "The council of ministers",
+    "D": "The parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Executive powers of the Indian Union refers to the President."
+}

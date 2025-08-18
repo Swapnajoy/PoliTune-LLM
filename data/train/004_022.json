@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 22,
+  "type": "statements_correctness",
+  "input": "Select the constitutional duties of the Chief Minister from following by using codes given below P. The Chief Minister communicates to the Governor all decisions of the Council of Ministers related to the administration of the affairs of the State. Q. The Chief Minister communicates to the Governor the proposals for legislation. R. The Chief Minister participates in the meetings of National Development Council. S. The Chief Minister submits for the consideration of the Council of Ministers any matter on which decision has been taken by a minister but which has not been considered by the council as if the Governor requires. Codes:",
+  "options": {
+    "A": "P and Q",
+    "B": "P and S",
+    "C": "P, Q and R",
+    "D": "P, Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "National Development Council is not constitutional."
+}

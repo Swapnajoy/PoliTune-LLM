@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 290,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q): The Directive Principles of State Policy contained in the Constitution of India are relevant in determining the limits of reasonable restrictions laid down in Article 19 dealing with the fundamenal right to Freedom. Reason (R): The Fundamental Rights in Part III of the Constitution have been superseded by the Directive Principles. Codes:",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

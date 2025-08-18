@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 3,
+  "type": "mcq_single",
+  "input": "The Legislative Council in a State in India can be created or abolished by the",
+  "options": {
+    "A": "Parliament on the recommendation of a Governor of the state.",
+    "B": "Parliament alone",
+    "C": "Parliament after the state assembly passes the resolution of that effect.",
+    "D": "Governor of the state on the recommendation of the Council of Ministers."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Legislative council in state can created or abolished by Parliament after the state assembly passes the resolution."
+}

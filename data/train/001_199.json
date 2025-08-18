@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 199,
+  "type": "mcq_single",
+  "input": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India?",
+  "options": {
+    "A": "Liberty of thought",
+    "B": "Economic liberty",
+    "C": "Liberty of expression",
+    "D": "Liberty of belief"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Read the preamble given in any school textbook: “We, the people of India,....LIBERTY of thought, expression, belief, faith and worship…”So, “B” is the answer."
+}

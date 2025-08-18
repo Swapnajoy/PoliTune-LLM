@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 51,
+  "type": "mcq_single",
+  "input": "Recommendations to the President of India on the specific Union state fiscal relation are made by the",
+  "options": {
+    "A": "Finance Minister",
+    "B": "Reserve Bank of India",
+    "C": "Planning Commission",
+    "D": "Finance Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The finance commission made recommendations to the president of India on the specific union state fiscal relation."
+}

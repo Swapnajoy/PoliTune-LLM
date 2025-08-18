@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 10,
+  "type": "statements_correctness",
+  "input": "Which of the following are matters on which the Parliament has the power to modify provisions of the Constitution by a simple majority ? P. Alternation of names, boundaries and areas of States. Q. Appointment of additional judges R. Abolition of the second chamber of a State Legislature S. Administration of Scheduled Areas Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P, Q and S",
+    "C": "P, R and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "A number of provision in the constitution can be amended by a simple majority of the two houses of parliament outside the scope of Article 368. Some of these are: 1. Admission or establishment of new States. 2. Formation of new states and related subjects 3. Abolition or creation of legislative councils in states. 4. Second schedule- emoluments, allowances, privileges, and so on of the president, the governors,, the speakers, judges etc."
+}

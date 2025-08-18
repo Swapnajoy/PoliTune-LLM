@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 234,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : Preventive Detention is included in the chapter on Fundamental Rights in the Constitution of India. Reason (R) : The Constitution has vested the legislative power with regard to preventive detention in the Parliament only and the State Legislatures have no authority in this regard. Codes:",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Preventive detention, the practice of incarcerating accused individuals before trial on the assumption that their release would not be in the best interest of society—specifically, that they would be likely to commit additional crimes if they were released."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 9,
+  "type": "mcq_single",
+  "input": "Answer the incorrect one from below about the Lok Ayuktas?",
+  "options": {
+    "A": "Tamil Nadu and Andhra Pradesh have no Lokayuktas.",
+    "B": "11th All India Lokayukta Conference 2012 was held in New Delhi.",
+    "C": "Both (a) and (b)",
+    "D": "Neither (a) nor (b)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Tamil Nadu and Andhra pradesh have already set up Lokayauktas. So the incorrect answer is option (a) . The Lokayukta appointed by the people is an anti-corruption ombudsman organization in the Indian states. The Administrative Reforms Commission (ARC) headed by Morarji Desai submitted a special interim report on “Problems of Redressal of Citizen’s Grievances” in 1966. In this report, the ARC recommended the setting up of two special authorities designated as ‘Lokpal’ and ‘Lokayukta’ for the redressal of citizens’ grievances."
+}

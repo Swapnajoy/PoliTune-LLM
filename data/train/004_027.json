@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 27,
+  "type": "statements_correctness",
+  "input": "On which of the following issues can a Governor make recommendation to the President? P. Dismissal of the State Council of Ministers Q. Removal of the Judges of the High Court R. Dissolution of the State Legislative Assembly S. Declaration of the breakdown of the Constitution Machinery in the State Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P, R and S",
+    "D": "P, Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In case no political party bags a majority in the Vidhan Sabha of the state, the Governor holds the power to use his discretion to select the Chief Minister. The Governor informs the President in an official report, of a particular emergency arisen in the state, and imposes ‘President’s Rule’ on the behalf of the President. The Governor, in such circumstances, overrides the advice or functions of the Council of Ministers, and directs upon himself, the workings of the state."
+}

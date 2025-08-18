@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 232,
+  "type": "statements_correctness",
+  "input": "Which of the following statements are true with regard to the Fundamental Rights of the minorities in educational matters? P. The minority has only the right to administer the educational institutions. Q. The minority has the right to establish and administer educational institutions. R. The right is absolute and not subject to any restriction. S. Reasonable restrictions may be imposed to promote efficiency and prevent maladministration. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q and S",
+    "C": "Q, R and S",
+    "D": "P and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

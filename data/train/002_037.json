@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 37,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : UPSC is an independent organisation. Reason (R) : UPSC is a constitutional body. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

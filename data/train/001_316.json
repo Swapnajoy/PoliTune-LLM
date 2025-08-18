@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 316,
+  "type": "mcq_single",
+  "input": "How many types of emergencies have been envisaged under the Indian Constitution?",
+  "options": {
+    "A": "Two",
+    "B": "Three",
+    "C": "Four",
+    "D": "One."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "There are three types of emergencies which have been envisaged under the Indian constitution. The President can declare three types of emergencies: National emergency under Article 352 State emergency under Article 356 Financial emergency under Article 360"
+}

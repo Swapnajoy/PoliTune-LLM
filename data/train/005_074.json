@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 74,
+  "type": "mcq_single",
+  "input": "What is the normal tenure of a Panchayat?",
+  "options": {
+    "A": "3 years",
+    "B": "4 years",
+    "C": "2 years",
+    "D": "5 years"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The normal tenure of Panchayat is 5 years."
+}

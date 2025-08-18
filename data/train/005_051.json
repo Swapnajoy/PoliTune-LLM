@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 51,
+  "type": "statements_correctness",
+  "input": "Point out the difference between the local government in India before and after the Constitutional Amendments in 1992: P. It has become mandatory to hold regular elections to the local government bodies. Q. 1/3rd positions are reserved for women. R. Elected officials exercise supreme power in the government. Select the correct answer using the code given below.",
+  "options": {
+    "A": "P only",
+    "B": "P and Q only",
+    "C": "P, Q and R",
+    "D": "Q and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "There is a provision of reservation of seats for SCs, STs and Women at every level of Panchayat. Out of the total number of seats to be filled by the direct elections, 1/3rd have to be reserved for women."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 252,
+  "type": "statements_correctness",
+  "input": "A writ of Habeas Corpus for the release of a person can be issued (CDS 2015-II) P. where the arrest or detention has taken place in contravention of the procedure established by law Q. to secure the release of a person imprisoned on a criminal charge R. where the arrest has taken place for contempt of Court or the Parliament Select the correct answer using the code given below.",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q and R only",
+    "C": "P only",
+    "D": "l and Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Habeas Corpus is a legal remedy to provide relief to detaines from unlawful imprisonment."
+}

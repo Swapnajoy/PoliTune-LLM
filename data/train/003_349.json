@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 349,
+  "type": "mcq_single",
+  "input": "Under which law it is prescribed that all proceedings in the Supreme Court of India shall be in English language?",
+  "options": {
+    "A": "The Supreme Court Rules, 1966",
+    "B": "A Legislation made by the Parliament",
+    "C": "Article 145 of the Constitution of India",
+    "D": "Article 348 of the Constitution of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 69,
+  "type": "mcq_single",
+  "input": "Which of the following articles of the Indian constitution deals with citizenship in India?",
+  "options": {
+    "A": "Article 333 to 337",
+    "B": "Article 17 to 20",
+    "C": "Article 05 to 11",
+    "D": "Article 01 to 04"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Articles 05 to 11 of the Indian Constitution deal with citizenship in India. The legislation related to this matter is the Citizenship Act 1955, which has been amended by the Citizenship (Amendment) Act 1986, the Citizenship (Amendment) Act 1992, the Citizenship (Amendment) Act 2003, and the Citizenship (Amendment) Act, 2005. Article 17, article 18 are about abolition of ‘unatouchability and titles’ respectively. Article 19 to article 22 deal with ‘right to freedom’. Article 1-4 deals with ‘Union and its Territory. Article 330-342 mentions ‘special provisions relating to certain classes."
+}

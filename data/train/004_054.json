@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 54,
+  "type": "mcq_single",
+  "input": "The first High/Supreme Court judge, who voluntarily made his assets public is",
+  "options": {
+    "A": "Justice D.V.S. Kumar",
+    "B": "Justice K. Chandra",
+    "C": "Justice K. Kannan",
+    "D": "Justice V.C. Srivastava"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "High court judge Justice K Kannan was the first judge to have voluntarily made his assets public."
+}

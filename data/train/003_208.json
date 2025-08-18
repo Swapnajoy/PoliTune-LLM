@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 208,
+  "type": "statements_correctness",
+  "input": "Who among the following Prime Ministers of India were defeated by a vote of No Confidence ? (CDS 2016-I) P. Morarji Desai Q. Viswanath Pratap Singh R. H.D. Deve Gowda S. Atal Bihari Vajpayee Select the correct answer using the code given below :",
+  "options": {
+    "A": "P,Q, R and S",
+    "B": "P, Q and R only",
+    "C": "Q, R and S only",
+    "D": "P and S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

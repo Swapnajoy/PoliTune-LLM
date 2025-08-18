@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 20,
+  "type": "statements_correctness",
+  "input": "A governor can make recommendation to the president on which of the following issues? P. Removal of the members of the state PSC Q. Removal of the judges of the High Court R. Dissolution of the State Legislative Assembly S. Declaration of the breakdown of the constitutional machinery in the state. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, Q and R only",
+    "B": "Q and S only",
+    "C": "R and S only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "A Governor can make recommendation, to the president on dissolution of the state legislative assembly and the declaration of the breakdown of the constitution machinery in the state. Under article 356 State emergency is declared on failure of constitutional machinery in a state. Nearly every state in India has been under a state of emergency at some point of time or the other. The state of emergency is commonly known as ‘President’s Rule’."
+}

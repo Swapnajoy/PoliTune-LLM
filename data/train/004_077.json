@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 77,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. In India, only two Union Territories have Legislative Assemblies. Q. Mizoram, Nagaland and Meghalaya, the three North-Eastern States of India, have only one seat each in the Lok Sabha. Which of the statement(s) given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Delhi and Puducherry have their own elected legislative assembliesand the executive councils of ministers."
+}

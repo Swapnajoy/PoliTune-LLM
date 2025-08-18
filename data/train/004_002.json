@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 2,
+  "type": "mcq_single",
+  "input": "Which of the following states can nominate two women members to the legislative assembly?",
+  "options": {
+    "A": "Himachal Pradesh",
+    "B": "Kerala",
+    "C": "Jammu and Kashmir",
+    "D": "Uttar Pradesh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The state of Jammu and Kashmir can nominate two women members to the Legislative Assembly. The two women may be nominated as members by the Governor of Jammu and Kashmir if he or she is of the opinion that women are not adequately represented."
+}

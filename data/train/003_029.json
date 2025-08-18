@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 29,
+  "type": "mcq_single",
+  "input": "What is the maximum time interval permissible between two successive sessions of the parliament?",
+  "options": {
+    "A": "4 months",
+    "B": "5 months",
+    "C": "6 months",
+    "D": "3 months"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "6 months is the maximum time interval permissible between the two successive session of the parliament."
+}

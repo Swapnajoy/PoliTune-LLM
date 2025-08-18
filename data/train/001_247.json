@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 247,
+  "type": "statements_correctness",
+  "input": "As per the Constitution of india, the Writ of Prohibition relates to an order: (CDS 2016-I) P. issued against judicial and quasi judicial authority Q. to prohibit an inferior Court from proceeding in a particular case where it has no jurisdiction to try R. to restrain a person from holding a public office to when he is not entitled Select the correct answer using the code given below :",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "A Writ of prohibition is issued primarily to prevent an inferior court from exceeding its jurisdiction, or acting contrary to the rule of natural justice. The writ lies only against a body exercising public functions of a judicial or quasi-judicial character."
+}

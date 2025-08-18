@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 43,
+  "type": "mcq_single",
+  "input": "A 2-tier system is prescribed by the 73rd Amendment Act, 1992 for states with population less than",
+  "options": {
+    "A": "10 lakhs",
+    "B": "5 lakhs",
+    "C": "20 lakhs",
+    "D": "none of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "73rd Amendment Act, 1992 provides for 3-tier system of Panchayati Raj for all the states having population of over 20 Lakhs."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 20,
+  "type": "mcq_single",
+  "input": "As a non-member who can participate in the proceedings of either House of Parliament",
+  "options": {
+    "A": "Vice President",
+    "B": "Chief Justice",
+    "C": "Attorney General",
+    "D": "Chief Election Commissioner"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "As a non-member, Attorney General can participate in the proceedings of either House of Parliament. The Attorney General of India is the Indian government’s chief legal advisor, and its primary lawyer in the Supreme Court of India."
+}

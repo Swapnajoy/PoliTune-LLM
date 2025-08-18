@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 67,
+  "type": "mcq_single",
+  "input": "When the chief justice of a High Court acts in an administrative capacity, he is subject to.",
+  "options": {
+    "A": "The writ jurisdiction of any of the other judges of the High Court.",
+    "B": "Special control exercised by the chief justice of India.",
+    "C": "Discretionary power of the Governor of the State",
+    "D": "Special powers provided to the Chief Minister in this regard"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "According to Article 227(b), the Chief Justice of High Court when acts in an administrative capacity, any rules made by him shall not be inconsistent with the provision of any law in force and requires the previous approval of the governor."
+}

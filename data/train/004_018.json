@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 18,
+  "type": "mcq_single",
+  "input": "The ‘Contingency Fund’ of the state is operated by",
+  "options": {
+    "A": "The Governor of the state",
+    "B": "The Chief Minister of the state",
+    "C": "The State Finance Minister",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Contingency Fund of each State Government is established under Article 267(2) of the Constitution – this is in the nature of an imprest placed at the disposal of the Governor to enable him/her to make advances to meet urgent unforeseen expenditure, pending authorization by the State Legislature."
+}

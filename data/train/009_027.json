@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 27,
+  "type": "statements_correctness",
+  "input": "Which of the following about the principles of Panchsheel are correct ? P. These are a set of five principles governing relations between States Q. The assumption of Panchsheel was that newly independent States after decolonization would be able to develop a new and more principled approach to international relations R. The first formal codification in treaty form was done in an agreement between China and India Select the correct answer using the code given below :",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P, Q and R",
+    "D": "P and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

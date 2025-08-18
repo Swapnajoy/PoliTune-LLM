@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 209,
+  "type": "statements_correctness",
+  "input": "Which of the following statements relating to the office of the President of India are correct? (CDS 2016-I) P. The President has the power to grant pardon to a criminal in special case Q. The President can promulgate ordinances even when the Parliament is in session R. The President can dissolve the Rajya Sabha during emergency. S. The President has the power to nominate two member in the Lok Sabha from the Anglo Indian community Select the correct answer using the code given below :",
+  "options": {
+    "A": "P and Q",
+    "B": "P and S",
+    "C": "R and S only",
+    "D": "P, R only S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

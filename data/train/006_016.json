@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 16,
+  "type": "mcq_single",
+  "input": "The Planning Commission of India has been constituted",
+  "options": {
+    "A": "under constitutional provision with specific mention for it",
+    "B": "through an Act of Parliament",
+    "C": "through a cabinet decision in this regard",
+    "D": "through constitutional amendment"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Planning Commission was established in March 1950 by an executive resolution of the Government of India, on the recommendation of the Advisory Planning Board constituted in 1946, under the chairmanship of KC Neogi. Thus, the Planning Commission is neither constitutional nor a statutory body. Planning commission has been replaced by new institution namely NITI Aayog."
+}

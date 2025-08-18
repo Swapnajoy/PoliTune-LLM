@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 334,
+  "type": "mcq_single",
+  "input": "The original jurisdiction of the Supreme Court of India does not extend to which of the following matters?",
+  "options": {
+    "A": "between the Government of India and one or more States",
+    "B": "between the Government of India and any State or States on one side and one or more other States on the other",
+    "C": "between two or more States, if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends",
+    "D": "dispute arising out of any treaty, agreement, covenant, engagement, sand or other similar instrument"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 7,
+  "type": "assertion_reason",
+  "input": "Consider the following statements : Assertion (Q) : The reservation of thirty-three percent of seats for women in parliament and state legislature does not require constitutional Amendment. Reason (R) : Political parties contesting elections can allocate thirty-three per cent of seats they contest to women candidates without any Constitutional Amendment Which one of the following is correct?",
+  "options": {
+    "A": "Both Q and R are true and R is the correct explanation of Q.",
+    "B": "Both Q and R are true but R is not the correct explanation of Q.",
+    "C": "Q is true but R is false.",
+    "D": "Q is false but R is true."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The 108th amendment bill or the women’s reservation bill, introduced in 2008, is a lapsed bill. The bill proposed to amend the Indian Constitution to reserve 33 percent of seats for women in the lower house of the Indian Parliament, in the Lok Sabha and in the state legislative assemblies."
+}

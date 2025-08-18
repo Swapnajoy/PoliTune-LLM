@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 226,
+  "type": "mcq_single",
+  "input": "Which of the following is not guaranteed by the Constitution?",
+  "options": {
+    "A": "Freedom of assembly",
+    "B": "Freedom of residence",
+    "C": "Freedom of strike",
+    "D": "Freedom of association"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Freedom of strike is not guaranteed by the constitution among six fundamental rights."
+}

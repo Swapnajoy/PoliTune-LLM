@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 326,
+  "type": "statements_correctness",
+  "input": "Which of the following can be done under conditions of financial emergency? P. State Legislative Assemblies can be abolished. Q. Central Government can acquire control over the budget and expenditure of States. R. Salaries of the Judges of the High Courts and the supreme court can be reduced. S. Right to Constitutional Remedies can be suspended. Select the correct answer from the codes given below : Codes:",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P and Q",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under the condition of Financial Emergency, Central Government can acquire control over the budget and expenditure of states and salaries of the Judges of the High Courts and Supreme Court can be reduced."
+}

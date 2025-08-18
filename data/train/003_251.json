@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 251,
+  "type": "mcq_single",
+  "input": "President of India exercises his powers –",
+  "options": {
+    "A": "either directly or through officers subordinate to him",
+    "B": "through Ministers",
+    "C": "through Prime Ministers",
+    "D": "through Cabinet (e) None of the above / More than one of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

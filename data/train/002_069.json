@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 69,
+  "type": "mcq_single",
+  "input": "Who among the following can attend the meetings of both Houses of Parliament while being not a member of either of the Houses?",
+  "options": {
+    "A": "Solicitor-General of India",
+    "B": "Vice-President of India",
+    "C": "Comptroller and Auditor-General of India",
+    "D": "Attorney General of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "He has the right to speak and to take part in the proceedings of both houses of parliament or their joint sitting."
+}

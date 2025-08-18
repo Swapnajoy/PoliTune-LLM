@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 3,
+  "type": "mcq_single",
+  "input": "Which one of the following is the basis of federal government?",
+  "options": {
+    "A": "Supremacy of the parliament",
+    "B": "Supremacy of Judiciary",
+    "C": "Division of powers between federal and state government",
+    "D": "single citizenship"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Federal Government-Division of powers between federal and state government."
+}

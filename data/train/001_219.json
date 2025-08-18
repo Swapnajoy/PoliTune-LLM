@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 219,
+  "type": "mcq_single",
+  "input": "Which one of the following rights has been described by Dr. Ambedkar as ‘The heart and soul of the Constitution’?",
+  "options": {
+    "A": "Right of Equality",
+    "B": "Right to freedom",
+    "C": "Right to property",
+    "D": "Right to Constitutional Remedies"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 32 provides the right of constitutional remedies which means that a person has right to move to Supreme Court and High Court for getting his fundamental rights protected so it is called “soul of the constitution and very heart of it”. 44th amendment act 1978 under article 300A provides right of property as legal right."
+}

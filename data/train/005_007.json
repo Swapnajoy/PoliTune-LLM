@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 7,
+  "type": "mcq_single",
+  "input": "The 73rd Amendment of the Indian Constitution deals with",
+  "options": {
+    "A": "Panchayati Raj",
+    "B": "Compulsory primary education",
+    "C": "Nagar Palikas",
+    "D": "Minimum age of marriage"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The 73rd Amendment of the Indian Constitution deals with Panchayati Raj. The Amendment Act of 1992 contains provision for devolution of powers and responsibilities to the panchayats both for the preparation of economic development plans and social justice."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 281,
+  "type": "mcq_single",
+  "input": "Acting Chief Justice of the Supreme Court in India is appointed by the",
+  "options": {
+    "A": "Chief Justice of Supreme Court",
+    "B": "Prime Minister",
+    "C": "President",
+    "D": "Law Minister"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

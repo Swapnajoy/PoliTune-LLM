@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 18,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a component of the Realist Theory? (CDS 2015-II)",
+  "options": {
+    "A": "The State is the preeminent actor",
+    "B": "State sovereignty is important for the affirmation of juridical authority over territory",
+    "C": "The primary objective of all States is survival",
+    "D": "Survival can be assured in cooperation with international organizations"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Realists believe in self assistance. They think that no other country may be trusted for the survival."
+}

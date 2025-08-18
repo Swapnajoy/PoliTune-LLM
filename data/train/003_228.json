@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 228,
+  "type": "statements_correctness",
+  "input": "Which of the following pairs of constitutional authority and procedure of appointment is/are correctly matched? P. President : Elected by an electoral college consisting of elected MLAs and MPs Q. Vice-President: Elected by an electoral college consisting of MLAs and MPs R. Speaker : The House of People chooses after its first sitting Select the correct answer using the codes given below",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Only P",
+    "C": "P and R",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

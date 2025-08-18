@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 327,
+  "type": "mcq_single",
+  "input": "Which one of the following cannot be the ground for proclamation of Emergency under the Constitution of India?",
+  "options": {
+    "A": "War",
+    "B": "External aggression",
+    "C": "Armed rebellion",
+    "D": "Internal disturbance"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Internal disturbance substituted by the words ‘armed rebellion’ under the 44th Amendment Act of 1978. So, it is not the ground for proclamation of Emergency under the Constitution of India."
+}

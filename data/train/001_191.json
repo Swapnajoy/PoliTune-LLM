@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 191,
+  "type": "statements_correctness",
+  "input": "The preamble to the Indian Constitution serves the following purpose. P. The Preamble indicates the source from which the Constitution desires its power. Q. It also states the objects which the Constitution seeks to establish and promote. The correct answer is",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 326,
+  "type": "statements_correctness",
+  "input": "Consider the following statements and select the correct answer: P. The original jurisdiction of Supreme Court extends only to any dispute between the government of India and one or more States. Q. The Supreme Court also has an appellate jurisdiction over all courts and tribunals in India R. The Supreme Court has special advisory jurisdiction in matters which may specifically be referred to it by the president of India Codes:",
+  "options": {
+    "A": "P and Q only",
+    "B": "P and R only",
+    "C": "Q and R only",
+    "D": "All the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

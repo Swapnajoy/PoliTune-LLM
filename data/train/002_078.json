@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 78,
+  "type": "statements_correctness",
+  "input": "Which of the following statement(s) is/are not correct about the Attorney General of India? P. The President appoints a person, who is qualified to be a Judge of a High court, to be the Attorney General of India. Q. He has the right to audience in all the Courts of the country. R. He has the right to take part in the Proceedings of the Lok Sabha and the Rajya Sabha. S. He has a fixed tenure. Select the correct answer from the codes given below:",
+  "options": {
+    "A": "P and S",
+    "B": "Q, R and S",
+    "C": "R and S",
+    "D": "R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The president appoints a person, who is qualified to be a Judge of a Supreme Court, to be the Attorney General of India and holds office during the pleasure of President."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 40,
+  "type": "mcq_single",
+  "input": "Which article of the Constitution lays down that state shall take steps to organise village Panchayats?",
+  "options": {
+    "A": "Article 36",
+    "B": "Article 73",
+    "C": "Article 24",
+    "D": "Article 40"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 40 of the Constitution which enshrines one of the Directive Principles of State Policy lays down that the state shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government. Article 73 - Extent of executive power of the union. Article 24 - Prohibition of employment of children in factories, etc."
+}

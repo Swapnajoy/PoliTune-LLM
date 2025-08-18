@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 68,
+  "type": "mcq_single",
+  "input": "The Parliament of India passed the Panchayats Extension to Scheduled Areas Law popularly known as PESA law. Which one among the following statements regarding PESA law is not correct?",
+  "options": {
+    "A": "PESA was meant to provide self-governance in the scheduled areas",
+    "B": "PESA disempowers Gram Sabhas",
+    "C": "PESA protects the interests of the tribals",
+    "D": "PESA conducts public hearings to protect inheritance rights of the tribals"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Panchayats Extension to Scheduled Areas Act(PESA) is a law enacted by the Government of India to cover the “Scheduled areas” which are not covered in the 73rd amendment or Panchayati Raj Act of the Indian Constitution. It was enacted on 24 December 1996 to enable Gram Sabhas to self-govern their natural resources."
+}

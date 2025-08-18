@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 175,
+  "type": "mcq_single",
+  "input": "Which of the following is not correctly matched under the Constitution of India?",
+  "options": {
+    "A": "The panchayats — Part IX",
+    "B": "The Municipalities — Part IX – A",
+    "C": "The Cooperative Societies — Part IX – B",
+    "D": "Tribunals — Part – X"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The tribunal are described in the Part XIV A of the Indian Constitution from article 323 A to 323 B. Part X deals with the scheduled and tribal areas from article 244 to article 244 A."
+}

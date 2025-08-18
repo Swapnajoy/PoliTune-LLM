@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 28,
+  "type": "mcq_single",
+  "input": "Who among the following were the members of the drafting committee of the Constitution?",
+  "options": {
+    "A": "Vallabhbhai Patel",
+    "B": "Jawaharlal Nehru",
+    "C": "Alladi Krishnaswami Aiyar",
+    "D": "Sardar Patel"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The members of the Drafting committee were Dr B R Ambedkar (Chairman), Krishnaswamy Aiyar, Dr K M Munshi, N Gopalaswamy Aiyanger, Syed Mohammad Saadullah, B L Mitter and D P Khaitan. Later in place of Mitter and Khaitan new members, N Madhava Rau and T T Krishnamachari joined the committee as members."
+}

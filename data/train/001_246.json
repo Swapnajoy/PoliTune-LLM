@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 246,
+  "type": "statements_correctness",
+  "input": "Which of the following statements with regard to preventive detention in India is / are correct? (CDS 2016-I) P. The detenue has no rights other than those mentioned in clauses (4) and (5) of Article 22 of Constitution of India Q. The detenue has a right to challenge the detention order on the ground that he was already in jail when the detention order was passed R. The detenue can claim bail on the ground that he has been in prison beyond twenty- four hours without an order of the magistrate Select the correct answer using the code given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q only",
+    "C": "R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 22 of constitution of India - No law will authorise the detention of a person for a period more three months until- · An advisory board suggest it. · When a person is detained under order of a court"
+}

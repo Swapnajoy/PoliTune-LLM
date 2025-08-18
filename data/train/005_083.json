@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 83,
+  "type": "mcq_single",
+  "input": "Which Act provides for the reservation seats for women, scheduled castes and scheduled tribes in the municipality?",
+  "options": {
+    "A": "65th Constitutional Amendment Act",
+    "B": "68th Constitutional Amendment Act",
+    "C": "73rd Constitutional Amendment Act",
+    "D": "74th Constitutional Amendment Act"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

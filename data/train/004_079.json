@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 79,
+  "type": "mcq_single",
+  "input": "Consider the following statements about lower courts and identify the false statements from the codes given below :",
+  "options": {
+    "A": "(a) Only",
+    "B": "(a) and (b)",
+    "C": "(a) and (c)",
+    "D": "(a), (b) and (c)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "At the level of district judiciary in India, the session cases are not civil, but criminal cases. Panchayat courts have criminal jurisdiction in minor offences."
+}

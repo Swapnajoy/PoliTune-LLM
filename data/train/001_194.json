@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 194,
+  "type": "statements_correctness",
+  "input": "The following are enshrined in the Preamble to the Constitution of India: P. Equality of status and opportunity. Q. Liberty of thought, expression, belief, faith and worship. R. Justice – social, economic and political. S. Fraternity assuring the dignity of the individual. T. Unity and integrity of the Nation. Which one of the following is the correct ordr in which they appear in the Preamble?",
+  "options": {
+    "A": "T, P, Q, S, R",
+    "B": "R, Q, P, S, T",
+    "C": "R, P, Q, T, S",
+    "D": "P, Q, S, R, T"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Preamble reads: • We, the People of India having solemnly resolved to constitute India into a Sovereign, Socialist, Secular, Democratic, Republic and to secure to all its citizens; • Justice, social, economic, political; • Liberty of thought, expression, belief, faith and worship; • Equality of status and opportunity; and to promote among them all; • Fraternity, assuring the dignity of the individual and the unity and integrity of the nation ;"
+}

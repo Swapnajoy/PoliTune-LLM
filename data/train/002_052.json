@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 52,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : The expenditure charged on the Consolidated Fund of India comprises: P. Pension payable to Judges of High Court Q. Debt charges for which the Government of India is liable R. Salary, allowances and pension payable to Comptroller and Auditor General of India Which of the statements given above are correct ?",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P and R only",
+    "C": "Q and R only",
+    "D": "P and Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 112 mentions the expenditure charged on consolidated fund of India comprises, the salaries and allowances of the Chairman and the Deputy Chairman of the Council of States and the Speaker and the Deputy Speaker of the House of the People, debt charges for which the Government of India is liable, the salaries, allowances and pensions payable to or in respect of Judges of the Supreme Court, the pensions payable to or in respect of Judges of the Federal Court, the pensions payable to or in respect of Judges of any High Court."
+}

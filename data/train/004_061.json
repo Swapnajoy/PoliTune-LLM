@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 61,
+  "type": "mcq_single",
+  "input": "Who has the authority to appoint a judge of a High Court?",
+  "options": {
+    "A": "The Chief Justice of India",
+    "B": "The president of India",
+    "C": "The governor of the concerned state",
+    "D": "The Legislative Assembly"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the chief Justice."
+}

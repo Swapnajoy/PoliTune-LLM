@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 242,
+  "type": "mcq_single",
+  "input": "At least how many days of prior notice is required for the impeachment to the President of India?",
+  "options": {
+    "A": "7 days",
+    "B": "14 days",
+    "C": "21 days",
+    "D": "30 days"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

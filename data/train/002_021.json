@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 21,
+  "type": "mcq_single",
+  "input": "What is the Terms of the Comptroller and Auditor General of India?",
+  "options": {
+    "A": "6 years",
+    "B": "upto 65 years of age",
+    "C": "6 years or 65 years of age, whichever earlier",
+    "D": "upto 64 years of age"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "CAG of India holds office for 6 years or 65 years of age, which ever earlier."
+}

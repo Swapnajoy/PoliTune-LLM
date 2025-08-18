@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 10,
+  "type": "statements_correctness",
+  "input": "Under which of the following conditions security deposits of a candidate contesting for a Lok Sabha seat is returned to him/her? P. The nomination made by the candidate if found to be invalid. Q. The candidate has withdrawn his/her nomination even though it is found valid. R. The candidate lost the polls but secured l/6th of the total number of valid votes polled in that election. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "Only R",
+    "C": "Q and R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The deposit made by a candidate shall be returned if the following conditions are satisfied:- (i) the candidate is not shown in the list of contesting candidates, that is to say, either his nomination was rejected or after his nomination was accepted, he withdrew his candidature; or (ii) he dies before the commencement of the poll; or (iii) he is elected; or (iv) he is not elected but gets more than 1/6th of the total number of valid votes polled by all the candidates at the election."
+}

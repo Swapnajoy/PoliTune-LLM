@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 47,
+  "type": "mcq_single",
+  "input": "Which one among the following statements is correct? The press in democracy must –",
+  "options": {
+    "A": "be free and impartial",
+    "B": "be committed to the policies of the government",
+    "C": "highlight the achievement of the government without criticizing its policies",
+    "D": "Criticize the policies of the government"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The press in democracy must be free and impartial."
+}

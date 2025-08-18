@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 6,
+  "type": "mcq_single",
+  "input": "Which party has advocated the coming together of all Left parties?",
+  "options": {
+    "A": "CPI",
+    "B": "CPI (M)",
+    "C": "NCP",
+    "D": "INC"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Communist party if India (CPI) has advocated to coming together all left parties."
+}

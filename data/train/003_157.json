@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 157,
+  "type": "mcq_single",
+  "input": "Who decides the office of profit?",
+  "options": {
+    "A": "President and Governor",
+    "B": "Union Parliament",
+    "C": "Supreme Court",
+    "D": "Union Public Service Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

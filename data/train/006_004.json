@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 4,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. The Central Information Commission is a high-powered independent body. Q. The Central Information Commission is a constitutional body. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Central Information Commission is a High powered independent body and not a Constitutional body."
+}

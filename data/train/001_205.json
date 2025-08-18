@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 205,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a feature of the Indian Constitution ?",
+  "options": {
+    "A": "Federal Government",
+    "B": "Independence of Judiciary",
+    "C": "Parliamentary Government",
+    "D": "Dual Citizenship"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The idea of single citizenship is borrowed from British constitution."
+}

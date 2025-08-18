@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 88,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. The Annual Appropriation Bill is passed by the Lok Sabha in the same manner as any other Bill. Q. An amendment to the Constitution of India can be initiated by an introduction of a Bill in either Lok Sabha or Rajya Sabha. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Appropriation Bill is intended to give authority to Government to incur expenditure from and out of the Consolidated Fund of India. The procedure for passing this Bill is the same as in the case of other money Bills. An amendment of the Constitution can be initiated only by the introduction of a Bill in either House of Parliament. The procedure of amendment in the constitution is laid down in Part XX (Article 368) of the Constitution of India."
+}

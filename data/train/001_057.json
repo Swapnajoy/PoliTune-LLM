@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 57,
+  "type": "mcq_single",
+  "input": "Which among the following features of a federal system is not found in the Indian Political System ?",
+  "options": {
+    "A": "Dual citizenship",
+    "B": "Distribution of powers between the Federal and the State Governments",
+    "C": "Supremacy of the Constitution",
+    "D": "Authority of the Courts to interpret the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Dual Citizenship is not found in the Indian political system. The Indian Constitution does not allow dual citizenship. Automatic loss of Indian citizenship covered in Section 9(1) of the Citizenship act 1955, provides that any citizen of India who by naturalisation or registration acquires the citizenship of another country shall cease to be a citizen of India. Indian Government has started OCI (Overseas citizen of India) Scheme in 2005.According to the scheme if you are already a Person of Indian origin (POI) and have taken up citizenship abroad, you can take up benefits of OCI scheme, which gives you the same travel and residence privileges like other Indians but you are not allowed to vote and take up jobs in Government sector."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 123,
+  "type": "mcq_single",
+  "input": "Who among the following was the member of Lok Sabha during his Prime Ministership?",
+  "options": {
+    "A": "Deva Gowda",
+    "B": "I.K.Gujral",
+    "C": "Chandrasheker",
+    "D": "Dr. Manmohan Singh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Chandra Shekhar was member of Lok Sabha from Ballia during his tenure as PM of India."
+}

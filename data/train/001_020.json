@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 20,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about the judicial system introduced by the British in India: P. It judicially unified India. Q. The British established a new system of law through the process of enactment and relevant interpretation of customary laws. R. In general the British tended to avoid the customary laws of India. Which of the Statements given above are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "In general the British observed customary laws of India."
+}

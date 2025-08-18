@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 40,
+  "type": "mcq_single",
+  "input": "Indian Constitution is",
+  "options": {
+    "A": "Rigid",
+    "B": "Flexible",
+    "C": "Neither rigid nor flexible",
+    "D": "Partly rigid and partly flexible"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Indian constitution is neither rigid nor flexible."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 42,
+  "type": "mcq_single",
+  "input": "Who among the following was not elected for two terms as the Speaker of Lok Sabha?",
+  "options": {
+    "A": "G.M.C. Balayogi",
+    "B": "N. Sanjiva Reddy",
+    "C": "Balram Jakhar",
+    "D": "Baliram Bhagat"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Baliram Bhagat was not elected for two terms as the speaker of Lok Sabha. He served as the Speaker of Lok Sabha from 1976 to 1977, during the turbulent final year of Indira Gandhi’s first reign as Prime Minister."
+}

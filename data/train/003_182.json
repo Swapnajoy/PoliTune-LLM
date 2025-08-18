@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 182,
+  "type": "mcq_single",
+  "input": "Which one of the following is part of the Electoral College for the election of the president of India but does not form part of the forum for his impeachment?",
+  "options": {
+    "A": "Lok Sabha",
+    "B": "Rajya Sabha",
+    "C": "State Legislative Councils",
+    "D": "State legislative Assemblies"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

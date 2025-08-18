@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 7,
+  "type": "mcq_single",
+  "input": "Which of the following gave the idea of Constituent Assembly for India?",
+  "options": {
+    "A": "Simon Commission",
+    "B": "Rajaji Formula",
+    "C": "Cabinet Mission Plan",
+    "D": "Wavell Plan"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Cabinet Mission Plan gave the idea of Constituent Assembly for India. In 1946, British Prime Minister Clement Attlee formulated a Cabinet Mission to India. ‘Rajaji’ formula was formulated by C. Rajagopalchari to solve the political dead-lock between All India Muslim League and Indian-National Congress. Wavell plan (1945) was talks between these two political parties."
+}

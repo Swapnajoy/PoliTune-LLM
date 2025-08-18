@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 304,
+  "type": "mcq_single",
+  "input": "Justice is essentially a",
+  "options": {
+    "A": "Moral concept",
+    "B": "Social concept",
+    "C": "Legal concept",
+    "D": "Complex concept combining all the above concepts"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

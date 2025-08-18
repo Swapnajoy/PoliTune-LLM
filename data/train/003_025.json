@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 25,
+  "type": "mcq_single",
+  "input": "Money bill is introduced in",
+  "options": {
+    "A": "Lok Sabha",
+    "B": "Rajya Sabha",
+    "C": "Joint sitting of both the Houses",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Money Bills can be introduced only in Lok Sabha. Money bills passed by the Lok Sabha are sent to the Rajya Sabha."
+}

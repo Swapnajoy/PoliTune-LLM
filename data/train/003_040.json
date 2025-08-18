@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 40,
+  "type": "mcq_single",
+  "input": "The most important feature of the Indian Parliament is that",
+  "options": {
+    "A": "It is the Union Legislature in India",
+    "B": "It also comprises of the President",
+    "C": "It is bicameral in nature",
+    "D": "The Upper House of the Parliament is never dissolved"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Bicameralism has been one of the most important features of India’s parliamentary democracy. Ever since the coming into force of the Constitution, both the Chambers of Indian Parliament have been complementing each other in more ways than one."
+}

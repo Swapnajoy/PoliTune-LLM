@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 334,
+  "type": "mcq_single",
+  "input": "With reference to the Constitution of India, which one of the following pairs is not matched?",
+  "options": {
+    "A": "Forests : Concurrent List",
+    "B": "Stock Exchanges : Concurrent list",
+    "C": "Post office saving Bank : Union List",
+    "D": "Public Health : State list"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Stock exchange and future markets are listed in the Union list, but not in the concurrent list."
+}

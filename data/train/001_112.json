@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 112,
+  "type": "mcq_single",
+  "input": "If a new state of the Indian Union is to be created, which one of the following schedules of the constitution must be amended?",
+  "options": {
+    "A": "First",
+    "B": "Second",
+    "C": "Third",
+    "D": "Fifth"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The states and UTs of India are specified in the first schedule. So to form a new state and alteration of area requires the amendment of first schedule of the constitution. First Schedule (Articles 1 and 4) lists the states and territories of India, lists any changes to their borders and the laws used to make that change."
+}

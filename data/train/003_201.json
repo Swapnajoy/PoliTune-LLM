@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 201,
+  "type": "statements_correctness",
+  "input": "Who of the following became Prime Minister after being Chief Ministers ? P. P.V. Narasimha Rao Q. Charan Singh R. H.D. Deve Gowda S. V.P. Singh T. Morarji Desai Select the correct answer from the codes given below :",
+  "options": {
+    "A": "Q, R, S and T",
+    "B": "P, Q and S",
+    "C": "P, Q, R, S and T",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

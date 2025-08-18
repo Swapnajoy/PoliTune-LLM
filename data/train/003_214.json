@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 214,
+  "type": "mcq_single",
+  "input": "Who among the following was the first Law Minister of India?",
+  "options": {
+    "A": "Jawaharlal Nehru",
+    "B": "Maulana Abdul Kalam Azad",
+    "C": "Dr BR Ambedkar",
+    "D": "T Krishnamachari"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

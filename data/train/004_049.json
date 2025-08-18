@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 49,
+  "type": "mcq_single",
+  "input": "The mobile court in India is brainchild of:",
+  "options": {
+    "A": "Justice Bhagwati",
+    "B": "Mr. Rajiv Gandhi",
+    "C": "Dr. A.P.J. Abdul Kalam",
+    "D": "Mrs. Pratibha Patil"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "It is said to be a brainchild of former President A.P.J. Abdul Kalam, the concept of mobile court is based on the pressing need to take the administration of civil and criminal justice closer to the people so that those living in remote areas are able to benefit without incurring the expenses of travelling to courts at distant places."
+}

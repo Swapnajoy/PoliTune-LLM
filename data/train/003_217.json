@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 217,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. The Ministries Departments of the Union Government are created by the Prime Minister. Q. The Cabinet Secretary is the Ex-officio Chairman of the Civil Services Board. Which of the statement given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

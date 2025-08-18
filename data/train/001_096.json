@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 96,
+  "type": "mcq_single",
+  "input": "Which of the following articles of Indian Constitution empowers the president to appoint Comptroller and Auditor General of India ?",
+  "options": {
+    "A": "Article 147",
+    "B": "Article 148",
+    "C": "Article 149",
+    "D": "Article 151"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 148 deals with Comptroller and Auditor-General of India’s appointment. Article 149 deals with duties and powers of the CAG. Article 151 deals with audit reports of CAG."
+}

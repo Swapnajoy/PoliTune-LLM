@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 109,
+  "type": "mcq_single",
+  "input": "Which one of the following statements regarding the Departmental Committee of the Parliament of India on the empowerment of women is correct?",
+  "options": {
+    "A": "The Committee will consist of members of the Lok Sabha only",
+    "B": "A Cabinet Minister can be a member of the Committees",
+    "C": "The term of office of the members of the Committee shall not exceed two years",
+    "D": "It reports on the working of welfare programmes for the women"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Committee on Empowerment of Women was constituted on 29th April 1997. The Committee consists of 30 Members of whom 20 are nominated by the Speaker from amongst the Members of Lok Sabha and 10 are nominated by the Chairman, Rajya Sabha from amongst the Members of the Rajya Sabha. A Minister cannot be nominated a Member of the Committee. The term of the Committee does not exceed one year. One of the functions of the committee is to report on the working of the welfare programmes for the women."
+}

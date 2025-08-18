@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 223,
+  "type": "mcq_single",
+  "input": "According to the Indian Constitution, which one is not included in the fundamental right to equality?",
+  "options": {
+    "A": "Equality before law",
+    "B": "Social equality",
+    "C": "Equality of opportunity",
+    "D": "Economic equality"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Economic equality is not mentioned in fundamental rights."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 69,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The Nuclear Security Summits are periodically held under the aegis of the United Nations. Q. The International Panel on Fissile Materials is an organ of International Atomic Energy Agency. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "President Obama had initiated NSS in 2010. so, first statement is wrong. • The International Panel on Fissile Materials (IPFM), an independent group of arms-control and non-proliferation experts from 17 countries, has been keeping track of HEU and plutonium around the world. So second statement also wrong."
+}

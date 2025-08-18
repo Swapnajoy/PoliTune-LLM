@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 62,
+  "type": "statements_correctness",
+  "input": "Consider the following features : P. Panchayats have now been brought under the direct supervision of the Governor. Q. Finance Commission of the State now determines the distribution of taxes and duties between the State and Panchayats. R. Panchayats are now entitled to receive grants-in-aid directly from the Central Government. S. 1/3 of the seats in the Panchayats are now reserved for women. According to 73rd Amendment of the Constitution, which of these are correct features of Panchayats?",
+  "options": {
+    "A": "P and R",
+    "B": "Q and R",
+    "C": "R and S",
+    "D": "Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

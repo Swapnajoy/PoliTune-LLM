@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 155,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. The President cannot function without the Union Council of Ministers. Q. The Solicitor-General is the highest legal authority of the Union Government. R. The Union Council of Ministers can function for sometime even after death or resignation of the Prime minister. S. In the absence of the Prime Minister, only the Home Minister can preside over emergency meetings of the Union Council of Ministers. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "R and S",
+    "C": "P, Q and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

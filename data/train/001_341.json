@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 341,
+  "type": "statements_correctness",
+  "input": "Which of the following statements regarding the residuary powers in the Constitution of India are correct ? P. Residuary powers have been given to the Union Parliament Q. In the matter of residuary powers, the Constitution of India follows the Constitution of Australia R. The final authority to decide whether a particular matter falls under the residuary power or not is the Parliament S. The Government of India Act, 1935 placed residuary powers in the hands of the Governor-General Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q and R",
+    "C": "P and S",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

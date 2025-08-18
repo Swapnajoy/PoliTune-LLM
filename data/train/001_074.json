@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 74,
+  "type": "mcq_single",
+  "input": "Under which article the parliament of India can legislate on any subject in the state list in national interest?",
+  "options": {
+    "A": "Article 229",
+    "B": "Article 230",
+    "C": "Article 247",
+    "D": "Article 249"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under the Article 249, the Parliament of India can legislate on any subject in the state list in national interest. The Council of States has declared by resolution supported by not less than two thirds of the members present and voting that it is necessary in national interest that Parliament should make laws with respect to any matter enumerated in the State List specified in the resolution. Article 229 is for officers and servants and expenses of High Courts. Article 230 deals with extension of jurisdiction of High Courts to union territories. Article 247 gives power to the Parliament to provide establishment of certain additional courts."
+}

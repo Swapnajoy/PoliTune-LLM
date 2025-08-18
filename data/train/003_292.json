@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 292,
+  "type": "mcq_single",
+  "input": "Who has the right to transfer any case anywhere in India?",
+  "options": {
+    "A": "President",
+    "B": "Supreme Court",
+    "C": "High Court",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

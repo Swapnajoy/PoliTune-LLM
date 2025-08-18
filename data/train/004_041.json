@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 41,
+  "type": "mcq_single",
+  "input": "The Governor of the state has the power to reserve a Bill for the consideration of the President. At least in one case the reservation of the Bill is compulsory. The case is –",
+  "options": {
+    "A": "Where the law in question would derogate from the powers of the High Court under the Constitution",
+    "B": "The bill is related to enhancing quota of reservation for a particular class of the society",
+    "C": "The Bill creating a new district or the division",
+    "D": "The Bill starting any special type of population census in the state State Judiciary"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Governor of the State has the power to reserve a bill for the consideration of the president especially where the law in question would derogate from the powers of the High Court under the constitution."
+}

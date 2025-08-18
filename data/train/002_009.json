@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 9,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about State Election Commission ? P. The State Election Commissioner shall be appointed by the Governor of the State. Q. The State Election Commission shall have the power of even preparing the electoral rolls besides the power of superintendence, direction and control of election to the panchayats. R. The State Election Commissioner cannot be removed in any manner from his office until he demits himself or completes his tenure. Which of the above statements is/are correct?",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P and Q only",
+    "C": "Q and R only",
+    "D": "P only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Three Election Commissioners in the each State shall be appointed by the Governor of the respective State from a penal of five names for each office forwarded by the Election Commission of Bharatto the provision of the Constitution (Seventy-third Amendment) Act, 1992 and the Constitution (Seventy-fourth Amendment) Act, 1992, whereunder the constitution of State Election Commissions and appointment of State Election Commissioners are contemplated to superintend, direct and control the preparation of the electoral rolls for, and the conduct of elections to Panchayats and Municipalities. Election Commissioner of a State can be removed by the Full Bench of State Judicial Commission on the basis of enquiry and investigation made by a judicial committee constituted for the purpose, consisting of two Chief Justices and one Judge from different High Courts."
+}

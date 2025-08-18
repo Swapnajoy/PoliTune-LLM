@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 289,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: Directive Principles of State Policy are: P. Directives in the nature of ideals of the state Q. Directives influencing and shaping the policy of State R. Non-justiciable rights of the citizens Which of these statements is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Q and R",
+    "C": "Only R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

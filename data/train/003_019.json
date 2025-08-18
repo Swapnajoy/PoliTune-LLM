@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 19,
+  "type": "mcq_single",
+  "input": "According to our Constitution, the Rajya Sabha",
+  "options": {
+    "A": "is dissolved once in two years.",
+    "B": "is dissolved every five years.",
+    "C": "is dissolved every six years.",
+    "D": "is not subject of dissolution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Rajya Sabha is not a subject of dissolution. Lok Sabha dissolved on every five years."
+}

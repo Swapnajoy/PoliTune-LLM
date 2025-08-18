@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 103,
+  "type": "statements_correctness",
+  "input": "Which of the statements relating to the Deputy Speaker of the Lok Sabha is/are correct? P. The office of the Deputy Speaker acquired a more prominent position after the enforcement of the Constitution of India in 1950. Q. He/She is elected from amongst the members. R. He/She holds office until he/she ceases to be a member of the House. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "P and Q",
+    "C": "P, Q and R",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Deputy Speaker of the Lok Sabha is the vice-presiding officer of the Lok Sabha.He/She is elected from amongst the members. It acquired a more prominent position after 1950. He holds office till either he ceases to be a member of the Lok Sabha or he himself resigns."
+}

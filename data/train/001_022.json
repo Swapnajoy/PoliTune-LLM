@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 22,
+  "type": "statements_correctness",
+  "input": "The Constituent Assembly of India convened to prepare the Constitution of India appointed a sub-committee headed by Gopinath Bordoloi. Which of the following recommendations was/were made by the committee? P. Fifth Schedule for the North-East Frontier (Asom) Tribal and Excluded Areas. Q. Constitution of District Councils in all autonomous districts of Asom. R. Sixth Schedule for the North-East Frontier (Asom) Tribal and Excluded Areas. S. Demarcation of territories in North-East India. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "P, Q and R",
+    "C": "Q and R",
+    "D": "Only S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Sub-committee headed by Gopinath Bordoloi was appointed by the constituent Assembly of India to recommend the future pattern of administration of the North Eastern Frontiers Areas."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 102,
+  "type": "statements_correctness",
+  "input": "The subject matter of an adjournment motion in the Parliament P. must be directly related to the conduct of the Union Government. Q. may involve failure of the Government of India to perform its duties in accordance with the Constitution. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The subject matter of the motion must have a direct or indirect relation to the conduct or default on the part of the Union Government and must precisely pinpoint the failure of the Government of India in the performance of its duties in accordance with the provisions of the Constitution and Law."
+}

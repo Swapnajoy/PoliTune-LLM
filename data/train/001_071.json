@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 71,
+  "type": "mcq_single",
+  "input": "Which of the following schedules deals with the division of powers between union and states?",
+  "options": {
+    "A": "fourth schedule",
+    "B": "sixth schedule",
+    "C": "seventh schedule",
+    "D": "ninth schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The seventh schedule of the Constitution deals with the division of powers between union and states. Article 246— The union (central government), state, and concurrent lists of responsibilities. 6th schedule deals with provisions for administration of tribal area in Assam, Meghalaya, Tripura, Mizoram, Arunachal Pradesh. 4th schedule is about allocation of seats in Rajya Sabha."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 42,
+  "type": "mcq_single",
+  "input": "Which of the following articles in the shape of the directive principles mentions the organisation of the village panchayats?",
+  "options": {
+    "A": "Article 40",
+    "B": "Article 43",
+    "C": "Article 44",
+    "D": "Article 47"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 40 states that the State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government. Article 43 - Living wage etc for workers Article 44 - Uniform civil code for the citizen. Article 47 -Duty of the state to raise the level of nutrition and the standard of living and to improve public health."
+}

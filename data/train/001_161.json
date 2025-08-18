@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 161,
+  "type": "mcq_single",
+  "input": "The financial relations between the Union Government and States have been discussed under.",
+  "options": {
+    "A": "Article 168 to 171",
+    "B": "Article 268 to 281",
+    "C": "Article 278 to 291",
+    "D": "Article 289 to 295"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The financial relations between Union Government and State Government or more specifically distribution of revenues between the Union and the States have been discussed under Articles 268 to 281 of the Indian Constitution."
+}

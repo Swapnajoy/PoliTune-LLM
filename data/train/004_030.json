@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 30,
+  "type": "statements_correctness",
+  "input": "In which of the following bodies, does the Chief Minister of a State hold membership? P. National Integration Council Q. National Development Council R. Inter-State Council S. Zonal Council Select the correct answer from the codes given below :",
+  "options": {
+    "A": "P, R and S",
+    "B": "Q and R",
+    "C": "P, Q, R and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The chief minister holds membership in the National Integration Council, National Development Council, Inter- State Council and the Zonal Council."
+}

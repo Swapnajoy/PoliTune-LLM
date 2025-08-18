@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 128,
+  "type": "mcq_single",
+  "input": "Consider the following statements and select the correct answer from the codes given below : I. Subject to legislation by Parliament, the power to declare any area as a ‘Scheduled area ‘ is given to the President. II. The 5th Schedule of the Constitution deals with administration of ‘Scheduled Areas’ in Assam, Meghalaya and Tripura. III. The Government of the states having ‘Scheduled Areas’ have to submit reports to the President regarding the administration of such ‘Areas’. IV. The executive power of the Union Shall extend to giving directions to the respective states regarding administration of the ‘Scheduled Areas’. Which of the above statements are correct? Codes :",
+  "options": {
+    "A": "Only I and III",
+    "B": "Only I and IV",
+    "C": "Only I and II",
+    "D": "Only II and III"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "I. Subject to legislation by parliament, the power to declare any area as a ‘Scheduled area’ is given to the President. IV. The executive power of the Union shall extend to giving directions to the respective states regarding administration of the ‘Scheduled Areas’."
+}

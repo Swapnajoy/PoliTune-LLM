@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 261,
+  "type": "mcq_single",
+  "input": "Who votes in the election of Vice President of India?",
+  "options": {
+    "A": "All the members of Lok Sabha and Rajya Sabha",
+    "B": "All the Members of Parliament and members of legislative assemblies",
+    "C": "Elected MPs and MLAs",
+    "D": "All of the MPs , MLAs and MLCs"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

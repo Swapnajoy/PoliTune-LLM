@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 193,
+  "type": "statements_correctness",
+  "input": "Consider the following statements with reference to Secularism in India. P. Secularism means that the State has no recognised religion of state. Q. Secularism means that the State treats all the religions equally. R. Secularism means that the State regulates the relation of man with God. Which of these statements are correct?",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P and Q",
+    "C": "Q and R",
+    "D": "P and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Following are the features of Indian secularism: 1. The state should not have any religion of its own. 2. All the religions shall be equally protected by the state. 3. Free exercise of right to freedom of religion. 4. State shall not discriminate against any particular religion. It means that the state shall not prefer, favour or disfavour any particular religion viz-a-viz others. 5. Religious tolerance."
+}

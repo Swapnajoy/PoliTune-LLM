@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 72,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. The Chairman of the Council of States or Speaker of the House of the People, or person acting as such, shall not vote at any sitting of either House of Parliament or joint sitting of the House in the first instance, but shall have and exercise a casting vote in the case of an equality of votes. Q. A person is qualified to fill a seat in the Council of States or House of the People if he is not less than twenty-five years of age. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

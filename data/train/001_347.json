@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 347,
+  "type": "mcq_single",
+  "input": "Which one among the following is not correct? A special category state invariably",
+  "options": {
+    "A": "is a border State",
+    "B": "has harsh terrain",
+    "C": "has low literacy rate",
+    "D": "has poor infrastructure"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "As per Gadgil formula a special category state gets preferential treatment in federal assistance and tax breaks. The special-category states get significant excise duty concessions and thus help these states attract large number of industrial units to establish manufacturing facilities within their territory. 90% of the central assistance is treated as grant and remaining 10% is considered as loan unlike other states which get 30% grant and 70% loan."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 207,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about the President of India. (CDS 2016-I) P. The President has the right to address and send message to The Council of Ministers to clicit specific information Q. The President can call for information relating to proposala for legislation R. All decisions of the Council of Ministers relating to administration of the Union must be communicated to the President Which of the statements given above are correct?",
+  "options": {
+    "A": "P and R only",
+    "B": "Q and R only",
+    "C": "P and Q only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

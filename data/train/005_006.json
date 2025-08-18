@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 6,
+  "type": "mcq_single",
+  "input": "The Constitution of India mandates that the elections of the Panchayati Raj should be held regularly after a gap of:",
+  "options": {
+    "A": "2 years",
+    "B": "3 years",
+    "C": "4 years",
+    "D": "5 years"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 243 E mentioned duration of Panchayat is for five years from the date of appointment."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 16,
+  "type": "mcq_single",
+  "input": "A Panchayat Samiti at the block level is",
+  "options": {
+    "A": "An advisory body",
+    "B": "An administrative authority",
+    "C": "A consultant committee",
+    "D": "A supervisory authority"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The principal function of the Panchayat Samiti is to co¬ordinate the activities of the various Panchayats within its jurisdiction. The Panchayat Samiti supervises the work of the Panchayats and scrutinises their budgets. The Samiti is charged with the responsibility of preparing and colon implementing plans for the development of agriculture, animal to SU (husbandry, fisheries, small scale and cottage industries, rural health tropic etc."
+}

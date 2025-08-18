@@ -1,0 +1,19 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 51,
+  "type": "mcq_single",
+  "input": "Which one of the following states does not have its High Court?",
+  "options": {
+    "A": "orissa (b) Sikkim",
+    "C": "Himachal Pradesh",
+    "D": "Goa"
+  },
+  "choices": [
+    "A",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Goa comes under the jurisdiction of Bombay High Court."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 79,
+  "type": "mcq_single",
+  "input": "Which of the following schedules of Indian Constitution is related with the allotment of seats in Rajya Sabha ?",
+  "options": {
+    "A": "Third Schedule",
+    "B": "Fourth Schedule",
+    "C": "Fifth Schedule",
+    "D": "Sixth Schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "4th Schedule of constitution is related to allotment of seats in Rajya Sabha. Democratic-republic form of government is the basic structure of the constitution."
+}

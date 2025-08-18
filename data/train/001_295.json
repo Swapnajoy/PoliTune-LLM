@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 295,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are among Directive Principles of State Policy? P. The State shall strive to promote science and technology for development. Q. The State shall endeavour to secure for citizens a Uniform Civil Code throughout India. R. The State shall try to develop population policy and family planning programmes. S. The State shall take steps to promote tourism. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and R",
+    "B": "Q and S",
+    "C": "Q only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

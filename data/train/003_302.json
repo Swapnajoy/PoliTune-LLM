@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 302,
+  "type": "mcq_single",
+  "input": "Judicial Review in the Indian Constitution is based on which of the following ?",
+  "options": {
+    "A": "Rule of law",
+    "B": "Due process of Law",
+    "C": "Procedure established by law",
+    "D": "Conventions"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

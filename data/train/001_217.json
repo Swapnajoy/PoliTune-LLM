@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 217,
+  "type": "mcq_single",
+  "input": "In which year fundamental duties were included in the Indian Constitution?",
+  "options": {
+    "A": "1974",
+    "B": "1975",
+    "C": "1976",
+    "D": "1977"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In 42nd amendment, 1976 fundamental duties were added on the basis of Swaran Singh Committee report. In 1974 32nd , 33rd and 34th amendments were introduced. In year 1975 35th to 39th amendments were introduced."
+}

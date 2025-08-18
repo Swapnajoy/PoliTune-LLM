@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 297,
+  "type": "statements_correctness",
+  "input": "Which of the following are Fundamental Duties of an Indian citizen according to Article 51-A of the Constitution? P. To believe in socialism, secularism and democracy Q. To abide by the Constitution and respect the National Flag and the National Anthem R. To protect the sovereignty, unity and integrity of India S. To preserve the rich heritage of the country’s composite culture T. To help the poor and weaker sections of the society Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "R, S and T",
+    "D": "P, S and T"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Art. 51A, Part IVA of the Indian Constitution, specifies the list of fundamental duties of the citizens. It says “it shall be the duty of every citizen of India: 1. to abide by the constitution and respect its ideal and institutions; 2. to cherish and follow the noble ideals which inspired our national struggle for freedom; 3. to uphold and protect the sovereignty, unity and integrity of India; 4. to defend the country and render national service when called upon to do so; 5. to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional diversities, to renounce practices derogatory to the dignity of women; 6. to value and preserve the rich heritage of our composite culture; 7. to protect and improve the natural environment including forests, lakes, rivers, and wild-life and to have compassion for living creatures; 8. to develop the scientific temper, humanism and the spirit of inquiry and reform; 9. to safeguard public property and to abjure violence; 10. to strive towards excellence in all spheres of individual and collective activity, so that the nation constantly rises to higher levels of endeavour and achievement."
+}

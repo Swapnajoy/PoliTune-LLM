@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 28,
+  "type": "mcq_single",
+  "input": "If a Panchayat is dissolved, elections are to be held within:",
+  "options": {
+    "A": "One month",
+    "B": "Three months",
+    "C": "Six months",
+    "D": "One year"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "An election to constitute a Panchayat shall be completed before the expiration of a period of six months from the date of its dissolution."
+}

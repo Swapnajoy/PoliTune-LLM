@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 51,
+  "type": "mcq_single",
+  "input": "The first reading of the Bill in a House of Parliament refers to :",
+  "options": {
+    "A": "The motion for leave to introduce a Bill in the House",
+    "B": "The general discussion on the Bill as whole where only the principle underlying the Bill is discussed and not the details of the bill.",
+    "C": "The general discussion on the Bill where the bill is discussed in details.",
+    "D": "The state when the Bill is referred either to select committee of the House or to the joint committee of the two houses."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The first reading of the bill in a house of parliament refers to motion for leave to introduce the bill in the House.If a motion for leave to introduce a Bill is opposed, the Speaker, after permitting, if he thinks fit, brief statements from the member who opposes the motion and the member who moved the motion, may, without further debate, put the question: provided that where a motion is opposed on the ground that the Bill initiates legislation outside the legislative competence of the House, the Speaker may permit a full discussion thereon. Provided further that the Speaker shall forthwith put to vote the motion for leave to introduce a Finance Bill or an Appropriation Bill."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 16,
+  "type": "mcq_single",
+  "input": "For election to the Lok Sabha, a nomination paper can be filed by",
+  "options": {
+    "A": "anyone residing in India.",
+    "B": "a resident of the constituency from which the election is to be contested.",
+    "C": "any citizen of India whose name appears in the electoral roll of a constituency.",
+    "D": "any citizen of India."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Let’s go by elimination. • To contest any election, person has to be CITIZEN of India. This eliminates A and B. • Any citizen of India, then could be a minor (below 18 years also) then he can’t contests election. So, “D” also wrong. Hence we are left with answer “C”."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 62,
+  "type": "statements_correctness",
+  "input": "P. The National Commission for Scheduled Tribes was constituted under the Constitution (Eighty-ninth Amendment) Act. Q. The first National Commission for Scheduled Tribes was constituted in 2006. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

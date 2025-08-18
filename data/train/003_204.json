@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 204,
+  "type": "mcq_single",
+  "input": "Which one of the following Union ministries implements the Cartagena Protocol on biosafety?",
+  "options": {
+    "A": "Ministry of Science and Technology",
+    "B": "Ministry of Health and Family Welfare",
+    "C": "Ministry of Environment and Forests",
+    "D": "Ministry of Chemicals and Fertilizers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

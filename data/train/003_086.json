@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 86,
+  "type": "mcq_single",
+  "input": "Which one of the following statements about the process of the Parliament to make new States is not correct? (CDS 2015-II)",
+  "options": {
+    "A": "The Parliament may by law form a new State and alter the boundaries or names of existing States.",
+    "B": "A Bill to this effect cannot be introduced in the Parliament except on the recommendation of the President.",
+    "C": "A Bill to this effect may be referred by the President to the Legislature of the affected State.",
+    "D": "Such a law will fall under the purview of Article 368."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Bill may be introduced in either House of Parliament to form a new state. It needs a prior permission of the President before introduction of the Bill."
+}

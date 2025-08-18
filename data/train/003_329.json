@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 329,
+  "type": "statements_correctness",
+  "input": "Supreme Court has exclusive jurisdiction under the following article in relation to P. Constitutional cases Q. Federal cases R. Cases related to directive principles of state policy S. River water disputes. Codes:",
+  "options": {
+    "A": "P and R only",
+    "B": "Q and R only",
+    "C": "Q only",
+    "D": "P,Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

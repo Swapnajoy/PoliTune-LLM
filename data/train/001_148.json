@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 148,
+  "type": "mcq_single",
+  "input": "The two provisions of the Constitution of India that most clearly express the power of Judicial review are:",
+  "options": {
+    "A": "Article 21 and Article 446",
+    "B": "Article 32 and Article 226",
+    "C": "Article 44 and Article 152",
+    "D": "Article 17 and Article 143"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Legislature, executive and judiciary under the Constitution are to exercise powers with checks and balances, but not in water-tight rigid mould. In India, on the basis of Articles 32 and 136, the Supreme Court can exercise the power of judicial review."
+}

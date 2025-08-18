@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 187,
+  "type": "mcq_single",
+  "input": "Which one of the following words was not included in the Preamble of the Indian Constitution in 1975 ?",
+  "options": {
+    "A": "Fraternity",
+    "B": "Sovereign",
+    "C": "Equality",
+    "D": "Integrity"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "‘Integrity’ word was not included in the preamble."
+}

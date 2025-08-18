@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 250,
+  "type": "statements_correctness",
+  "input": "Freedom of conscience under the Constitution of India is subject to (CDS 2015-II) P. public order, morality and health Q. a law providing for social welfare and reform R. opening Hindu religious institutions of a public character to all Hindus S. defamation or incitement to an offence Select the correct answer using the code given below.",
+  "options": {
+    "A": "P,Q, R and S",
+    "B": "P, Q and R only",
+    "C": "R and S only",
+    "D": "l and Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Constitution of India provides the freedom of conscience in the following fields- (i) Morality, health, public order, laws for social welfare and reform, any religious institutions for propagation of their views and philosophy. (ii) To defame an offence."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 64,
+  "type": "mcq_single",
+  "input": "Public Interest Litigation has its origin in –",
+  "options": {
+    "A": "England",
+    "B": "France",
+    "C": "USSR",
+    "D": "USA"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Public Interest Litigation (PIL) means litigation for the protection of the Public Interest. It is litigation introduced in a court of law, not by the aggrieved party but by the court itself or by any other private party. It has its origin in USA."
+}

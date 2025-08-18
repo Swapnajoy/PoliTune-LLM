@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 30,
+  "type": "mcq_single",
+  "input": "Who is the Chairman of the Rajya Sabha?",
+  "options": {
+    "A": "The President",
+    "B": "The Vice-President",
+    "C": "The Prime Minister",
+    "D": "The Speaker"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha, who presides over its sessions."
+}

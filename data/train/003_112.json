@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 112,
+  "type": "mcq_single",
+  "input": "When martial law is imposed, Parliament cannot make law in respect of which one of following matters ?",
+  "options": {
+    "A": "Indemnify any person in respect of any act done by him in connection with the maintenance of order in the area where martial law was in force",
+    "B": "Parliament can by law validate any sentence passed when martial law was in force in the area",
+    "C": "A law of Parliament can validate forfeiture ordered when martial law was in force in the area",
+    "D": "Any act done under martial law can be validated by Parliament by law"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Any act done under martial law cannot be validated by parliament by law."
+}

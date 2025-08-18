@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 101,
+  "type": "mcq_single",
+  "input": "Under which article of Indian Constitution, President of India enjoys powers to withhold his asset on any Bill?",
+  "options": {
+    "A": "Article 63",
+    "B": "Article 108",
+    "C": "Article 109",
+    "D": "Article 111"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 111 - assents on any Bill. Article 108 - Joint sitting of both houses in certain cases. Article 109 - Special procedure in respect of money bill."
+}

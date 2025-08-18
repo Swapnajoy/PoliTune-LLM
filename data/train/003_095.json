@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 95,
+  "type": "mcq_single",
+  "input": "With regard to the powers of the Rajya Sabha, which one among the following statements is not correct?",
+  "options": {
+    "A": "A money bill cannot be introduced in the Rajya Sabha",
+    "B": "The Rajya Sabha has no power either to reject or amend a money bill",
+    "C": "The Rajya Sabha cannot discuss the Annual Financial Statement",
+    "D": "The Rajya Sabha has no power to vote on the Demands for Grants"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "A Money Bill cannot be introduced in Rajya Sabha. Rajya Sabha has no power either to reject or amend a Money Bill. It can only make recommendations on the Money Bill. Whether a particular Bill is a Money Bill or not is to be decided by the Speaker of Lok Sabha. Rajya Sabha may discuss the Annual Financial Statement. It has no power to vote on the Demands for Grants."
+}

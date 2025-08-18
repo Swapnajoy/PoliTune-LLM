@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 357,
+  "type": "mcq_single",
+  "input": "Who among the following shall have the right of audience in all courts in the territory of India in performance of his duties?",
+  "options": {
+    "A": "Advocate General",
+    "B": "Attorney General",
+    "C": "Additional Advocate General",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

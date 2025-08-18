@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 338,
+  "type": "statements_correctness",
+  "input": "Consider the following regarding death penalty P. Indian law permits execution only in the cases of ‘rarest of rare’ crimes. Q. In India pardoning power of the president with respect to death sentence is decided by the president as per recommendations of the Union Home Ministry. R. Recently, China, Pakistan, voted against a UN resolution on calling for a ban on capital punishment while India supported the resolution. Which of the following given statements is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "P and Q only",
+    "C": "Q and R only",
+    "D": "P, Q nor R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

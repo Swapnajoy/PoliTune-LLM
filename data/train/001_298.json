@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 298,
+  "type": "statements_correctness",
+  "input": "Which of the following statements regarding the Fundamental Duties contained in the Indian Constitution are correct? P. Fundamental duties can be enforced through writ jurisdiction. Q. Fundamental duties have formed a part of the Indian Constitution since its adoption. R. Fundamental duties became a part of the Constitution in accordance with the recommendations of the Swaran Singh Committee. S. Fundamental duties are applicable only to citizens of India. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P, Q and S",
+    "C": "Q and R",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

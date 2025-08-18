@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 51,
+  "type": "statements_correctness",
+  "input": "Which of the following are the tools of good governance? P. Social Audit Q. Separation of Powers R. Citizen’s Charter S. Right to Information Select the correct answer from the codes given below :",
+  "options": {
+    "A": "P, R and S",
+    "B": "Q, R and S",
+    "C": "P and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The tools of good governance are social Audit, Separation of Power, Citizen’s Charter, Right to Information. Good Governance is about the processes for making and implementing decisions, it describes how Public institution Conduct Public affairs and manage public resources."
+}

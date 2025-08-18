@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 8,
+  "type": "mcq_single",
+  "input": "Delimitation of constituencies and determination of constituencies reserved for Scheduled Castes and Scheduled Tribes are done by",
+  "options": {
+    "A": "Election Commission",
+    "B": "Delimitation Commission",
+    "C": "Planning Commission",
+    "D": "Election Commission with the assistance of Delimitation Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Delimitation commission of India is a Commission established by Government of India under the provisions of the Delimitation Commission Act. In India, such Delimitation Commissions have been constituted 4 times - in 1952 under the Delimitation Commission Act, 1952, in 1963 under Delimitation Commission Act, 1962, in 1973 under Delimitation Act, 1972 and in 2002 under Delimitation Act, 2002. The main task of the commission is to redraw the boundaries of the various assemblyand Lok Sabha constituencies based on a recent census. The representation from each state is not changed during this exercise. However, the number of SC and ST seats in a state ischanged in accordance with the census."
+}

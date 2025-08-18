@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 4,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding state election commission P. The state election commission is appointed by the Governors of the respective states. Q. State election commission conducts election to the panchayats only Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The state Election Commission is the constitutional body responsible for conducting and supervising elections to the local bodies in the state."
+}

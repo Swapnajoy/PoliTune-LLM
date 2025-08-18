@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 54,
+  "type": "mcq_single",
+  "input": "The growth of judicial power over the last one hundred years in liberal democracies have taken place because –",
+  "options": {
+    "A": "The constitutions have given the judiciary more powers",
+    "B": "Acceptance of the theory of separation of powers",
+    "C": "The U. N. Directives",
+    "D": "Protect Human Rights"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The growth of Judicial Power over the last one hundred years in liberal democracies has taken place to protect Human rights."
+}

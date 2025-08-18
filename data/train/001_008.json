@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 8,
+  "type": "mcq_single",
+  "input": "The Constitution of India was enacted on 26 November 1949 by the",
+  "options": {
+    "A": "Constituent Assembly",
+    "B": "Parliament of India",
+    "C": "President of India",
+    "D": "British Parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Constitution of India enacted on 26th November 1949 by President of India and came into force on 26th January 1950."
+}

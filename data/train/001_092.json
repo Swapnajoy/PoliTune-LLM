@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 92,
+  "type": "mcq_single",
+  "input": "Under which article of Indian Constitution, a High Court can issue writs to protect the fundamental rights?",
+  "options": {
+    "A": "Article 15",
+    "B": "Article 32",
+    "C": "Article 35",
+    "D": "Article 226"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under Article 226 of Indian Constitution a High Court can issue writs to protect the fundamental rights. Notwithstanding anything in Article 32 every High Court shall have powers, throughout the territories in relation to which it exercises jurisdiction. Article 35 deals with legislation to give effect to the provisions of this part."
+}

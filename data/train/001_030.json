@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 30,
+  "type": "mcq_single",
+  "input": "The idea of preamble has been borrowed in Indian Constitution from the Constitution of",
+  "options": {
+    "A": "Italy",
+    "B": "Canada",
+    "C": "France",
+    "D": "U. S. A."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The idea of preamble to the Indian constitution is borrowed from constitution of United States of America."
+}

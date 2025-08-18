@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 11,
+  "type": "mcq_single",
+  "input": "The Election Commissioner can be removed by the",
+  "options": {
+    "A": "Chief Election Commissioner",
+    "B": "Prime Minister",
+    "C": "President on the recommendation of the chief Election Commissioner",
+    "D": "Chief Justice of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Election Commissioner/s can be removed by the President of India on the recommendation of the Chief Election Commissioner"
+}

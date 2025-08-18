@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 43,
+  "type": "mcq_single",
+  "input": "‘Zero Hour’ in political jargon refers to",
+  "options": {
+    "A": "Suspended motion",
+    "B": "Question hour",
+    "C": "Adjourned time",
+    "D": "Question-answer session"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "‘Zero Hour’ in Political jargon refers to question answer session. Zero Hour in Parliament starts at 12 noon during which members raise matters of importance, especially those that cannot be delayed."
+}

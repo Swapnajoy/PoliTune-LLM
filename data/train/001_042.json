@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 42,
+  "type": "mcq_single",
+  "input": "The idea of the Directive Principles of state policy in the Indian Constitution has been taken from the Constitution of",
+  "options": {
+    "A": "Ireland",
+    "B": "Canada",
+    "C": "South Africa",
+    "D": "Australia"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "DPSP in Indian constitution has been taken from Ireland."
+}

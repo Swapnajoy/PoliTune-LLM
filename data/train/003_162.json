@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 162,
+  "type": "mcq_single",
+  "input": "If the position of President and Vice-President are vacant, who officiates as the President of India?",
+  "options": {
+    "A": "The Prime Minister",
+    "B": "The Chief Justice of India",
+    "C": "The Speaker of Lok Sabha",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

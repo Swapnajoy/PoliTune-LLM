@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 265,
+  "type": "mcq_single",
+  "input": "The main advantage of the parliamentary form of government is that",
+  "options": {
+    "A": "the executive and legislature work independently.",
+    "B": "it provides continuity of policy and is more efficient.",
+    "C": "the executive remains responsible to the legislature.",
+    "D": "the head of the government cannot be changed without election."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

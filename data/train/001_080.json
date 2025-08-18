@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 80,
+  "type": "mcq_single",
+  "input": "The provision for Constitution of Legislatures in states is enshrined in which article of the Indian Constitution ?",
+  "options": {
+    "A": "Article 168",
+    "B": "Article 174",
+    "C": "Article 197",
+    "D": "Article 153"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The provision for Constitution of Legislatures in states is enshrined in Article 168 of the Indian Constitution. (1) The States of Bihar, Madhya Pradesh, Maharashtra, Karnataka and Uttar Pradesh, have two houses and in other States, one House. Article 153 is related to Governors of states. Article 174 deals with sessions of the state legislature, proporgation and dissolution. Article 197 is about restriction on powers of legislative council as to Bills other than money Bills."
+}

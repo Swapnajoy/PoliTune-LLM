@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 78,
+  "type": "mcq_single",
+  "input": "The Judge of the High Courts in India is administered oath of office by",
+  "options": {
+    "A": "the Chief Justice of the High Court",
+    "B": "the Governor of the State",
+    "C": "the President of India",
+    "D": "the Chief Justice of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to Article 219 of Indian Constitution (Oath or affirmation by Judges of High Courts) every person appointed to be a Judge of a High Court shall, before he enters upon his office, make and subscribe before the Governor of the State, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 37,
+  "type": "mcq_single",
+  "input": "The speaker of the Lok Sabha can resign his office by addressing his resignation to",
+  "options": {
+    "A": "The President",
+    "B": "The Prime Minister",
+    "C": "The Deputy Speaker of the Lok Sabha",
+    "D": "The Chief Justice of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Speaker can resign his office to Deputy speaker of Lok sabha."
+}

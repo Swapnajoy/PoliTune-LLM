@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 49,
+  "type": "mcq_single",
+  "input": "Which of the following articles states that State shall take necessary steps to organize village panchayat?",
+  "options": {
+    "A": "Article 40",
+    "B": "Article 30",
+    "C": "Article 29",
+    "D": "Article 101"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 40 of the Constitution which enshrines one of the Directive Principles of State Policy lays down that the State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government. Article 29- Protection of interest of minorities. Article 30 - Right of minorities to establish and administer educational institution. Article 101 - Vacation of seats in both houses."
+}

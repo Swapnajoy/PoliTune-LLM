@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 284,
+  "type": "mcq_single",
+  "input": "Which part of the Constitution of India refers to the responsibility of the state towards international peace and security ?",
+  "options": {
+    "A": "Fundamental Rights",
+    "B": "Directive Principles of state policy",
+    "C": "Emergency provisions",
+    "D": "Preamble to the constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Directive principles of state policy states the responsibility of the state towards international peace and security."
+}

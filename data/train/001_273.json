@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 273,
+  "type": "mcq_single",
+  "input": "While deciding any question relating the disqualification of a member of Parliament, the President shall obtain the opinion of",
+  "options": {
+    "A": "Chief Justice of India",
+    "B": "Election Commission of India",
+    "C": "Attorney General of India",
+    "D": "Speaker of the Lok Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The President seeks the opinion of the Election Commission matters related with disqualification of Member of Parliament."
+}

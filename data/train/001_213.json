@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 213,
+  "type": "statements_correctness",
+  "input": "The citizenship means P. full civil and political rights of the citizens. Q. the right of suffrage for election to the House of the People (of the Union) and the Legislative Assembly of every state. R. the right to become a Member of the Parliament and Member of Legislative Assemblies. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "Q and R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "All statements are true. Citizenship is covered in Part II of the Indian constitution (Articles 5-11)."
+}

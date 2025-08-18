@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 15,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. The Comptroller and Auditor-General of India has no control over the issue of money from the Consolidated Fund of India. Q. The term of the office of the Comptroller and Auditor General of India has been fixed by an Act enacted by Parliament. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "He audits the accounts related to all expenditure from the consolidated fund of India. He holds office for a period of 6 years or up to the age of 65 years whichever is earlier."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 130,
+  "type": "mcq_single",
+  "input": "The idea of organization of Panchayats as a duty of state is mentioned in which part of the Indian Constitution?",
+  "options": {
+    "A": "Chapter I",
+    "B": "Chapter II",
+    "C": "Chapter III",
+    "D": "Chapter IV"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Panchayats as a duty of state is mentioned in chapter IV of the constitution."
+}

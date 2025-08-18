@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 161,
+  "type": "mcq_single",
+  "input": "The Prime Minister of India is the head of the",
+  "options": {
+    "A": "State government",
+    "B": "Central government",
+    "C": "Both the state and Central government",
+    "D": "None of them"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

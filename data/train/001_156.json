@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 156,
+  "type": "mcq_single",
+  "input": "Under which one of the following articles of Indian Constitution, provision of creation or abolition of Legislative Councils in States are made?",
+  "options": {
+    "A": "Article 168",
+    "B": "Article 169",
+    "C": "Article 170",
+    "D": "Article 171"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 169 deals with the provision of creation or abolition of Legislative Councils in states."
+}

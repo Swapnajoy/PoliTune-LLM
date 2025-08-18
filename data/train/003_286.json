@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 286,
+  "type": "mcq_single",
+  "input": "The Indian Constitution provides for the appointment of Adhoc judges in:",
+  "options": {
+    "A": "Supreme Court",
+    "B": "High Court",
+    "C": "District and Session Court",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

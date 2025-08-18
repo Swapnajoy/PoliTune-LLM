@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 63,
+  "type": "mcq_single",
+  "input": "Referendum has an integral relationship with–",
+  "options": {
+    "A": "Indirect Democracy",
+    "B": "Limited Monarchy",
+    "C": "Direct Democracy",
+    "D": "People’s Courts"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Referendum is a general vote by the electorate on a single political question which has been referred to them for a direct decision. It has an integral relationship with Direct Democracy."
+}

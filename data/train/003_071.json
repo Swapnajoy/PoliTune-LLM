@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 71,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. A bill pending in the Rajya Sabha which has not been passed by the Lok Sabha shall lapse on dissolution of the Lok Sabha. Q. A bill pending in Parliament shall lapse by reason of the propogation of the Houses. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "After a Bill has been passed by both Houses, it is presented to the President for his assent. The President can assent or withhold his assent to a Bill or he can return a Bill, other than a Money Bill, for reconsideration. If the Bill is again passed by the Houses, with or without amendment made by the President, he shall not withhold assent there from. But, when a Bill amending the Constitution passed by each House with the requisite majority is presented to the President, he shall give his assent thereto. A Bill becomes an Act of Parliament after being passed by both the Houses of Parliament and assented to by the President."
+}

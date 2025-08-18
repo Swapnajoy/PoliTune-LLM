@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 191,
+  "type": "mcq_single",
+  "input": "Consider the List-I and List-II and choose the correct code given below. List - I List - II A. National Front 1. 1996-98 B. United Front 2. 1998-2004 C. National 3. 1989-90 Democratic Alliance D. United 4. 2004-14 Progressive Alliance Codes: A B C D",
+  "options": {
+    "A": "3 1 2 4",
+    "B": "1 3 2 4",
+    "C": "1 2 3 4",
+    "D": "1 2 4 3"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

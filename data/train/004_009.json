@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 9,
+  "type": "mcq_single",
+  "input": "Which one of the following states does not have Vidhan Parishad?",
+  "options": {
+    "A": "Bihar",
+    "B": "Maharashtra",
+    "C": "Tamil Nadu",
+    "D": "Uttar Pradesh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Up to 2014, seven (out of twenty-nine) states have a Legislative Council: Andhra Pradesh, Bihar, Jammu and Kashmir, Karnataka, Maharashtra, Telangana and Uttar Pradesh.Tamilnadu does not have Legislative Council."
+}

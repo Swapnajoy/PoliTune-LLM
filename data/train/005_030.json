@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 30,
+  "type": "mcq_single",
+  "input": "Which one of the following Articles provides for the reservation of seats for the scheduled caste and scheduled tribes in the Panchayat?",
+  "options": {
+    "A": "Article 243(a)",
+    "B": "Article 243(b)",
+    "C": "Article 243(c)",
+    "D": "Article 243(d)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "According to Article 243 (d) seats should be reserved for SC and ST in every Panchayat and the number of seats of reserved shall bear, as nearly as may be, the same proportion to the total number of seats to be filled by direct election in that Panchayat as the population of the Scheduled Castes in that Panchayat area or of the Scheduled Tribes in that Panchayat area bears to the total population of that area such seats may be allotted by rotation to different constituencies in a Panchayat. Article 243 (a) - Gram Sabha Article 243 (b) - Constitution of Panchayats Article 243 (c) - Composition of Panchayats"
+}

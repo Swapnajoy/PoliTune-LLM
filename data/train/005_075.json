@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 75,
+  "type": "mcq_single",
+  "input": "A Panchayat Samiti at the block level in India is only a/an –",
+  "options": {
+    "A": "Advisory Body",
+    "B": "Consultative Committee",
+    "C": "Coordinating and Supervisory Authority",
+    "D": "Administrative Authority"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "A Panchayat Samiti at the block level in India is only a Coordinating and Supervisory Authority."
+}

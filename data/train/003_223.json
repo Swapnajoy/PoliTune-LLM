@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 223,
+  "type": "mcq_single",
+  "input": "If the Prime Minister is a member of the Rajya Sabha",
+  "options": {
+    "A": "He/she has to get elected to the Lok Sabha within 6 months",
+    "B": "He/she can declare the government’s policies only in the Rajya Sabha",
+    "C": "He/she cannot take part in the voting when a vote of no confidence is under consideration",
+    "D": "He/she cannot take part in the budget deliberation in the Lok Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 66,
+  "type": "mcq_single",
+  "input": "If any question arises as to the age of a judge of a High Court, the question shall be decided by",
+  "options": {
+    "A": "Chief Justice of India",
+    "B": "President of India",
+    "C": "Collegiums of judges headed by the Chief Justice of India",
+    "D": "Three judges committee constituted by the Vice President of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Any question arising as to the age of a judge of a High court, the question shall be decided by chief justice of India."
+}

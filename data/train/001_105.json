@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 105,
+  "type": "mcq_single",
+  "input": "Which article of the Indian Constitution empowers the president to consult the Supreme Court?",
+  "options": {
+    "A": "Article 129",
+    "B": "Article 132",
+    "C": "Article 143",
+    "D": "Article 32"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 143 provides power of President to consult Supreme Court. Article 129 refers Supreme Court to be a court of record."
+}

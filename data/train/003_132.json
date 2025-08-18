@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 132,
+  "type": "statements_correctness",
+  "input": "Consider the following statements – P. The Rajya Sabha alone has the power to declare that it would be in the national interest for the Parliament to legislate with respect to a matter in the state list. Q. Resolutions approving in the Proclamation of Emergency are passed only by the Lok Sabha. Which of the statements, given above is / are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Rajya Sabha alone has the power to declare that it would be in the national interest for the parliament to legislate with respect to a matter in the state. Resolutions approving in the Proclamation of emergency are passed by both the houses and the president."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 179,
+  "type": "mcq_single",
+  "input": "Department of official languages is subordinate office of which ministry?",
+  "options": {
+    "A": "Ministry of social justice and Empowerment",
+    "B": "Ministry of Home Affairs",
+    "C": "Ministry of Rural Development",
+    "D": "Ministry of Culture"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 114,
+  "type": "mcq_single",
+  "input": "The ninth schedule to the Indian Constitution was added by?",
+  "options": {
+    "A": "First amendment",
+    "B": "Eighth amendment",
+    "C": "Ninth amendment",
+    "D": "Forty second amendment"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "First amendment made in 1951, inserted two new articles, 31A and 31B and the 9th schedule to give protection from challenge to land reforms. It formed the subject-matter of dilatory litigation, as a result of which the implementation of these important measures, affecting large numbers of people, had been held up. Accordingly, a new article 31A was introduced with retrospective effect to uphold such measures. Further, another new article 31B was introduced to validate 13 enactments relating to zamindari abolition."
+}

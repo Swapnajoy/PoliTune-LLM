@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 13,
+  "type": "assertion_reason",
+  "input": "Assertion (Q) : An award made by a Lok Adalat is deemed be a decree of a Civil Court. Reason (R) : Award of Lok Adalat is final and binding on all parties, and no appeal lies against thereto before any court Codes:",
+  "options": {
+    "A": "Bath Q and R are true and R is the correct explanation of Q",
+    "B": "Both Q and R are true, but R is not the correct explanation of Q",
+    "C": "Q is true, but R is false",
+    "D": "Q is false, but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The award of the Lok Adalat is fictionally deemed to be decrees of Court and therefore the court has all the powers in relation thereto as it has in relation to a decree passed by itself. This includes the powers to extend time in appropriate cases. The award passed by the Lok Adalat is the decision of the court itself, though, arrived at by the simpler method of conciliation instead of the process of arguments in court."
+}

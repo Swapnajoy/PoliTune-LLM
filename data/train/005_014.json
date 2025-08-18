@@ -1,0 +1,19 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "The Panchayati Raj system was first started in India in the states of Rajasthan and...",
+  "options": {
+    "A": "andhra Pradesh (b) Uttar Pradesh",
+    "C": "Gujrat",
+    "D": "Haryana"
+  },
+  "choices": [
+    "A",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The panchayat raj system was first adopted by the state of Rajsthan in Nagor district on 2nd Oct 1959. The second state was Andhra Pradesh, while Maharashtra was the Ninth state."
+}

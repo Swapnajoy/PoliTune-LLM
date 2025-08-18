@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 10,
+  "type": "statements_correctness",
+  "input": "Consider the following P. Disputes with mobile cellular companies Q. Motor accident cases R. Pension cases For which of the above are Lok Adaalats held?",
+  "options": {
+    "A": "P only",
+    "B": "P and Q",
+    "C": "Q Only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Lok Adalats settle disputes through conciliation and compromise. Lok Adalats have been organized for settlement of motor accident cases, insurance claims and Land dispute cases. The System of Lok Adalats is an improvement and is based on the principles of Mahatma Gandhi."
+}

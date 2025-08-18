@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 89,
+  "type": "mcq_single",
+  "input": "What is the qualification to contest the election of Municipal Council? (i) For the office of the President, his age should not be less than 25 years. (ii) For the office of the councillor, his age should not be less than 21 years. (iii) Whose name is in the voter list, he can contest the election. (iv) A person can contest the election of councillor from two wards simultaneously. (v) A person can contest the election of president and councillor simultaneously.",
+  "options": {
+    "A": "(i), (ii), (iii)",
+    "B": "(i), (ii), (v)",
+    "C": "(ii), (iv), (v)",
+    "D": "(iii), (iv), (v)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The qualification to contest the election of municipal corporation are (I) For the office of the President, his age should not be less than 25 years. (II) For the office of Councillor his age should not be less than 21 years. (V) A person can contest the election of president and councillor simultaneously."
+}

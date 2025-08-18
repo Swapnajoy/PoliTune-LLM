@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 178,
+  "type": "statements_correctness",
+  "input": "Consider the following statements in regard to the Union Council of Ministers P. Parliamentary secretaries are the members of the council of Ministers. Q. The cabinet is superior to the council of Ministers. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

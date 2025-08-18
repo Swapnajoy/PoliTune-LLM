@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 67,
+  "type": "statements_correctness",
+  "input": "Which among the following statements regarding Lord Ripon’s plan for local self-government in India is/are correct? P. The district should be the maximum area served by one Committee or Local Board. Q. The Local Boards should consist of a large majority of nominated official members and be presided over by an official member as Chairman. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Onty Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Lord Ripon’s plan for local Self government in India is as follows: 1. The sub-division, not the district, should be the maximum area served by one committee or local board with primary boards under it serving very small areas, so that each member of it might possess knowledge of and interest in its affairs. 2. The local boards should consist of a large majority of elected non-official members, and theyshould be presided over by a non-official member."
+}

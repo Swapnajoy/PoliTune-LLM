@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 111,
+  "type": "statements_correctness",
+  "input": "The forms of oaths or affirmations for which of the following officials are mentioned in the third schedule of the Indian constitution? P. The Comptroller and Auditor General Q. The Chief Election Commissioner R. The Chief Justice of a High Court S. The Attorney General Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, Q and R only",
+    "C": "Q, R and S only",
+    "D": "P and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The forms of oaths or affirmations, in the third schedule of the Indian constitution, are mentioned for the given officials. Third Schedule–(Articles 75(4), 99, 124(6), 148(2), 164(3), 188 and 219)."
+}

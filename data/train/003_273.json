@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 273,
+  "type": "mcq_single",
+  "input": "What does the ‘Judicial Review’ function of the Supreme Court mean?",
+  "options": {
+    "A": "Review its own judgment",
+    "B": "Review the functioning of judiciary in the country",
+    "C": "Examine the constitutional validity of the constitution",
+    "D": "Examine the judicial amendments"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

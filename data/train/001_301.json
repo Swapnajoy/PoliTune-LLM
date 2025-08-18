@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 301,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: The fundamental duties provided in the constitution are: P. To protect the sovereignty, unity and integrity of India Q. To safeguard private property R. To protect and improve the natural environment including forests, lakes, rivers and wild life of these statements: Of these statements:",
+  "options": {
+    "A": "P, Q and R are correct",
+    "B": "P and Q are correct",
+    "C": "Q and R are correct",
+    "D": "P and R are correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

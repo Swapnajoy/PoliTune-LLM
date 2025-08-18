@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 160,
+  "type": "mcq_single",
+  "input": "By which of the following can the President of India be impeached?",
+  "options": {
+    "A": "The Lok Sabha",
+    "B": "The Parliament",
+    "C": "The Chief Justice of India",
+    "D": "The Prime Minister"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

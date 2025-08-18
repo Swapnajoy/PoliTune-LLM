@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 3,
+  "type": "mcq_single",
+  "input": "What is the tenure of the Chief Election Commissioner of India?",
+  "options": {
+    "A": "Five years",
+    "B": "During the ‘pleasure’ of the President",
+    "C": "Six years or till the age of 65 years whichever is earlier",
+    "D": "Five years or till the age of 65 years whichever is earlier"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The tenure of the Chief Election Commissioner of India is six years or till the age of 65 year whichever is earlier."
+}

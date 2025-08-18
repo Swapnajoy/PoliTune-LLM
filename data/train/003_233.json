@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 233,
+  "type": "mcq_single",
+  "input": "Which one of the following statements is not correct ?",
+  "options": {
+    "A": "The President cannot pardon a person sentenced by a Court Martial.",
+    "B": "The supreme command of the defence forces of the Union vests in the President, but its exercise has to be regulated by law.",
+    "C": "A person awarded rigorous imprisonment cannot be compelled to do hard work as this would amount to violation of Article 23 of the Constitution of India.",
+    "D": "The Armed Forces Tribunal Act, 2007 excludes the powers of the High Courts under Article 226 of the Constitution of India in relation to service matters of persons in the armed forces."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

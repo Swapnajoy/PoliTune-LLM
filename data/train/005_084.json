@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 84,
+  "type": "mcq_single",
+  "input": "The Municipal Commissioner is appointed by",
+  "options": {
+    "A": "Member of Legislative Assembly",
+    "B": "Zila Parishad",
+    "C": "State Government",
+    "D": "District Magistrate"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "A municipal commissioner is appointed by the state government from the Indian Administrative Service and mostly from Provincial Civil Service to head the administrative staff of the Municipal Corporation, implement the decisions of the Corporation and prepare its annual budget."
+}

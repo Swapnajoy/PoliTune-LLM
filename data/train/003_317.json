@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 317,
+  "type": "mcq_single",
+  "input": "All proceedings in the Supreme Court and in every High Court will be in:",
+  "options": {
+    "A": "Hindi",
+    "B": "English",
+    "C": "Hindi and English",
+    "D": "Hindi or English"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

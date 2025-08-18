@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 45,
+  "type": "statements_correctness",
+  "input": "Which of the following statements about the Constitution of India is/are correct? P. Popular sovereignty and adult franchise are the basic features of the Constitution. Q. The Constitution, in so far as the division of powers between the Centre and the States is concerned, is rigid. R. The Constitution recognises the interdependence of civil and economic rights. S. The Constitution mentions direct control by the people such as referendum, initiative and recall. Select the correct answer from the codes given below:",
+  "options": {
+    "A": "Only P",
+    "B": "P, Q and S",
+    "C": "Q, R and S",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The constitution doesn’t mention direct control by the people such as referendum, initiative and recall."
+}

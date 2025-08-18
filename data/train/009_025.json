@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 25,
+  "type": "statements_correctness",
+  "input": "Political theory P. deals with the ideas and principles that shape Constitutions. Q. clarifies the meaning of freedom, equality and justice. R. probes the significance of principles of rule of law, separation of power and judicial review. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "Only P",
+    "C": "Q and R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Political Theory deals with the study of political institutions as well as with theories of state, law, liberty, equality and representation."
+}

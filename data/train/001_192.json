@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 192,
+  "type": "statements_correctness",
+  "input": "Consider the following statements related to secularism in India: P. It entails strict separation of religion from politics. Q. It bans parties with religious affiliations from contesting elections. R. It grants religious liberty to all communities. S. It accepts community personal laws. Which of the statements given above are correct?",
+  "options": {
+    "A": "R and S",
+    "B": "P and Q",
+    "C": "P, R and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Following are the features of Indian secularism: 1. The state should not have any religion of its own. 2. All the religions shall be equally protected by the state. 3. Free exercise of right to freedom of religion. 4. State shall not discriminate against any particular religion. It means that the state shall not prefer, favour or disfavour any particular religion viz-a-viz others. 5. Religious tolerance."
+}

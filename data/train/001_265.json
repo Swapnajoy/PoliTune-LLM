@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 265,
+  "type": "mcq_single",
+  "input": "The writ of Prohibition is issued by a superior court",
+  "options": {
+    "A": "to prevent an inferior court or tribunal from exceeding its jurisdiction or acting contrary to the rules of natural justice",
+    "B": "to an inferior court or body exercising judicial or quasijudicial functions to transfer the record to proceedings in a case for its review",
+    "C": "where it can call upon a person to show under what authority he/she is holding the office",
+    "D": "to an authority to produce an illegally detained person before the court for trial"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The writ of Prohibition is an order from a superior court to a lower court or tribunal directing the judge and the parties to cease the litigation because the lower court does not have proper jurisdiction to hear or determine the matters before it."
+}

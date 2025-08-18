@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 50,
+  "type": "mcq_single",
+  "input": "There are different arguments given in favour of power sharing in a democratic political system. Which one of the following is not one of them?",
+  "options": {
+    "A": "It reduces conflict among different communities",
+    "B": "Major community does not impose its will on others",
+    "C": "Since all are affected by the policies of the government, they should be consulted in the governance of the county",
+    "D": "It speeds up the decision making process and improves the chances of unity of the country"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Power sharing in a Democ ratic political System does not speeds up the decision making process and improves the chances of unity of the country."
+}

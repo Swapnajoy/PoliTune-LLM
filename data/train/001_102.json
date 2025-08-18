@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 102,
+  "type": "mcq_single",
+  "input": "Under which article of the Indian Constitution the adjudication of disputes relativity to water of inter-state rivers-valleys is done ?",
+  "options": {
+    "A": "Article 260",
+    "B": "Article 261",
+    "C": "Article 262",
+    "D": "Article 262"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under Article 262 of the Indian Constitution the adjudication of disputes relating to water of inter-state rivers or river valleys is done. Article 260 - Jurisdiction of the Union in relation to territories outside India. Article 261 deals with public acts, records and judicial proceedings."
+}

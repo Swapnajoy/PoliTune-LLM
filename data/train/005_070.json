@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 70,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about local government in India: P. Article 40 of Indian Constitution provides for the State to organize village panchayats and endow them with such powers and authority as may be necessary to make them function as units of self-government. Q. The 73rd and 74th Constitution Amendments inserted Part IX and IX A in the Constitution. R. The provisions in Parts IX and IX A of Indian Constitution are more or less parallel and analogous. S. The 73rd Constitution Amendment is applicable to all states irrespective of size of population. Which of the statements given above are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, Q and R only",
+    "C": "R and S only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "73rd constitution amendment is applicable to all states except Jammu & Kashmir."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 107,
+  "type": "mcq_single",
+  "input": "The Constitution of India provides for an Election Commission under Article",
+  "options": {
+    "A": "321",
+    "B": "322",
+    "C": "323",
+    "D": "324"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Constitution of India provides for an election commission under article 324. Article 321 empowers power to extend functions of Public service commission. Under article 322 expenses of public service commission mentioned."
+}

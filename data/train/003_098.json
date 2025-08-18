@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 98,
+  "type": "mcq_single",
+  "input": "The Speaker of the Lok Sabha may be removed from office by",
+  "options": {
+    "A": "the majority party in the house adopting a no-confidence motion",
+    "B": "a resolution passed by not less than half of the total membership of the house",
+    "C": "a resolution passed by at least two-thirds of the total membership of the house",
+    "D": "a resolution passed by a majority of all the members of the house"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Speaker of Lok Sabha may be removed from his office by a resolution of the House of the People passed by a majority of all the then members of the House. No resolution for the purpose of removal of the Speaker or the Dy. Speaker shall be moved unless at least fourteen days notice has been given of the intention to move the resolution."
+}

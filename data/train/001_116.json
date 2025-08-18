@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 116,
+  "type": "mcq_single",
+  "input": "In the Indian Constitution, the right to equality is granted by following Articles. They are:",
+  "options": {
+    "A": "Article 16 to Article 20",
+    "B": "Article 15 to Article 19",
+    "C": "Article 14 to Article 18",
+    "D": "Article 13 to Article 17"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 14- Equality before Law Article 15- Prohibition of Discrimination Article 16- Equality of Opportunity Article 17- Abolition of untouchability Article 18- Abolition of titles."
+}

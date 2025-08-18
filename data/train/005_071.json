@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 71,
+  "type": "mcq_single",
+  "input": "The Panchayati Raj system under Part-IX of the Constitution of India does not apply of the States of :",
+  "options": {
+    "A": "Assam, Mizoram and Nagaland",
+    "B": "Nagaland, Meghalaya and Tripura",
+    "C": "Nagaland, Meghalaya and Mizoram",
+    "D": "Sikkim, Tripura and Meghalaya"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In the history of Panchayati Raj, in India, on 24 April 1993, the Constitutional (73rd Amendment) Act 1992 came into force to provide constitutional status to the Panchayati Raj institutions. Currently, the Panchayati Raj system exists in all the states except Nagaland, Meghalaya and Mizoram, and in all Union Territories except Delhi."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 70,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : The President is part of the Parliament. Reason (R) : A bill passed by the two Houses of Parliament cannot become law without the assent of the President. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q.",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q.",
+    "C": "Q is true but R is false.",
+    "D": "Q is false but R is true."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "When a bill has been passed, it is sent to the President for his approval. The President can assent or withhold his assent to a bill or he can return a bill, other than a money bill which is recommended by president himself to the houses, with his recommendations. The president can exercise absolute veto on aid and advice of council of ministers. Following position can be arrived by reading article 111 of Indian constitution with article 74. The president may also effectively withhold his assent as per his own discretion, which is known as pocket veto. If the president returns it for reconsideration, the Parliament must do so, but if it is passed again and returned to him, he must give his assent to it."
+}

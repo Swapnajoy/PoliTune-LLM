@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 172,
+  "type": "mcq_single",
+  "input": "Which of the following is / are listed among the Directive Principles in Part-IV of the Constitution of Indian? I. Equal Pay for Equal Work II. Uniform Civil Code III. Small family norm IV. Education through mother tongue at primary level",
+  "options": {
+    "A": "I, II and III",
+    "B": "I and II",
+    "C": "II and III",
+    "D": "I, II and IV"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Small family norm and Education through mother tongue at primary level are not listed among the Directive Principles in Part-IV of the Indian Constitution."
+}

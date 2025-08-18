@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 200,
+  "type": "mcq_single",
+  "input": "The mind of the makers of the Constitution of India is reflected in which of the following?",
+  "options": {
+    "A": "The Preamble",
+    "B": "The Fundamental Rights",
+    "C": "The Directive Principles of State Policy",
+    "D": "The Fundamental Duties Union & Its Territories"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Sir Alladi Krishnaswami Iyer, a member of the Constituent Assembly, had said ‘The Preamble to our Constitution expresses what we had thought or dreamt so long.” So “A” is the answer."
+}

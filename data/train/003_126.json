@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 126,
+  "type": "mcq_single",
+  "input": "Which of the following Houses has had the longest speeches by the members?",
+  "options": {
+    "A": "House of Lords",
+    "B": "Lok Sabha",
+    "C": "US Senate",
+    "D": "Swiss Council of States"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "US senate holds the record for the longest speeches by the members."
+}

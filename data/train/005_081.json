@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 81,
+  "type": "mcq_single",
+  "input": "What is correct about the powers of Zila Panchayats of Scheduled Areas?",
+  "options": {
+    "A": "To plan minor water bodies",
+    "B": "To control over institutions in all social sectors",
+    "C": "To control on tribal sub-plans",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The powers of Zila panchayats of scheduled Areas are– (i) To plan minor water bodies (ii) To control over institutions in all social sectors (iii) To control on tribal subplans (iv) To exercise other functions as conferred by state govt."
+}

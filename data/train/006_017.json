@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 17,
+  "type": "mcq_single",
+  "input": "The First Five Year Plan (1951-1956) was drafted by :",
+  "options": {
+    "A": "P C Mahalanobis",
+    "B": "K N Raj",
+    "C": "J C Kumarappa",
+    "D": "Jawaharlal Nehru"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Kakkadan Nandanath Raj was a veteran Indian economist. He is popularly known as K. N. Raj. He played an important role in India’s planned development, drafting sections of India’s first Five Year Plan."
+}

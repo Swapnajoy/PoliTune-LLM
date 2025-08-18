@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 348,
+  "type": "mcq_single",
+  "input": "Which one among the following pairs of level of government and legislative power is not correctly matched ?",
+  "options": {
+    "A": "Central Government : Union List",
+    "B": "Local Governments : Residuary powers",
+    "C": "State Governments : State List",
+    "D": "Central and State Government : Concurrent List"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The State list contains 66 subjects of local or state importance. The state governments have the authority to make laws on these subjects. These subjects include police, local governments, trade, commerce and agriculture. Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List. Note: Residuary Power retained by a governmental authority after certain powers have been delegated to other authorities."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 338,
+  "type": "mcq_single",
+  "input": "The Constitution of Jammu & Kashmir came into force on :",
+  "options": {
+    "A": "January 26, 1950",
+    "B": "January 26, 1952",
+    "C": "January 26, 1955",
+    "D": "January 26, 1957"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "On 15 February, 1954 the assembly members who were present cast a unanimous vote ratifying the J&K’s accession to India. Constitution was drafted which came into force on 26 January 1957. Part II, section (3) of the constitution states ‘The State of Jammu and Kashmir is and shall be an integral part of the Union of India’. In 1956 the Constituent Assembly finalised its constitution, which declared the whole of the former Princely State of Jammu and Kashmir to be ‘an integral part of the Union of India’. Elections were held the next year for a Legislative Assembly. This section cannot be legally amended as per provisions of Part XII of the constitution."
+}

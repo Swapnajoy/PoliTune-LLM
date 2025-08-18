@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 333,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are extra-constitutional and extra-legal device(s) for securing co-operation and coordination between the states in India? P. The National Development Council Q. The Governor’s Conference R. Zonal councils S. The Inter-state council",
+  "options": {
+    "A": "P, Q and R only",
+    "B": "P, R and S only",
+    "C": "R and S only",
+    "D": "S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

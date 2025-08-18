@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 56,
+  "type": "mcq_single",
+  "input": "On which one of the following funds are salary and allowances of the judges of High Court of the state charged?",
+  "options": {
+    "A": "Consolidated fund of India",
+    "B": "Consolidated fund of the State",
+    "C": "Contingency fund of India",
+    "D": "Contingency fund of the state"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Salary is charged on Consolidated Fund of State. But the pension of the High Court judge is given from the Consolidated Fund of India."
+}

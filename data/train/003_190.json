@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 190,
+  "type": "statements_correctness",
+  "input": "With reference to Union Government consider the following statements: P. The ministries/Departments of the government of India are created by the PM on the advice of the cabinet secretary. Q. Each of the ministries is assigned to a minister by the president of India on the advice of the PM. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

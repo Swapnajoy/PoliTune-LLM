@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 115,
+  "type": "statements_correctness",
+  "input": "The Union Parliament can also legislate on a subject of State List. P. to give effect to international agreement. Q. with the consent of the State concerned. R. during President’s rule in the State. S. in the national interest, when Rajya Sabha passes a resolution to this effect by a 2/3rd majority. Select the correct answer from the codes given below : Codes:",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P, Q and S",
+    "D": "All the four"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 148,
+  "type": "mcq_single",
+  "input": "All the executive powers in Indian Constitution are vested with",
+  "options": {
+    "A": "Prime Minister",
+    "B": "Council of Ministers",
+    "C": "President",
+    "D": "Parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "All the executive powers are vested with Prime Minister."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 36,
+  "type": "mcq_single",
+  "input": "In which of the Indian Provinces the first Communist Government was established?",
+  "options": {
+    "A": "Tamilnadu",
+    "B": "andhra Pradesh",
+    "C": "Kerala",
+    "D": "West Bengal"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In India it was the provinces of Kerala where first Communist government was formed in 1957 led by E. Nambudbad."
+}

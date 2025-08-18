@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 75,
+  "type": "statements_correctness",
+  "input": "Consider the following statements with respect to the Attorney General of India P. He is appointed by the President. Q. He must have the same qualifications as are required by a Judge of High Court. R. In the performance of his duties he shall have the right of audience in all courts of India. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "P and R",
+    "C": "Q and R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Attorney General of India is the chief legal advisor of Indian government. He is appointed by the President of Indiaunder Article 76(a) of the Constitution. He must be a person qualified to be appointed as a Judge of the Supreme Court. The Attorney General has the right of audience in all Courts in India as well as the right to participate in the proceedings of the Parliament. He holds office during the pleasure of the President. The current Attorney General is Mukul Rohatgi(14th Attorney General)."
+}

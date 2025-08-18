@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 2,
+  "type": "mcq_single",
+  "input": "Voting right by the youth at the age of 18 years was exercised for the first time in the general election of",
+  "options": {
+    "A": "1987",
+    "B": "1988",
+    "C": "1989",
+    "D": "1990"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "61th amendment, 1989 on amending article 326 reduced age for voting rights from 21 to 18."
+}

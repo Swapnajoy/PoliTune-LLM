@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 272,
+  "type": "mcq_single",
+  "input": "The Constitution of India guarantees the Fundamental Right to Freedom of Religion to all its citizens. Which among the following is not true for this Rights?",
+  "options": {
+    "A": "It gives freedom of conscience and freedom to profess, practice and propagate any religion",
+    "B": "It gives freedom to establish and maintain institution for religious and charitable purposes",
+    "C": "The Right is subject to public order, morality and health",
+    "D": "The State cannot make any law which abrogates this Right for citizens"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The state can make laws which abrogate the right in case there is a threat to public order, morality and health."
+}

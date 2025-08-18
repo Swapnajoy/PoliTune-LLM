@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 56,
+  "type": "mcq_single",
+  "input": "What is the system of governance in the Panchayati Raj set up?",
+  "options": {
+    "A": "Single tier structure of local self govt. at the village level",
+    "B": "Two tier system of local self govt. at the village and block levels.",
+    "C": "Three tier structure of local self govt. at the village, block and district levels.",
+    "D": "Four tier system of local self govt. at the village, block, district and state levels."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Part IX of the constitution envisages a 3-tier system of panchayats, namely (a) the village level (b) the district panchayat (district-level) (c) The intermediate panchayat (block-level)"
+}

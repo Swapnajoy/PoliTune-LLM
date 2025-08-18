@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 28,
+  "type": "mcq_single",
+  "input": "Which of the following is the most appropriate tool to raise the issue of Naxalism activities in the Lok Sabha?",
+  "options": {
+    "A": "Calling attention motion",
+    "B": "Discussion under Rule 377",
+    "C": "Censure motion",
+    "D": "Short duration discussion"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Calling attention is a type of motion introduced by a member to call the attention of a minister to a matter of urgent public importance."
+}

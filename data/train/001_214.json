@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 214,
+  "type": "mcq_single",
+  "input": "Which one of the following features of citizenship in India is correct?",
+  "options": {
+    "A": "Dual citizenship of the State and Nation",
+    "B": "Single citizenship of a State",
+    "C": "Single citizenship of whole of India",
+    "D": "Dual citizenship of India and another Country Fundamental Rights"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

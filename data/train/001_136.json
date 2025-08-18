@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 136,
+  "type": "statements_correctness",
+  "input": "Which one of the following Articles Schedules in the Constitution of India deals with Autonomous District Councils? (CDS 2016-I) P. The ideal of a common civil code is set forth in Article",
+  "options": {
+    "A": "Eighth Schedule",
+    "B": "Article 370",
+    "C": "Sixth Schedule",
+    "D": "Article 250"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The sixth schedule to the constitution of India deals with Autonomous District Councils (ADCs)."
+}

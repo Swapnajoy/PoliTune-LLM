@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 220,
+  "type": "mcq_single",
+  "input": "Fundamental Duties enshrined in the Indian Constitution do not have any",
+  "options": {
+    "A": "Legal sanction",
+    "B": "Political sanction",
+    "C": "Social Sanction",
+    "D": "Moral sanction"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Fundamental duties enshrined in the Indian Constitution do not have any legal sanction. The Fundamental Duties of citizens were added to the Constitution by the 42nd Amendment in 1976. It is politicaly approved, socially adopted having moral intentions towards nation. There is no provision of legal sanction which abide to follow fundamental duties."
+}

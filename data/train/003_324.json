@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 324,
+  "type": "statements_correctness",
+  "input": "On which of the following grounds can a Judge of the Supreme Court or a High Court be impeached? P. Violation of the Constitution Q. Proved misbehaviour R. Incapacity Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "P, Q and R",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

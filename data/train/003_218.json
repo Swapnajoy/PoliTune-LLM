@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 218,
+  "type": "mcq_single",
+  "input": "In which one of the following Minsitries the census organisation has been functioning on a permanent footing since 1961?",
+  "options": {
+    "A": "Health and Family Welfare",
+    "B": "Home Affairs",
+    "C": "Social Justice and Empowerment",
+    "D": "Human Resource Development"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 130,
+  "type": "mcq_single",
+  "input": "The number of Rajya Sabha members from Uttarakhand is –",
+  "options": {
+    "A": "one",
+    "B": "two",
+    "C": "three",
+    "D": "five"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "There are 3 Rajya Sabha members from uttarakhand. Name Party Shri Mahendra Indian National Congress Singh Mahra Shri Tarun Vijay Bhartiya Janta Party Shri Raj Baffar Indian National Congress"
+}

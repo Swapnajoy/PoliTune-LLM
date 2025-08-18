@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 281,
+  "type": "mcq_single",
+  "input": "In the context of India, which one of the following is the correct relationship between Rights and Duties?",
+  "options": {
+    "A": "Rights are correlative with Duties.",
+    "B": "Rights are personal and hence independent of society and Duties.",
+    "C": "Rights, not Duties, are important for the advancement of the personality of the citizen.",
+    "D": "Duties, not Rights, are important for the stability of the State. Directive Principle of State Policies"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Rights and duties are correlative and inseparable, hence A is the answer."
+}

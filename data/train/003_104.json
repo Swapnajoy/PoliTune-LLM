@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 104,
+  "type": "mcq_single",
+  "input": "After a Bill has been passed by the Houses of the Parliament, it is presented to the President who may either give assent to the Bill or with hold his assent. The President may",
+  "options": {
+    "A": "assent within six months",
+    "B": "assent or reject the Bill as soon as possible",
+    "C": "return the Bill as soon as possible after the Bill is presented to him with a message requesting the House to reconsider the Bill",
+    "D": "with hold his assent even if the Bill is passed again by the Houses"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 111 of the Indian constitution stipulates that the President shall give assent to a bill passed by both houses of the parliament or return the bill as soon as possible for reconsideration with his recommendation."
+}

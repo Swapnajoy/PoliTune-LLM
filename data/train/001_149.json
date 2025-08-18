@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 149,
+  "type": "mcq_single",
+  "input": "The Fourth Schedule to the Constitution of India deals with:",
+  "options": {
+    "A": "provisions related to the administration of tribal areas.",
+    "B": "allocation of seats in the Council of States.",
+    "C": "the Union List, The State List and the Concurrent List.",
+    "D": "recognized languages of the Union of India."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Fourth Schedule (Articles 4(1) and 80(2)) of the Indian Constitution deals with the allocation of seats in the Rajya Sabha (the upper house of Parliament) per State or Union Territory."
+}

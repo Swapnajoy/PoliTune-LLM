@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 60,
+  "type": "mcq_single",
+  "input": "Which one among the following is not a characteristic of a federal system?",
+  "options": {
+    "A": "There are two distinct levels of government",
+    "B": "The responsibilities and powers of each level of government are clearly defined in a written Constitution",
+    "C": "There is no separation of powers between the legislative and executive branches of government",
+    "D": "A Supreme Court is entrusted with the responsibility of interpreting these provisions and arbitrating in matters of dispute"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "One of the features of the federal system is the distribution of power between the federal government and the government of the states.Some powers are given to the federal government and some other remaining powers are given to the government of states. The federal government is powerful over the matter of national (or) general importance. Both federal and state governments functioning strictly within the sphere demarcated for them."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 27,
+  "type": "mcq_single",
+  "input": "What is the middle unit in the three tier Panchayati Raj System?",
+  "options": {
+    "A": "Gram Panchayat",
+    "B": "Panchayat Samiti",
+    "C": "Zila Parishad",
+    "D": "Union Board"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Panchayat Samiti is the middle unit in the three-tier Panchayati Raj system. A block panchayat (panchayat samiti) is a local government body at the tehsil or taluka level in India."
+}

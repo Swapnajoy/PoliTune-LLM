@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 10,
+  "type": "mcq_single",
+  "input": "The power to decide the date of an election to a State Legislative Assembly rests with the",
+  "options": {
+    "A": "President of India",
+    "B": "Chief Minister and his/her Cabinet",
+    "C": "Election Commission of India",
+    "D": "Parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The power to decide the date of an election a state legislative assembly rests with the election commission of India."
+}

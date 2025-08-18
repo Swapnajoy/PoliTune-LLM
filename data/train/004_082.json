@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 82,
+  "type": "mcq_single",
+  "input": "There is a High Court for each of the states except – I. Manipur II. Meghalaya III. Tripura IV. Goa",
+  "options": {
+    "A": "Only I and II",
+    "B": "Only II and III",
+    "C": "I, II and III",
+    "D": "I, II, III and IV"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "There is a High Court for each of the states except Manipur, Meghalaya, Tripura, Goa, Mizoram, Nagaland and Arunachal Pradesh."
+}

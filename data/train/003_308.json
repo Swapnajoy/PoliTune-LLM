@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 308,
+  "type": "assertion_reason",
+  "input": "Assertion (Q) : A Habeas Corpus writ petition dismissed by the Supreme Court can be admitted by the High Court under article 226 of the Constitution. Reason (R) : In exercising writ jurisdiction, the powers of the Supreme Court and High Court are concurrent.",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

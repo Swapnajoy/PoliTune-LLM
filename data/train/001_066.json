@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 66,
+  "type": "mcq_single",
+  "input": "Which part of the Indian Constitution deals with centre-state financial relations?",
+  "options": {
+    "A": "Part XV",
+    "B": "Part XIV",
+    "C": "Part XII",
+    "D": "Part X"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Part XII of the Indian Constitution deals with centre-state financial relations. Part XV deals with Election Commission of India. In part XIV services under the union and the states, Public Service Commissions are mentioned. Part X includes article 244 – 244A and is about administration of scheduled areas and tribal areas."
+}

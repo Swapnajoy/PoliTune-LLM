@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 36,
+  "type": "mcq_single",
+  "input": "Elections in the Panchayati Raj Institutions in India are conducted by",
+  "options": {
+    "A": "State Election Commissioner",
+    "B": "Election Commission of India",
+    "C": "State Government",
+    "D": "Central Government"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The superintendence, direction and control of the preparation of electoral rolls for, and the conduct of, all elections to the Panchayats shall be vested in a State Election Commission consisting of a State Election Commissioner to be appointed by the Governor."
+}

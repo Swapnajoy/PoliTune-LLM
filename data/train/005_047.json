@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 47,
+  "type": "mcq_single",
+  "input": "Which is the first state in South India to introduce Panchayati Raj?",
+  "options": {
+    "A": "andhra Pradesh",
+    "B": "Kerala",
+    "C": "Tamil Nadu",
+    "D": "Karnatka"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Andhra Pradesh is the first state in South India to introduce Panchayati Raj. Overall second state in India after Rajasthan."
+}

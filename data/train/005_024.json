@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 24,
+  "type": "mcq_single",
+  "input": "The constitutional status has been given to Panchayats under Article.",
+  "options": {
+    "A": "219",
+    "B": "226",
+    "C": "239",
+    "D": "243"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 243 gives constitutional status to the Panchayats."
+}

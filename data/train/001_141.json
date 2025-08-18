@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 141,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. Article 46 of the Constitution of India provides for free legal aid to Scheduled Castes and Scheduled Tribes. Q. Article 14 of the Constitution of India provides for equality before law. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 46 deals with Promotion of educational and economic interests of the weaker sections of the people, and in particular, of the Scheduled Castes and the Scheduled Tribes and shall protect them from social injustice and all forms of exploitation. It does not provide free legal aid to them. According to Article 14, “the State shall not deny to any person equality before the law or equal protection of the laws within the territory of India”."
+}

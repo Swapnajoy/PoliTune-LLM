@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 15,
+  "type": "mcq_single",
+  "input": "Which among the following is not a part of the electoral reforms?",
+  "options": {
+    "A": "Installation of electronic voting machines",
+    "B": "Appointment of election Commissioner",
+    "C": "Registration of Political parties",
+    "D": "Disqualifying the offenders"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Electoral reforms is change in electoral systems to improve how public desires are expressed in election results, Installation of electronic voting machines is not the parts of such reforms."
+}

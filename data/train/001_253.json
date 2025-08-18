@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 253,
+  "type": "statements_correctness",
+  "input": "Which of the following statements is/are correct? Article 26 of the Constitution of India states that subject to public order, morality and health, every religious denomination or any section there of shall have the right. P. to establish and maintain institutions for religious and charitable purposes. Q. to manage its own affairs in matters of religion. R. to own and acquire movable and immovable property. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "P and R",
+    "C": "P and R",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 26 of the Indian Constitution statesfreedom to manage religious affairs subject to public order, morality and health, every religious denomination or any section thereof shall have the right- (a) to establish and maintain institutions for religious and charitable purposes; (b) to manage its own affairs in matters of religion; (c) to own and acquire movable and immovable property; and (d) to administer such property in accordance with law"
+}

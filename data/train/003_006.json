@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 6,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding Constitutional Amendments. P. In Article 368, two methods of Constitutional Amendment are mentioned. Q. Constitutional Amendment Bill can be initiated only in Lok Sabha. R. In case of any dispute between two Houses of Parliament on Constitutional Amendment Bill, Joint sitting of both houses can be summoned. S. The President cannot veto a Constitutional Amendment Bill. Which of the statement(s) given above is/are correct?",
+  "options": {
+    "A": "P and R only",
+    "B": "P and S only",
+    "C": "Q and S only",
+    "D": "Q, R and S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

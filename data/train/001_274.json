@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 274,
+  "type": "mcq_single",
+  "input": "Which of the following Fundamental Rights are granted only to citizens of India? Select the correct answer from the code given below : I. Cultural and educational rights. II. Equality before the law. III. Right against exploitation IV. Protection from discrimination on grounds only of religion, race, caste, sex or place of birth. Codes :",
+  "options": {
+    "A": "I and II only",
+    "B": "II and IV only",
+    "C": "III and IV only",
+    "D": "I and IV only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The fundamental rights to equality before law and right against exploitation are available to foreign citizen also, if they reside in the territory of India."
+}

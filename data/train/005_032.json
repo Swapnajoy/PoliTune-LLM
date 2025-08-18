@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 32,
+  "type": "mcq_single",
+  "input": "Which of the following committees is not concerned with Panchayati Raj?",
+  "options": {
+    "A": "Santhanam Committee",
+    "B": "Ashok Mehta Committee",
+    "C": "Balwant Rai Mehta Committee",
+    "D": "V.K.R.V. Rao Committee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "THE SANTHANAM Committee Report 1964 defines corruption as a complex problem having roots and ramifications in society as a whole."
+}

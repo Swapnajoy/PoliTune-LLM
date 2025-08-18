@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 42,
+  "type": "mcq_single",
+  "input": "In a single transferable vote system, each voter is required to :",
+  "options": {
+    "A": "Indicate one preference more than the seats to be filled up",
+    "B": "Indicate one preference less than the total seats to be filled up",
+    "C": "Indicate as many preferences as there are candidates to be elected",
+    "D": "Indicate only a single preference"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In a single transferable vote system, each voter is required to indicate as many preferences as there are candidates to be elected."
+}

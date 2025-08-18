@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 65,
+  "type": "statements_correctness",
+  "input": "When the House of people clearly and conclusively determines that the government does not command its support, the government has to resign. By which of the ways parliamentary confidence in the government may be expressed by the House of People? P. Defeating the government on a major issue of policy. Q. Passing an adjournment motion R. Defeating the government on finance issues S. Passing a motion of no confidence in the council of ministers.",
+  "options": {
+    "A": "P and R only",
+    "B": "Q, R and S only",
+    "C": "Q and R only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The government may be expressed by the House of People by all the statements given. So the all statements are correct."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 59,
+  "type": "mcq_single",
+  "input": "The jurisdiction of state high court can be extended by",
+  "options": {
+    "A": "Parliament",
+    "B": "The Chief Justice of India",
+    "C": "The Governor of the state",
+    "D": "The President of India."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Parliament may make a provision for a common High Court for two or more States or extend the jurisdiction of a High Court to one or more Union Territories."
+}

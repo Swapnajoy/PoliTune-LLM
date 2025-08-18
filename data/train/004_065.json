@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 65,
+  "type": "mcq_single",
+  "input": "Pensions of High Court judges are charged on the following",
+  "options": {
+    "A": "Consolidated fund of India",
+    "B": "Consolidated fund of State",
+    "C": "Subject to the decision of Supreme Court",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Pensions of High Court judges are charged on the consolidated Fund of the India."
+}

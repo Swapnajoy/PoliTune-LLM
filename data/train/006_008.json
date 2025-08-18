@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 8,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding the National Human Rights Commission of India P. Its chairman must be a retired CJI. Q. It has formations in each state as state Human Rights Commission. R. Its powers are only recommendatory in nature. S. It is mandatory to appoint a woman as a member of the commission. Which of the above statements are correct?",
+  "options": {
+    "A": "P, Q, R and S only",
+    "B": "Q and S only",
+    "C": "Q and R only",
+    "D": "P and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Only 1 and 3 statements are correct. They are not necessarily formed in each state as state Human Rights Commission. Till now only 15 states have SHRCs and not mandatory appoint a woman as a member."
+}

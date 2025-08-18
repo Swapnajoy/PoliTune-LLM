@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 246,
+  "type": "mcq_single",
+  "input": "Which of the following statements are correct about the Vice - Presidents of India and America? (1) Both the Vice-Presidents are elected for a fixed term. (2) They are the presiding officers of the upper house. (3) They appoint the committees of the house. (4) They have a casting vote in case of a tie. Select the correct answer from the codes given below :",
+  "options": {
+    "A": "(1), (2) and (4)",
+    "B": "(2) and (3)",
+    "C": "(1), (2) and (3)",
+    "D": "(1), (2), (3) and (4)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

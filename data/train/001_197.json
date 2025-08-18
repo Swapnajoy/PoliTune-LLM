@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 197,
+  "type": "mcq_single",
+  "input": "The Preamble is useful in constitutional interpretation because it",
+  "options": {
+    "A": "uses value loaded words",
+    "B": "contains the real objective and philosophy of the constitution makers",
+    "C": "is a source of power and limitation",
+    "D": "gives and exhaustive list of basic features of the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The preamble is useful in constitutional interpretation because it contains the real objective and philosophy of the constitution makers."
+}

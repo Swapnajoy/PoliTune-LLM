@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 26,
+  "type": "mcq_single",
+  "input": "The Panchayati Raj institution at the block level is known as:",
+  "options": {
+    "A": "Gram Panchayat",
+    "B": "Panchayat Samiti",
+    "C": "Zila Parishad",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Panchayati Raj institution at the block level is called the Panchayat Samiti. It is the second tier of the Panchayati Raj system and acts as a link between village panchayat and district panchayat. Block level means Madal Parishad or block samiti or Panchayat samiti."
+}

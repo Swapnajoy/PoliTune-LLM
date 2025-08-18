@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 4,
+  "type": "mcq_single",
+  "input": "Who among the following was a non-congress member of the Constituent Assembly?",
+  "options": {
+    "A": "J.B. Kripalani",
+    "B": "Dr. B.R. Ambedkar",
+    "C": "K.M. Munshi",
+    "D": "T.T. Krishnamachari"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Dr. B.R. Ambedkar was a non-congress member of the Constituent Assembly. All of them were from Congress except B.R. Ambedkar."
+}

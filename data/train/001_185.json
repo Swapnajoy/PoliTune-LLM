@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 185,
+  "type": "mcq_single",
+  "input": "The philosophical foundation of the Indian constitution is",
+  "options": {
+    "A": "Directive principle of state policy",
+    "B": "Fundamental rights",
+    "C": "Federal structure",
+    "D": "Preamble"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Preamble is the philosophical foundation of the Indian constitution."
+}

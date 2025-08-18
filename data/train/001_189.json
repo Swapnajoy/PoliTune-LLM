@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 189,
+  "type": "statements_correctness",
+  "input": "Which of the following words were added to the Indian Constitution by the 42nd Amendment in 1976? P. SOCIALIST Q. REPUBLIC R. SECULAR S. FRATERNITY T. UNITY & INTEGRITY",
+  "options": {
+    "A": "P, R and T",
+    "B": "P, Q, R and S",
+    "C": "Q, S and T",
+    "D": "Q, S and T"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The words ‘SOCIALIST’, ‘SECULAR’ and ‘UNITY’ & ‘INTEGRITY’ were added by the 42nd Amendment in 1976."
+}

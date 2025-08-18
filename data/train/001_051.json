@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 51,
+  "type": "statements_correctness",
+  "input": "Which of following federal principles are not found in Indian federation ? P. Bifurcation of the judiciary between the Federal and State Governments Q. Equality of representation of the states in the upper house of the Federal Legislature R. The Union cannot be destroyed by any state seceding from the Union at its will S. Federal Government can redraw the map of the Indian Union by forming new States Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P and Q",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Features of Federal Government :- • Dual Government (National Government and Regional Government) • Written Constitution • Division of powers between national and regional government • Supremacy of the Constitution • Rigid Constitution • Independent Judiciary • Bicameral Legislature"
+}

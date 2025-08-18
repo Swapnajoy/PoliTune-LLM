@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 77,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : Money bills originate only in the Lower House of Parliament. Reason (R) : The Lower House of the Parliament is a popularly elected body. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Procedure for a Money Bill: Money Bills can be introduced only in Lok Sabha (the directly elected ‘people’s house’ of the Indian Parliament). Money bills passed by the Lok Sabha are sent to the Rajya Sabha (the upper house of parliament, elected by the state and territorial legislatures or appointed by the President). The Rajya Sabha may not amend money bills but can recommend amendments."
+}

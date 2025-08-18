@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 110,
+  "type": "mcq_single",
+  "input": "The fundamental duties are mentioned in the following part of the Constitution of India",
+  "options": {
+    "A": "Part III",
+    "B": "Part IV",
+    "C": "Part IV A",
+    "D": "Part VI"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "part IV-A fundamental duties part IV - Derective Principles of state policy. part III - Fundamental rights part VI - The states"
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 35,
+  "type": "mcq_single",
+  "input": "The phrase equality before law used in Article 14 of Indian Constitution has been borrowed from the Constitution of",
+  "options": {
+    "A": "Britain",
+    "B": "USA",
+    "C": "France",
+    "D": "Canada"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The phrase equality before law of Indian Constitution has been borrowed from Britain. The term Republic and the idea of liberty, equality and fraternity in the preamble was borrowed from constitution of France."
+}

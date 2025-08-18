@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 169,
+  "type": "mcq_single",
+  "input": "Under Article 72 of the Constitution of India, President has the power to grant : I. Pardons II. Reprieves III. Respites IV. Remission V. Commutation The correct code is –",
+  "options": {
+    "A": "I and V are correct",
+    "B": "I, II, III and IV are correct",
+    "C": "II, III, IV and V are correct",
+    "D": "All are correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 72 says that the President shall have the power to grant Pardons, Reprieves, Respites or Remissions of Punishment or to Suspend, Remit or Commute the sentence of any person convicted of any offence."
+}

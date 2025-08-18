@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 45,
+  "type": "mcq_single",
+  "input": "Which among the following was NOT constituted as per mandate of Constitution of India?",
+  "options": {
+    "A": "Election Commission",
+    "B": "NITI Aayog",
+    "C": "Finance Commission",
+    "D": "Inter State Council"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

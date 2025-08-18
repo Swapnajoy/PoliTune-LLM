@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 115,
+  "type": "statements_correctness",
+  "input": "Which of the following list 1 with list II and select the correct answer using the codes given below the list: List I List II (Article of the Constitution) (Content) A. Article 54 1. Election of the president of India B. Article 75 2. Appointment of the P.M. and council of ministers C. Article 155 3. Appointment of the governor of state D. Article 164 4. Appointment of the C.M. and council of Ministers of a state T. Composition of Legislative Assemblies Codes: A B C D",
+  "options": {
+    "A": "P Q R S",
+    "B": "P Q S T",
+    "C": "Q P R T",
+    "D": "Q P S R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 54- Election of the president. Article 155- Appointment of the PM and council of ministers. Article 164- Appointment of the CM and council of Ministers of a state."
+}

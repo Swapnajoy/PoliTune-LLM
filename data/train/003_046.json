@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 46,
+  "type": "mcq_single",
+  "input": "In terms of Parliamentary terminology, What do we call a rule of legislative procedure under which a further debate on a motion can be stopped?",
+  "options": {
+    "A": "Closure",
+    "B": "Gullitone",
+    "C": "Expunction",
+    "D": "Recess"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

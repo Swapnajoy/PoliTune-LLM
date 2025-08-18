@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 348,
+  "type": "statements_correctness",
+  "input": "Which of the following statements with respect to the judiciary in India is/are correct? P. Unlike in the United States, India has not provided for a double system of courts. Q. Under the Constitution of India, there is a single integrated system of courts for the Union as well as the states. R. The organisation of the subordinate judiciary varies slightly from state to state. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "P and Q",
+    "C": "Q and R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

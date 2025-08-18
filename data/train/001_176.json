@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 176,
+  "type": "mcq_single",
+  "input": "According to which Article of Constitution of India, the Chief Minister is appointed by the Governor of A State?",
+  "options": {
+    "A": "Article 163",
+    "B": "Article 164",
+    "C": "Article 165",
+    "D": "Article 166"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Under Article 164 of Constitution of India, the chief minister is appointed by the governor of a state."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 13,
+  "type": "statements_correctness",
+  "input": "Which of the following condition/conditions must be fulfilled by the NRIs to be eligible to vote in elections in India? P. They must be physically present in their place of origin to exercise their franchise. Q. NRIs whether they have acquired citizenship of other countries or not are eligible to vote. R. Eligible NRIs have to register by filling up form 6-A with electoral registration office. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P and R",
+    "C": "Only Q",
+    "D": "Only R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "All statements are correct."
+}

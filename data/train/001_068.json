@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 68,
+  "type": "mcq_single",
+  "input": "In which schedule of the Indian Constitution powers of panchayats are stated?",
+  "options": {
+    "A": "8th schedule",
+    "B": "9th schedule",
+    "C": "10th schedule",
+    "D": "11th schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The powers of panchayats are stated in the 11th schedule of the Indian Constitution. 8th schedule of constitution enlists 22 Indian recognized languages. 9th schedule was added by Ist amendment in 1957. It contains acts, orders related to land tenure, land tax, railways industry. 10th schedule was added by 52nd amendment in 1985, contains provisions of disqualification of grounds of defection."
+}

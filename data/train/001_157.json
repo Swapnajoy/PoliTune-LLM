@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 157,
+  "type": "mcq_single",
+  "input": "Provision for appointment of National Commission for SC’s and ST’s has been made in the Constitution under article",
+  "options": {
+    "A": "338 and 338 A",
+    "B": "337",
+    "C": "334",
+    "D": "339"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Artilce 338 deals with National Commission for Scheduled Castes. National Commission for Scheduled Tribes is related with Article 338A."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 221,
+  "type": "mcq_single",
+  "input": "Who among the following Indian Prime Ministers could not vote for himself during the ‘Vote of Confidence’ that he was seeking from the Lok Sabha?",
+  "options": {
+    "A": "VP Singh",
+    "B": "PV Narasimha Rao",
+    "C": "Chandra Sekhar",
+    "D": "Manmohan Singh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

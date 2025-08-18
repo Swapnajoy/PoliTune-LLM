@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 74,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about the Attorney-General of India? P. He is appointed by the President of India Q. He has the right to take part in the proceeding of the Parliament. R. He has the right of audience in all courts in India. Which of the statements given above are correct?",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "Q and R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Attorney General of India is appointed by the President of India under Article 76(a) of the Constitution and holds office during the pleasure of the President."
+}

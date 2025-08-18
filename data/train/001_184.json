@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 184,
+  "type": "mcq_single",
+  "input": "Which term is not used in the Preamble of the Indian Constitution ?",
+  "options": {
+    "A": "Republic",
+    "B": "Integrity",
+    "C": "Federal",
+    "D": "Socialist"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The term Federal is not used in the Preamble of the Indian Constitution."
+}

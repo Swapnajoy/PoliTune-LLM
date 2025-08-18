@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 242,
+  "type": "mcq_single",
+  "input": "Freedom of the press in India is",
+  "options": {
+    "A": "available to the people under the law of the Parliament",
+    "B": "specifically provided in the Constitution",
+    "C": "implied in the right of freedom of expression",
+    "D": "available to the people of India under executive order"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Freedom of the press in India is implied in the right of Freedom of Expression."
+}

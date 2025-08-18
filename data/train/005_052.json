@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 52,
+  "type": "mcq_single",
+  "input": "‘Local government’ as a subject, is mentioned in which of the following parts of the Constitution of India?",
+  "options": {
+    "A": "State list under the 7th schedule",
+    "B": "Concurrent list under the 7th schedule",
+    "C": "11th Schedule",
+    "D": "12th schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "11th and 12th Schedules of the Constitution of India belong to only subjects under the ‘Panchayati Raj’, whereas 7th schedule of the state list, titled as ‘Local Government’. Local government, refers to the constitution and powers of municipal corporations, improvement trusts, district boards, mining settlement authorities and other local authorities for the purpose of local self-government or village administration."
+}

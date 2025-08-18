@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 43,
+  "type": "statements_correctness",
+  "input": "Which of the following is correct regarding the union territories ? P. Articles 239 to 241 contain provisions regarding the union territories. Q. Part VIII of the Constitution deal with the union territories. R. Part VII of the Constitution deal with the union territories. S. Articles 238 to 242 contain provisions regarding the union territories. Select the correct answer from the codes given below :",
+  "options": {
+    "A": "P and R",
+    "B": "P and Q",
+    "C": "R and S",
+    "D": "Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

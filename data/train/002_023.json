@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 23,
+  "type": "statements_correctness",
+  "input": "Which of the following statement about Comptroller and Auditor General of India (CAG) are correct? (CDS 2016-I) P. The CAG will hold office for a period of six years from the date he assumes the office, He shall vacate office on attaining the age of 65 years, if earlier than the expiry of the 6 years term Q. The powers of CAG are derived from the Constitution of India R. The CAG is a multi-member body appointed by the President of India in constitution with the prime Minister and the Council of Ministers S. The CAG may be removed by the President only on an address from both Houses of Parliament, on the grounds of proved misbehavior or incapacity Select the correct answer using the code given below :",
+  "options": {
+    "A": "P, Q and S",
+    "B": "P, Q and R",
+    "C": "R and S",
+    "D": "P and Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

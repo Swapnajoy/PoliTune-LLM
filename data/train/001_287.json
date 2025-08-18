@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 287,
+  "type": "statements_correctness",
+  "input": "Which of the following statements about a uniform civil code is/are correct? P. It is binding on the State that a uniform civil code must be made applicable to all. Q. The provision regarding a uniform civil code is contained in Part III of the Constitution. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The provision regarding a uniform civil code is contained in part VI of the constitution."
+}

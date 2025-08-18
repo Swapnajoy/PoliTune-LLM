@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 52,
+  "type": "mcq_single",
+  "input": "The Presidential system operates most successfully in the USA because of –",
+  "options": {
+    "A": "A strong two party system",
+    "B": "A well demarcated constitution",
+    "C": "Judicial review",
+    "D": "Minor contradictions in society"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The presidential system is a system of government where an executive branch is led by a President who serves as both head of state and head of government. It operates most successfully in the USA because of Minor Contradictions in society."
+}

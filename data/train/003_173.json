@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 173,
+  "type": "mcq_single",
+  "input": ". In case the President wishes to resign, to whom is he to address his resignation letter?",
+  "options": {
+    "A": "Chief Justice of India",
+    "B": "Secretary of Lok Sabha",
+    "C": "Vice President",
+    "D": "Prime Minister"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

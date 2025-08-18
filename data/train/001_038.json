@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 38,
+  "type": "mcq_single",
+  "input": "Indian Constitution is :",
+  "options": {
+    "A": "Federal",
+    "B": "Unitary",
+    "C": "Quasi-federal",
+    "D": "Presidential"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Quasi federal refers to a govt. formed similar to union of states under a central govt. rather than the individual govt. of the separate state."
+}

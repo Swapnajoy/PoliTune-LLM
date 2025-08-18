@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 5,
+  "type": "mcq_single",
+  "input": "The presidential system operates on the principle of",
+  "options": {
+    "A": "Division of powers",
+    "B": "Separation of powers",
+    "C": "Fusion of powers",
+    "D": "Balance of powers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The presidential system operates on the principle of separation of powers. India follows a parliamentary system of government, which offers a clear separation of powers."
+}

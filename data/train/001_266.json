@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 266,
+  "type": "mcq_single",
+  "input": "Which one among the following statements is not correct?",
+  "options": {
+    "A": "The right conferred by Article 32 cannot be suspended except by virtue of Article 359 (1) of the Constitution of India",
+    "B": "The enforcement of Articles 20 and 21 cannot be suspended",
+    "C": "Punishments can be prescribed by a State Legislation for offences under Part III of the Constitution of India",
+    "D": "The Fundamental Rights can be abrogated by law made by the Parliament with regard to members of the forces charged with the maintenance of public order"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The State shall not make any law which takes away or abridges the rights conferred by this Part lll and any law made in contravention of this clause shall, to the extent of the contravention, be void."
+}

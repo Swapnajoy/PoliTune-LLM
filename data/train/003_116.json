@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 116,
+  "type": "statements_correctness",
+  "input": "The cardinal features of political system in India are P. It is a democratic republic. Q. It has a Parliamentary form of government. R. The Supreme Power vests in the people of India. S. It provides for a unified authority. Select the correct answer from the codes given below : Codes:",
+  "options": {
+    "A": "P and Q",
+    "B": "P, Q and R",
+    "C": "Q, R and S",
+    "D": "All the four"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Democratic Republic, Parliamentary form of government and vesting of absolute power in people are the fundamental features of Indian Constitution."
+}

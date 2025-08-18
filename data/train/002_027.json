@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 27,
+  "type": "mcq_single",
+  "input": "The office of the Comptroller and Auditor General of India was created",
+  "options": {
+    "A": "through an Act of the Parliament",
+    "B": "by the Constitution",
+    "C": "through a Cabinet Resolution",
+    "D": "none of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 148 of the Constitution of India provides for an independent office to the Comptroller and Auditor General (CAG) of India. CAG is appointed by President of India."
+}

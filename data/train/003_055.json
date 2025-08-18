@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 55,
+  "type": "statements_correctness",
+  "input": "Which among the following have the right to vote in the elections to both the Lok Sabha and the Rajya Sabha? P. Elected members of the Lower House of the Parliament Q. Elected members of the Upper House of the Parliament R. Elected members of the Upper House of the State Legislature. S. Elected members of the Lower House of the State Legislature.",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, Q and R only",
+    "C": "R and S only",
+    "D": "S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 80 states that the state legislature participates in the election of the members of Rajya Sabha and also of the president (Art.54)"
+}

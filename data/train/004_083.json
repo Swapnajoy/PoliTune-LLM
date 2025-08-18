@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 83,
+  "type": "mcq_single",
+  "input": "Which one of the following statements is not correct regarding Certiorari?",
+  "options": {
+    "A": "A High Court can issue a writ against itself in its administrative capacity",
+    "B": "A bench of a High Court can issue a writ to another bench of the same High Court",
+    "C": "A High Court cannot issue a writ to another High Court",
+    "D": "A High Court can issue certiorari to a tribunal situated within its jurisdiction"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "A bench of a High court is equal to the High court in all judicial powers. Hence a bench of the High court cannot issue certiorari against the order of another bench."
+}

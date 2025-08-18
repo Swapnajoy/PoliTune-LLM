@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 61,
+  "type": "mcq_single",
+  "input": "Which part of the Indian Constitution has been described as the ‘Soul’ of the constitution?",
+  "options": {
+    "A": "Fundamental rights",
+    "B": "Directive Principles of State Policy",
+    "C": "The Preamble",
+    "D": "Right to Constitutional Remedies"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 32 of the Indian constitution is called as the pillar of constitution. About this part of the constitution Dr. Ambedaker has said that it was the soul of Indian Constitution."
+}

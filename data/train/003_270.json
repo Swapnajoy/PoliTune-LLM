@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 270,
+  "type": "mcq_single",
+  "input": "How is legislative excess of Parliament and State Assemblies checked?",
+  "options": {
+    "A": "Intervention from President/Governor",
+    "B": "No- confidence motions",
+    "C": "Judicial review",
+    "D": "General elections"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

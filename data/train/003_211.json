@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 211,
+  "type": "mcq_single",
+  "input": "Who among the following was never a Deputy Prime Minister of India?",
+  "options": {
+    "A": "Devi Lal",
+    "B": "GL Nanda",
+    "C": "LK Advani",
+    "D": "YB Chavan"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

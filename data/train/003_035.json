@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 35,
+  "type": "mcq_single",
+  "input": "In order to be recognised as an official opposition group in the Parliament",
+  "options": {
+    "A": "1/3rd of the total strength",
+    "B": "1/4th of the total strength",
+    "C": "1/6th of the total strength",
+    "D": "1/10th of the total strength"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Officialy opposition group in the parliament required 1/10x of the total strength."
+}

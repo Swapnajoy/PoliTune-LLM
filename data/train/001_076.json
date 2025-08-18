@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 76,
+  "type": "mcq_single",
+  "input": "Which of the following articles deals with the impeachment process against the president of India?",
+  "options": {
+    "A": "Article 58",
+    "B": "Article 59",
+    "C": "Article 60",
+    "D": "Article 61"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 61 deals with procedure for impeachment of the President. It can be initiated by either house of the parliament and these charges should be signed by one- fourth members of the house and a 14 days notice should be given to the President. Article 58 is about qualifications for election as President. Article 58 deals with conditions of President’s office and article 60 is about oath or affirmation by the President."
+}

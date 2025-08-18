@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 183,
+  "type": "mcq_single",
+  "input": "If the PM belonged to the upper House of Parliament?",
+  "options": {
+    "A": "He will not be able to vote in his favour in the event of a no- confidence motion.",
+    "B": "He will not be able to speak on the budget in the Lower House.",
+    "C": "He can make statements only in the Upper House.",
+    "D": "He has to become a member of the Lower House within six months after swearing in as the PM."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

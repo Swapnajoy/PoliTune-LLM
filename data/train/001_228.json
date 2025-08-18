@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 228,
+  "type": "statements_correctness",
+  "input": "Which of the following statements in regard to the fundamental rights, mentioned in the Constitution of India are correct? P. They are the part of the basic structure of the constitution. Q. They are permanent in nature and can’t be abolished. R. They can be suspended partially or completely. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "Q and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The fundamental rights mentioned in the constitution of India are not permanent in nature and they can be abolished by the parliament as the Right to property was abolished. The Forty-Fourth Amendment of 1978 deleted the right to property from the list of fundamental rights. A new provision, Article 300-A, was added to the constitution which provided that “no person shall be deprived of his property save by authority of law”. Thus if a legislature makes a law depriving a person of his property, there would be no obligation on the part of the State to pay anything as compensation. The aggrieved person shall have no right to move to the court under Article 32."
+}

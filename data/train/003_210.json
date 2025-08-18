@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 210,
+  "type": "mcq_single",
+  "input": "Who was the President of India at the time of proclamation of emergency in the year 1976?",
+  "options": {
+    "A": "V.V Giri",
+    "B": "Giani Zail Singh",
+    "C": "Fakhr-ud-din Ali Ahmad",
+    "D": "Shankar Dayal Sharma"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

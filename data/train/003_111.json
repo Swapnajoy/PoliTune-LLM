@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 111,
+  "type": "mcq_single",
+  "input": "Certain Bills can not be introduced or proceeded with unless the recommendation of the President is received. However, no recommendation is required in some other cases. In which one of the following cases such recommendation is not required?",
+  "options": {
+    "A": "For introduction of Bills and for moving amendments relating to financial matters",
+    "B": "For introduction of a Bill relating to formation of new states or of alternation of areas of existing states",
+    "C": "For moving of an amendment making provision for the reduction or abolition of any tax",
+    "D": "For introduction of a Bill or moving of an amendment affecting taxation in which states are interested"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The recommendation of the president is required for introduction of money bills or for moving amendments to acts relating to financial matters, except those making provision for the reduction or abolition of any tax. So, for option (c) president’s recommendation is not required."
+}

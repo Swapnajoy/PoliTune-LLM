@@ -1,0 +1,19 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 364,
+  "type": "mcq_single",
+  "input": "In India, Judicial Review implies",
+  "options": {
+    "A": "the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.",
+    "B": "the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures.",
+    "C": "the power of the Judiciary to review all the legislative enactments before they are assented to by the President."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C"
+  ],
+  "answer": "",
+  "explanation": ""
+}

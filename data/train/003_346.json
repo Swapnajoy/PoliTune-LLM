@@ -1,0 +1,19 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 346,
+  "type": "mcq_single",
+  "input": "Which one of the following jurisdictions of the Indian judiciary covers Public Interest Litigation?",
+  "options": {
+    "A": "original Jurisdiction (b) Appellate Jurisdiction",
+    "C": "Epistolary Jurisdiction",
+    "D": "Advisory Jurisdiction"
+  },
+  "choices": [
+    "A",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 275,
+  "type": "mcq_single",
+  "input": "How many types of writs can be issued by the Supreme Court?",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "6"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

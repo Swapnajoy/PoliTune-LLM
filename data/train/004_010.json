@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 10,
+  "type": "mcq_single",
+  "input": "........................ state assembly has the lowest number of seats among Indian states .",
+  "options": {
+    "A": "Sikkim",
+    "B": "Goa",
+    "C": "Nagaland",
+    "D": "Arunachal Pradesh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Sikkim state assembly has the lowest number of seats among Indian States. There are 32 members in a legislative assembly."
+}

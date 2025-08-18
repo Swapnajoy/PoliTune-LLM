@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 299,
+  "type": "mcq_single",
+  "input": "In Indian Constitution the power to issue a writ of ‘Habeas corpus’ is vested only in-",
+  "options": {
+    "A": "The Supreme Court",
+    "B": "The High Court",
+    "C": "The Supreme Court and the High Court",
+    "D": "Lower Courts"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

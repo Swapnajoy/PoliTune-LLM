@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 117,
+  "type": "statements_correctness",
+  "input": "Given below are 4 schedules with their amendment mode and what they contain. No. Schedule Added by Particulars P. Ninth st Contains acts & orders I amendment in related to land tenure, land 1951 tax, railways, industries Q. Tenth nd Contains provisions of 52 amendment disqualification of grounds in 1984 of defection R. Eleventh rd Contains provisions of 73 amendment Municipal Corporation in 1990 S. Twelfth th Contains provisions of 74 amendment Panchayati Raj. in 1992 Which of the following are correct about the 4 schedules?",
+  "options": {
+    "A": "P, R and S",
+    "B": "P, Q, R and S",
+    "C": "Q and R",
+    "D": "P only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Schedule Added by Particulars Ninth Ist amendment in Contains acts & orders 1951 related to land tenure, land tax, railways, industries. {Right of property not a fundamental right now} Tenth 52nd amendment Contains provisions of dis- in 1985 qualification of grounds of defection Eleventh 73rd amendment Contains provisions of in 1992 Panchayati Raj. Twelfth 74th amendment Contains provisions of in 1992 Municipal Corporation"
+}

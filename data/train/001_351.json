@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 351,
+  "type": "assertion_reason",
+  "input": "Given below are two statements, one labelled as Assertion (Q) and the other labelled as Reason (R). Select the correct answer from the codes given below : Assertion (Q) : federalism is not dead in India. Reason (R) : New regions are constantly demanding statehood. Codes :",
+  "options": {
+    "A": "",
+    "B": "Both (a) and (R) are true, but (R) is not the correct explanation of",
+    "C": "(a) is true, but (R) is false",
+    "D": "(R) is true, but (a) is false"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Federalism is the mixed or compound mode of government, combining a general government with regional governments in a single political system."
+}

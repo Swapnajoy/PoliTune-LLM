@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 20,
+  "type": "mcq_single",
+  "input": "Functions to be assigned to panchayats by 73rd amendment of the Constitution are mentioned in",
+  "options": {
+    "A": "Tenth schedule",
+    "B": "Eleventh schedule",
+    "C": "Twelfth schedule",
+    "D": "Thirteenth schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "By 73rd amendment in 1992. 11th schedule contains provisions of Panchayat Raj."
+}

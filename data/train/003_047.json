@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 47,
+  "type": "mcq_single",
+  "input": "The Government Bill means a bill introduced by a",
+  "options": {
+    "A": "Member of the Treasury bench in the Lok Sabha",
+    "B": "Member of the Parliament who is not a Minister",
+    "C": "Minister in the Lok Sabha",
+    "D": "Minister in any House of the Parliament."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Government bill can introduced by minister in any house of the parliament."
+}

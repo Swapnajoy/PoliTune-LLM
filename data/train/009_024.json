@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 24,
+  "type": "statements_correctness",
+  "input": "What is/are the major difference/differences between a written and an unwritten Constitution? P. A written Constitution is the formal source of all Constitutional Laws in the country and the unwritten Constitution is not the formal source. Q. A written Constitution is entirely codified whereas an unwritten Constitution is not. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "A written constitution is one which is found in one or more than one legal documents duly enacted in the form of laws. It is precise, definite and systematic and codified. An unwritten constitution is one in which most of the principles of the government have never been enacted in the form of laws. It consists of customs, conventions, traditions and some written laws bearing different dates. It is not codified. It is unsystematic, indefinite and unprecise.So, Written constitution is the formal source of all constitutional laws and Unwritten Constitution is not the formal source."
+}

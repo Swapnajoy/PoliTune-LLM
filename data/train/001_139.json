@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 139,
+  "type": "mcq_single",
+  "input": "Which schedule of the Constitution of India contains the three lists that divide powers between the Union and the sates?",
+  "options": {
+    "A": "Fifth",
+    "B": "Sixth",
+    "C": "Seventh",
+    "D": "Eigth"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "7th Schedule gives allocation of powers and functions between Union & States. It contains 3 lists: Union List (97 Subjects) States List (66 subjects) Concurrent List(52 subjects)"
+}

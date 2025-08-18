@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 70,
+  "type": "mcq_single",
+  "input": "Under which article the parliament provides financial assistance to states?",
+  "options": {
+    "A": "Article 273",
+    "B": "Article 274",
+    "C": "Article 275",
+    "D": "Article 276"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under the Article 275 the Parliament provides financial assistance to states. This is a central sector scheme and grants are provided to the states on the basis of ST population percentage in the state to the total tribal population of the country. Article 273 deals with grants in lieu of export duty on jute and jute products. Article 274 mentions prior recomendation of President required to Bills affecting taxation in which states are interested. Article 276 is about taxes on professions, trades, callings and employments."
+}

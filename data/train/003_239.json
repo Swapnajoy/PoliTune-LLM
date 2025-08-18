@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 239,
+  "type": "mcq_single",
+  "input": "The Council of Minsters is collectively responsible to which of the following?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Rajya Sabha",
+    "D": "Lok Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

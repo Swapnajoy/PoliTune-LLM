@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 99,
+  "type": "mcq_single",
+  "input": "Money bill has been defined in",
+  "options": {
+    "A": "Article 110",
+    "B": "Article 111",
+    "C": "Article 112",
+    "D": "Artcle 113"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 110 - definition of money bills Article 111 - Assent to Bills Article 112 - Annual financial statement Article 113 - Procedure in Parliament with respect to estimates"
+}

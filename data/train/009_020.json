@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 20,
+  "type": "mcq_single",
+  "input": "Formal or procedural democracy does not by any means guarantee",
+  "options": {
+    "A": "political and civil rights",
+    "B": "constitutionalism",
+    "C": "the rule of law",
+    "D": "absence of caste discrimination"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Procedural democracy is a democracy in which the people or citizens of the state have less influence than in traditional liberal democracies. This type of democracy is characterized by voters choosing to elect representatives in free elections. Procedural democracy is quite different from substantive democracy, which is manifested by equal participation of all groups in society in the political process.Namibia, Angola, and Mozambique are examples of examples of procedural democracies."
+}

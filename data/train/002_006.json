@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 6,
+  "type": "mcq_single",
+  "input": "Who among the following determines the authority who shall readjust the allocation of seats in the Lok Sabha to the states and division of each State into territorial constituencies?",
+  "options": {
+    "A": "The President of India",
+    "B": "The Parliament of India",
+    "C": "The Chief Election Commissioner of India",
+    "D": "The Lok Sabha alone"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to article 82 of Indian Constitution, the parliament of India shall readjust the allocation of seats in the Lok Sabha to the states and division of each state into territorial constituencies."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 332,
+  "type": "mcq_single",
+  "input": "Which one of the following is not included in the state list in the Constitution of India?",
+  "options": {
+    "A": "Criminal procedure code",
+    "B": "Police",
+    "C": "Law and order",
+    "D": "Prison"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Criminal procedure code is not included in the state list."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 36,
+  "type": "mcq_single",
+  "input": "The source of the basic structure theory of the Constitution of India is",
+  "options": {
+    "A": "the Constitution",
+    "B": "opinion of jurists",
+    "C": "indicial interpretation",
+    "D": "parliamentary statutes"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Any articles can be amended under Article 368 which means the amendment challenged on the grounds of fact. The Supreme Court recognized interpretation is the basic structure of constitution."
+}

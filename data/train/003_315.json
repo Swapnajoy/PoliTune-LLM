@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 315,
+  "type": "mcq_single",
+  "input": "Which one of the following is correct about the Supreme Court regarding its judgement?",
+  "options": {
+    "A": "It cannot change the judgement",
+    "B": "Only the Chief Justice of India can change the judgement",
+    "C": "It can change the judgement",
+    "D": "Only the Ministry of Law can change the judgement."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

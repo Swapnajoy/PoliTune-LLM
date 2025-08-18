@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 355,
+  "type": "mcq_single",
+  "input": "The minimum number of Judges of the Supreme Court required for hearing any case involving interpretation of the Constitution is",
+  "options": {
+    "A": "ten",
+    "B": "nine",
+    "C": "seven",
+    "D": "five"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

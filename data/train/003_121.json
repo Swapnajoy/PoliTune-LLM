@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 121,
+  "type": "statements_correctness",
+  "input": "Which of the following are correct about the Rajya Sabha? P. It is not subject to dissolution Q. It has a term of five years R. One third of its members retire after every two year S. Its member shall not be less then 25 years of age Select the correct answer using the codes given below : Codes :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P and R",
+    "D": "Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Rajya Sabha is the upper house of the Parliament of India. Rajya Sabha is not subject to dissolution although members of the Rajya Sabha are elected for staggered six-year terms. One third of the members retire every two years. The minimum age required for eligible to be a member of Rajya Sabha is 30."
+}

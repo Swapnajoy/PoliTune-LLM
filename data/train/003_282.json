@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 282,
+  "type": "mcq_single",
+  "input": "Who has the right to seek advisory opinion of the Supreme Court of India, on any question of law?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Any judge of the High Court",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

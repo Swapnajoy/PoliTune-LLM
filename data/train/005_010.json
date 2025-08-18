@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 10,
+  "type": "mcq_single",
+  "input": "Panchayati Raj in India represents:",
+  "options": {
+    "A": "Decentralization of powers",
+    "B": "Participation of the people",
+    "C": "Community development",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "P.R. in India represents decentralisation of Powers, Participation of the people and community development etc."
+}

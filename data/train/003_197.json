@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 197,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : The charge of violation of the Constitution by the President of India for his impeachment cannot be preferred by a House unless: P. A resolution containing the proposal is moved after a seven days notice in writing signed by not less than 1/4th of the total number of the members of that House. Q. The resolution is passed by the majority of not less than 2/3rd of the total membership of that House. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

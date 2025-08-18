@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 168,
+  "type": "mcq_single",
+  "input": "Which of the following Articles cannot be suspended during the national emergency?",
+  "options": {
+    "A": "Articles 14 and 15",
+    "B": "Articles 19 and 20",
+    "C": "Articles 21 and 22",
+    "D": "Articles 20 and 21"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 20 and 21 cannot be suspended during national emergency."
+}

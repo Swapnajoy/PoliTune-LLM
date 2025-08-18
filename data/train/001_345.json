@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 345,
+  "type": "mcq_single",
+  "input": "With reference to the Constitution of India, which one of the following pairs is not correctly matched Subject List",
+  "options": {
+    "A": "Stock Exchanges The State List",
+    "B": "Forest The Concurrent List",
+    "C": "Insurance The Union List",
+    "D": "Marriage and Divorce The Concurrent List"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Stock Exchange is the subject of union list."
+}

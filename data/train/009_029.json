@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 29,
+  "type": "statements_correctness",
+  "input": "Which of the following are the features of the ideology of utilitarianism? P. Utilitarians believed that all value derives from land Q. The most celebrated spokesmen of utilitarianism were jeremy Bentham and John Stuart Mill R. Utilitarians were advocates of the idea that India could be ruled through indigenous laws and customs S. Utilitarians were advocates of the idea of the ‘greatest good for the greatest number of people’ Select the correct answer using the code given below:",
+  "options": {
+    "A": "P and S only",
+    "B": "Q and S only",
+    "C": "P, Q and S",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

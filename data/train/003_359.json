@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 359,
+  "type": "mcq_single",
+  "input": "Upto what age, can the judges of Supreme Court serve?",
+  "options": {
+    "A": "62 years",
+    "B": "68 years",
+    "C": "65 years",
+    "D": "70 years"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

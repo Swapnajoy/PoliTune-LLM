@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 180,
+  "type": "mcq_single",
+  "input": "In which Article, the provision of reservation of Scheduled Caste and Scheduled Tribes to Panchayat has been given ?",
+  "options": {
+    "A": "243 A",
+    "B": "243 B",
+    "C": "243 C",
+    "D": "243 D"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under Article 243 D, the provision of reservation of Scheduled caste and Scheduled Tribes to panchayat has been given."
+}

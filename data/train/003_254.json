@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 254,
+  "type": "mcq_single",
+  "input": "As per the constitutional provisions. The President of India enjoys the power of absolute veto, suspensive veto and pocket veto. However none of these can be applied on case of giving assent to –",
+  "options": {
+    "A": "Money Bill",
+    "B": "Bill related to declaration of emergency in a part or whole of the country",
+    "C": "Bill related to suspension of any of the fundamental rights",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

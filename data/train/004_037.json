@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 37,
+  "type": "mcq_single",
+  "input": "Which among the following States did record the formation of maximum Coalitation Governments in between 1967 to 1971?",
+  "options": {
+    "A": "Uttar Pradesh",
+    "B": "Haryana",
+    "C": "Bihar",
+    "D": "Punjab"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The maximum number of coalition government between 1967 to 1971-72 was formed in Bihar. During this period 9 governments were formed in the state."
+}

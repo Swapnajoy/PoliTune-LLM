@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 256,
+  "type": "mcq_single",
+  "input": "Which of the following doesn’t consist in the power To Pardon’ of President? (i) Pardon (ii) Commutation (iii) Remission (iv) Respite (v) Reprieve (vi) Detention (vii) Continuation",
+  "options": {
+    "A": "(i)",
+    "B": "(ii), (iii)",
+    "C": "(iv), (v)",
+    "D": "(vi), (vii)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

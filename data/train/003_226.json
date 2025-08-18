@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 226,
+  "type": "mcq_single",
+  "input": "The President of India is elected by a proportional representation system through single transferable vote. This implies that",
+  "options": {
+    "A": "each elected MP or MLA has an equal number of votes",
+    "B": "MPs and MLAs of a State have the same number of votes",
+    "C": "all MPs and MLAs have one vote each",
+    "D": "MPs and MLAs of different States have different numbers of votes"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

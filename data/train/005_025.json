@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 25,
+  "type": "mcq_single",
+  "input": "Panchayati Raj is organised at the",
+  "options": {
+    "A": "block level",
+    "B": "village, block, district and state level",
+    "C": "village, block and district level",
+    "D": "village and block level"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Panchayati Raj is organised at the village, block and district level. The 3-tier system of Panchayati Raj consists of Village-level Panchayats, Block-level Panchayats, District- level Panchayats."
+}

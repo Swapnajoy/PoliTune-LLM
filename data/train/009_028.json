@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 28,
+  "type": "statements_correctness",
+  "input": "Parliamentry Democracy is one where P. a balance of popular participation and elite rule takes place Q. the government is responsible not to the public but to the elected representatives. R. the parliamentarians are delegated the responsibility of thinking and acting on behalf of their constituents. Select the correct answer using the code given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Popular participation is unmediated; the people are the government, there is no separate elite or ruling-class between the government and their people. This is an indirect and limited form of democracy where the people choose who shall make decisions on their behalf. In the responsible democracy, the government is responsible first to the parliament’s lower house, which is more numerous, directly elected and thus more representative than the upper house. The people vote for their representative who speaks on behalf of their constituents."
+}

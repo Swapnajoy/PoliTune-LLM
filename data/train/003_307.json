@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 307,
+  "type": "mcq_single",
+  "input": "How can the number of judges in the Supreme Court in India be increased ?",
+  "options": {
+    "A": "Representation from the Supreme Court",
+    "B": "By amendment of the Constitution",
+    "C": "By a Parliamentary Act",
+    "D": "By Presidential notification"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 11,
+  "type": "mcq_single",
+  "input": "With reference to Lok Adalats which of the following statements is correct?",
+  "options": {
+    "A": "Lok Adalats have the jurisdiction to settle the matters at pre- litigative stage and not those matters pending before any court.",
+    "B": "Lok Adalats can deal with matters which are civil and not criminal in nature.",
+    "C": "Every Lok Adalat consist of either serving or retired judicial officers only or not any other person.",
+    "D": "None of the statements given above is correct."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Lok Adalat has the jurisdiction to settle, by way of effecting compromise between the parties, any matter which may be pending before any court. Lok Adalat is a non-adversarial system, whereby mock courts (called Lok Adalats) are held by the State Authority, District Authority, Supreme Court Legal Services Committee, High Court Legal Services Committee, or Taluk Legal Services Committee."
+}

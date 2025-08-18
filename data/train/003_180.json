@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 180,
+  "type": "statements_correctness",
+  "input": "With regard to union government, consider the following statements: P. The ministries /departments of government of India are created by the PM on the advice of counsel of Ministers. Q. Each of the Ministries is assigned to a minister by the president on the advice of PM. R. The administrative head of the cabinet secretariat is also the ex- officio chairman of the civil services Board Which of the statements given above are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 147,
+  "type": "mcq_single",
+  "input": "The President can be impeached on the grounds of violating the Constitution by",
+  "options": {
+    "A": "The Chief Justice of India",
+    "B": "The Vice-President of India",
+    "C": "The Speaker of the Lok Sabha",
+    "D": "The two Houses of Parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Impeachment of President by the two houses of Parliament under article 61 mentioned."
+}

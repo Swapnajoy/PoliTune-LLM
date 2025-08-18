@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 49,
+  "type": "mcq_single",
+  "input": "Joint Parliamentary Sessions in India are chaired by the",
+  "options": {
+    "A": "President of India",
+    "B": "Vice-President of India who is the Chairman of the Rajya Sabha",
+    "C": "Speaker of the Lok Sabha",
+    "D": "Prime Minister of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The joint sitting of the Parliament is called by the President and is presided over by the Speaker or, in his absence, by the Deputy Speaker of the Lok Sabha or in his absence, the Deputy-Chairman of the Rajya Sabha."
+}

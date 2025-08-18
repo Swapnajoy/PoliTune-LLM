@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 145,
+  "type": "mcq_single",
+  "input": "Which of the following is not true of Article 32 of the Indian Constitution ?",
+  "options": {
+    "A": "It gives the Supreme Court and the High Courts the power to issue writs for the enforcement of Fundamental Rights.",
+    "B": "It is included in Part III of the Indian Constitution and is therefore itself a Fundamental Right.",
+    "C": "Dr. Ambedkar called it the ‘very soul of the Indian Constitution’.",
+    "D": "An aggrieved person has no right to complain under Article 32 where a Fundamental Right has not been violated."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under Article 226, a High Court can issue these writs not only for the purpose of enforcement of the fundamental rights but also for the redress of any other injury or illegality, owing to contravention of the ordinary law."
+}

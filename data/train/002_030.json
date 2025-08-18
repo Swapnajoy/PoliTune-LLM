@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 30,
+  "type": "mcq_single",
+  "input": "A member of UPSC may be removed on the ground of misbehaviour by",
+  "options": {
+    "A": "Both the Houses of Parliament by way of impeachment",
+    "B": "The President on the basis of enquiry by the Supreme Court.",
+    "C": "A resolution passed by the Rajya sabha by 2/3 majority of members present and voting.",
+    "D": "The PM on the basis of the recommendation of the cabinet"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to Article 317 of the constitution of India, the chairman or any other member of a PSC shall be removed from his office by the order of the president with reference to the supreme court on reference being made to it by the President, has, on inquiry, held in accordance with the procedure prescribed in that behalf under Article 145, reported that the Chairman or such other member, as the case may be, ought on any such ground to be removed."
+}

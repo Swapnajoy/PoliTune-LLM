@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 38,
+  "type": "mcq_single",
+  "input": "Who of the following Presidents of India was associated with Trade Union Movement?",
+  "options": {
+    "A": "V. V. Giri",
+    "B": "N. Sanjiva Reddy",
+    "C": "K. R. Narayanan",
+    "D": "Zakir Hussain"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "V.V. Giri served as President of India during 1969 to 1974. He was actively associated with trade union movement. He was President of All-India Trade Union Congress (AITUC) twice. He was also associated with All India Railway Workers’ Federation."
+}

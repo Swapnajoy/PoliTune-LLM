@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 17,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 per cent of the votes polled, to be declared elected. Q. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker’s post goes to the majority party and the Deputy Speaker’s to the Opposition. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "New NCERT, Std. 11, Introduction to Indian Constitution Chapter 3: Election and Representation, Page 57: India has first past the post system wherein a candidate who wins the election may not (need to) get majority (50%+1) votes. Statement #1 is wrong. Upto the 10th Lok Sabha, both the Speaker and the Deputy Speaker were usually from the ruling party. Since the 11th Lok Sabha, there has been a consensus that the Speaker comes from the ruling party (or ruling alliance) and the post of Deputy Speaker goes to the main opposition party.Meaning it’s an ‘informal consensus’ among political parties, and not Constitutional provision. Hence #2 also wrong."
+}

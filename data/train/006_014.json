@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "Which one of the following Commissions is not provided in the Constitution of India?",
+  "options": {
+    "A": "Planning Commission",
+    "B": "UPSC",
+    "C": "Finance Commission",
+    "D": "Election Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Planning Commission was set up by a Resolution of the Government of India in March 1950.It is not provided in the constitution of India."
+}

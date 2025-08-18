@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 38,
+  "type": "mcq_single",
+  "input": "The bill of which of the following categories can be initiated only in Lok Sabha?",
+  "options": {
+    "A": "ordinary Bill",
+    "B": "Private members Bill",
+    "C": "Money Bill",
+    "D": "Constitution Amendment Bill"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Money Bill - Lok sabha"
+}

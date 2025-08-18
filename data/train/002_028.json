@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 28,
+  "type": "mcq_single",
+  "input": "The comptroller and Auditor General of India –",
+  "options": {
+    "A": "Can be appointed as a member of UPSC after his retirement",
+    "B": "Can be appointed as the Chairman of State Public Service commission",
+    "C": "Is not eligible for any further office either under the Central government or the state government after his retirement",
+    "D": "Can be appointed to any office after his retirement Union Public Service Commission & SPSC"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Comptroller and Auditor General of India is not eligible for any further office either under the central government or state government after his retirement current CAG of India – Rajiv Mehrishi."
+}

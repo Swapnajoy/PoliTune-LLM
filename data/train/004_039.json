@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 39,
+  "type": "mcq_single",
+  "input": "On the basis of formation, Uttarakhand is the –",
+  "options": {
+    "A": "27th State of Indian Union",
+    "B": "26th State of Indian Union",
+    "C": "28th State of Indian Union",
+    "D": "29th State of Indian Union"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Uttrakhand is the 27th state of Indian Union. It is a state in the northern part of India."
+}

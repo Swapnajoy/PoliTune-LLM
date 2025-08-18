@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 56,
+  "type": "mcq_single",
+  "input": "Which one of the following is not the technique of the balance of power?",
+  "options": {
+    "A": "Amassing of weapons",
+    "B": "Seizing of territory",
+    "C": "Methods of persuasion",
+    "D": "Creating of buffer states"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Methods of persuasion is not the technique of the balance of power."
+}

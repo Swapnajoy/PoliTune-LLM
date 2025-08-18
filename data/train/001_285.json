@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 285,
+  "type": "mcq_single",
+  "input": "The purpose of the inclusion of directive principles of state policy in the Indian constitution is to establish?",
+  "options": {
+    "A": "Political Democracy",
+    "B": "Social Democracy",
+    "C": "Canadian Democracy",
+    "D": "Social and Economic Democracy"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Social and economic democracy is the foundation on which political democracy would be a way of life in the Indian polity."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 179,
+  "type": "mcq_single",
+  "input": "Which of the following Article of Indian Constitution mentions the ‘Doctrine of Pleasure’?",
+  "options": {
+    "A": "Article 200",
+    "B": "Article 301",
+    "C": "Article 310",
+    "D": "Article 311"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The doctrine of Pleasure is embodied in India in Article 310."
+}

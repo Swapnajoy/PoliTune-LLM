@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 70,
+  "type": "mcq_single",
+  "input": "Which one of the following High Courts has the territorial jurisdiction over Andaman and Nicobar Island?",
+  "options": {
+    "A": "andhra Pradesh",
+    "B": "Calcutta (Kolkatta)",
+    "C": "Madras(Chennai)",
+    "D": "Odisha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Calcutta High Court has the territorial jurisdiction over West Bengal, it is having circuit bench at Port Blair."
+}

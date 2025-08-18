@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 119,
+  "type": "mcq_single",
+  "input": "Which one of the following pairs is not correctly matched?",
+  "options": {
+    "A": "Languages : Eighth Schedule",
+    "B": "The forms of oaths or : Second Schedule affirmations",
+    "C": "Allocation of seats in the : Fourth Schedule Council of States",
+    "D": "Provisions as to : Tenth Schedule disqualification on the ground of defection"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Forms of Oaths and Affirmations are the subject of Third Schedule. Salary of President, Governors, Chief Judges, Judges of High Court and Supreme Court, Comptroller and Auditor General are the subject of Second Schedule."
+}

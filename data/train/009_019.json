@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 19,
+  "type": "mcq_single",
+  "input": "Which one of the following does not form part of Immanuel Kant’s theory of ‘perpetual peace’? (CDS 2015-II)",
+  "options": {
+    "A": "Republican Constitutionalism",
+    "B": "Federal contract among States to abolish war",
+    "C": "World Government",
+    "D": "Transformation of individual consciousness"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Immanuel Kant (22 April, 1724 - 12 Feb 1804), a great German philosopher proposed the theory of perpetual peace containing following points:- (i) No standing army existance. (ii) No any independent state will be interfered with any other dominion state. (iii) No state will be interfered by another state constitutionally. (iv) Existance of universal peace policy."
+}

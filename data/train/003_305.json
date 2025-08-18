@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 305,
+  "type": "mcq_single",
+  "input": "The Supreme Court of India declares by issuing a writ that “respondent was not entitled to an office he was holding or a privilege he was exercising”. Which writ is that?",
+  "options": {
+    "A": "Habeas Corpus",
+    "B": "Quo Warranto",
+    "C": "Prohibition",
+    "D": "Certiorari"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

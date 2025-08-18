@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 54,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are not central tenet(s) of the Constitution of India? (CDS 2015-II) P. Prohibits discrimination on grounds of religion Q. Gives official status to certain religions R. Provides freedom to profess any religion S. Ensures equality of all citizens within religious communities Select the correct answer using the code given below.",
+  "options": {
+    "A": "P, Q and R",
+    "B": "R and S only",
+    "C": "Q, R and S",
+    "D": "Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "There is no provison in the Constitution of India to give official status to a particular religion, to provide freedom to profess any religion and to ensure equality of all citizens within religious communities."
+}

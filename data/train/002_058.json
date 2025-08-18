@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 58,
+  "type": "mcq_single",
+  "input": "Which among the following functions as a coordinate between the Planning Commission and State Governments?",
+  "options": {
+    "A": "National Integration Council",
+    "B": "Finance Commission",
+    "C": "National Development Council",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "National Development Council co-ordinates between Union government, the Planning Commission and the State governments."
+}

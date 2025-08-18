@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 321,
+  "type": "mcq_single",
+  "input": "The Constitution allows preventive detention but stipulates:",
+  "options": {
+    "A": "that no one should be detained beyond three months unless an Advisory Board authorises detention beyond that period",
+    "B": "that the grounds for detention should be conveyed to the detenu before arresting him",
+    "C": "that the detenu must be produced before the nearest magistrate within a period of 24 hours of his arrest",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

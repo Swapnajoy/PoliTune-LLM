@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 166,
+  "type": "mcq_single",
+  "input": "Article 40 of the Constitution of India advises the State to work for",
+  "options": {
+    "A": "Uniform Civil Code",
+    "B": "organisation of Village Panchayats",
+    "C": "Constitution of Municipalities",
+    "D": "Living wages for workers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 40 of the Indian constitution deals with organisation of village panchayats."
+}

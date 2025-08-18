@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 101,
+  "type": "mcq_single",
+  "input": "Which of the following statements is not correct?",
+  "options": {
+    "A": "A Money Bill shall not be introduced in the Council of States",
+    "B": "The Council of States has no power to reject or amend a Money Bill",
+    "C": "the Council of Ministers is responsible to the House of the People and not to the Council of States",
+    "D": "The House of the People has special powers with respect to the State List compared to the Council of States"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Constitution empowers Parliament of India to make laws on the matters reserved for States (States List). However, this can only be done if Rajya Sabha first passes a resolution by two-thirds supermajority granting such a power to the Union Parliament. The union government cannot make a law on a matter reserved for states without an authorisation from Rajya Sabha.So the House of People does not have special powers with respect to the state list."
+}

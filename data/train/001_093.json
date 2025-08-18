@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 93,
+  "type": "mcq_single",
+  "input": "Which of the following articles of Indian Constitution empowers the Governor to issue ordinances during recess of the state legislature?",
+  "options": {
+    "A": "Article 210",
+    "B": "Article 211",
+    "C": "Article 213",
+    "D": "Article 214"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 213 of Indian Constitution empowers the governor to issue ordinances during recess of the state legislature. Concerning power of Governor to promulgate Ordinances during recess of Legislature. Article 210 is for language to be used in the legislation. Article 211 deals with restriction on discussion in the legislature. Article 214 deals with high court of states."
+}

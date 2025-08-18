@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 73,
+  "type": "mcq_single",
+  "input": "Who amongst the following had demanded first the dominion status for India?",
+  "options": {
+    "A": "Raj Gopalachari and Sardar Patel",
+    "B": "Pt. Moti lal Nehru and Govind Ballabh pant",
+    "C": "Sir Tej Bahadur Sapru and Jay Kar",
+    "D": "Jawaharlal Nehru and Jag Jeevan Ram"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

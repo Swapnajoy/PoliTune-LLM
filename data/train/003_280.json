@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 280,
+  "type": "mcq_single",
+  "input": "Who held the power to increase the number of judges in the Supreme Court?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Parliament",
+    "D": "Ministry of Law"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 293,
+  "type": "mcq_single",
+  "input": "Who is the final authority to interpret the Constitution?",
+  "options": {
+    "A": "The President",
+    "B": "The Parliament",
+    "C": "The Lok Sabha",
+    "D": "The Supreme Court"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

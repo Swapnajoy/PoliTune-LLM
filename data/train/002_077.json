@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 77,
+  "type": "mcq_single",
+  "input": "Which officer of the Government of india has the right to take part in the proceedings of Parliament of India even though he is not a member?",
+  "options": {
+    "A": "Vice - President",
+    "B": "Attorney General of India",
+    "C": "Comptroller and Auditor General",
+    "D": "Election Commissioner"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Attorney General of India has the right to take part in the proceedings of parliament of India even though he is not a member."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 211,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. A person who was born on January, 26th, 1951 in Rangoon, whose father was a citizen of India by birth at the time of his birth is deemed to be an Indian citizen by descent. Q. A person who was born on July, 1st 1988 in Itanagar, whose mother is a citizen of India at the time of his birth but the father was not, is deemed to be a citizen of India by birth. Which of the statements given above is/are corrcet?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "A person born in India on or after 26th January 1950 but before 1st July 1987 is a citizen of India by birth irrespective of the nationality of his parents, considered citizen of India by birth if either of his parents is a citizen of India at the time of his birth. The citizenship of India is mentioned in Articles 5 to 11 (Part II)."
+}

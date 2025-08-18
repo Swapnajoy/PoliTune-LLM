@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 25,
+  "type": "statements_correctness",
+  "input": "Which of the following statements relating to Comptroller and Auditor General in India is/are correct? P. He/She is not an officer of the Parliament but an officer under the President. Q. He/She is an independent constitutional authority not directly answerable to the House. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Comptroller and Auditor-General of India is appointed by the President of India. CAG is an authority that was established by the Constitution of India under article 148. Report of CAG of Union Accounts to be submitted to President who causes them to be laid before each house of parliament."
+}

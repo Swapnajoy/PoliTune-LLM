@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 68,
+  "type": "mcq_single",
+  "input": "According to the Constitution of India the term ‘district judge’ shall not include",
+  "options": {
+    "A": "Chief Presidency Magistrate",
+    "B": "Sessions Judge",
+    "C": "Tribunal Judge",
+    "D": "Chief Justice of a Small Cause Court"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "According to Article 236, the expression district judge includes judge of a city Civil Court, additional district judge, joint district judge, assistant district judge, chief judge of a Small Cause Court, chief presidency magistrate, additional chief presidency magistrate, sessions judge, additional sessions judge and assistant sessions judge."
+}

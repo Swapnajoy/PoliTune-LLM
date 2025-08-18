@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 243,
+  "type": "mcq_single",
+  "input": "Right to Information in India is a",
+  "options": {
+    "A": "Fundamental Right",
+    "B": "Legal Right",
+    "C": "Both Fundamental and Legal Rights",
+    "D": "Neither Fundamental nor Legal Right"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Right to information in India is now a fundamental right."
+}

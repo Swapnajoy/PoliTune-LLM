@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 50,
+  "type": "mcq_single",
+  "input": "A high court judge addresses his letter of resignation to:",
+  "options": {
+    "A": "The President",
+    "B": "The Chief Justice of India",
+    "C": "The Chief Justice of High Court",
+    "D": "The Governor of the state"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "High court judge is removed only by the order of the President. The high court judge addresses his letter of resignation to the President."
+}

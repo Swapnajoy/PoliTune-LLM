@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 272,
+  "type": "statements_correctness",
+  "input": "Which of the following constitutional provisions facilitate Union control over States ? P. All-India services Q. Grants-in-aid R. Inter-State Councils Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

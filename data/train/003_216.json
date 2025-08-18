@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 216,
+  "type": "mcq_single",
+  "input": "Department of Official Language (Raj Bhasha Vibhag) comes under which one of the following Ministries?",
+  "options": {
+    "A": "Ministry of Culture",
+    "B": "Ministry of Home Affairs",
+    "C": "Ministry of Human Resource Development",
+    "D": "Ministry of Information and Broadcasting"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

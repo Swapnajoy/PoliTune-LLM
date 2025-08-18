@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 195,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. The President can commute death sentence to life imprisonment. Q. The Governor cannot commute death sentence to life imprisonment. R. The President’s power to pardon extends to punishments or sentences by court martial. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Q only",
+    "B": "P and R only",
+    "C": "P, Q and R",
+    "D": "Q and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

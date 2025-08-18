@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "The concept of Public Interest Litigation originated in",
+  "options": {
+    "A": "The United Kingdom",
+    "B": "Australia",
+    "C": "The United States",
+    "D": "Canada"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The concept of public Interest litigation (PIL) originated in the USA."
+}

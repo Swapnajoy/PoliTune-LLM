@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 322,
+  "type": "mcq_single",
+  "input": "A proclamation of emergency must be placed before the Parliament for its approval",
+  "options": {
+    "A": "Within 1 month",
+    "B": "Within 2 months",
+    "C": "Within 6 months",
+    "D": "Within 1 year"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Proclamation of emergency must be replaced withing 1 month before the parliament for its approval."
+}

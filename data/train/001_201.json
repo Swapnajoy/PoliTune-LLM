@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 201,
+  "type": "mcq_single",
+  "input": "In the Constitution of India the term ‘federal’ :",
+  "options": {
+    "A": "Figures in the preamble",
+    "B": "Figures in the part-III",
+    "C": "Figures in the Article 368",
+    "D": "Does not figure anywhere"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "‘Federal’ word is not mentioned in the constitution."
+}

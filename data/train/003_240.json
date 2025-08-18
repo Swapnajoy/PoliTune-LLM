@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 240,
+  "type": "statements_correctness",
+  "input": "Who amongst the following elects the Vice President of India? Select the correct answer from the codes given below : P. Members of Lok Sabha Q. Members of Rajya Sabha R. Members Legislative Assemblies S. Members of Legislative Councils Codes :",
+  "options": {
+    "A": "P and Q only",
+    "B": "P and R only",
+    "C": "P, Q and R only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

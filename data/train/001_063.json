@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 63,
+  "type": "mcq_single",
+  "input": "India has adopted a federation of .............. type.",
+  "options": {
+    "A": "USA",
+    "B": "Canadian",
+    "C": "Australian",
+    "D": "Switzerland Parts, Articles, Chapters & Schedules"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "India has adopted a federation of Canadian type."
+}

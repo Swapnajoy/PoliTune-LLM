@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 258,
+  "type": "statements_correctness",
+  "input": "In India the right to ‘freedom of speech and expression’ is restricted on the grounds of P. the sovereignty and integrity of India. Q. contempt of court. R. friendly relation with foreign states. S. protection of minorities. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P and R",
+    "D": "P, Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Freedom of speech and expression is restricted on the ground of : · security of the State, · friendly relations with foreign States, · public order, · decency and morality, · contempt of court, · defamation, · incitement to an offence, · Sovereignty and integrity of India."
+}

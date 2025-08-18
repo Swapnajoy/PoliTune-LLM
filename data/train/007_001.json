@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 1,
+  "type": "mcq_single",
+  "input": "Who among the following are mentioned in the Constitution of India, as the part of the Electoral College to elect the members of the Legislative Council of a State? P. Members of local bodies in the state Q. Members of chambers of commerce in the state. R. Graduates of three years and residing within the state S. All the teachers of three years in the state. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "P and R only",
+    "C": "P, R and S only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Of the total number of members of the Legislative council consists of—Member of local bodies in the state, Graduates of three years and residing within the state. Nearly 1/12th of its memebers shall be elected by the persons who have been for at least three years engaged in teaching in such educational institutions within the State, not lower in standard than that of a secondary school."
+}

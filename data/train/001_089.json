@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 89,
+  "type": "mcq_single",
+  "input": "Article 249 of the Indian Constitution is associated with the functions of",
+  "options": {
+    "A": "The concurrent list",
+    "B": "The state list",
+    "C": "The president",
+    "D": "The union list"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 249 of the Indian Constitution is associated with the functions of the state list. If the Council of States has declared by resolution supported by not less than two thirds of the members present and voting that it is necessary or expedient in national interest that Parliament should make laws with respect to any matter enumerated in the State List specified in the resolution. Concurrent list of 52 items is mentioned in 7th schedule in article 246."
+}

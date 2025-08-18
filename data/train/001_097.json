@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 97,
+  "type": "mcq_single",
+  "input": "Article 30 of the Indian Constitution deals with the",
+  "options": {
+    "A": "Freedom of consciences",
+    "B": "Right to propagate religion",
+    "C": "Right of minorities to establish and manage educational institution",
+    "D": "Cultural and educational rights of the majority community"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under article 30 right of minorities to establish and manage educational institution is mentioned."
+}

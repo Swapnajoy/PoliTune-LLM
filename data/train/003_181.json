@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 181,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding censure motion: P. It need not state the ground on which it is based Q. It can be moved only against the council of ministers and not against an individual minister. R. No leave of house is required to move this motion S. It is in the discretion of the government to find time and fix a date for its discussion. Which of the statements given above are not correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q, R and S only",
+    "C": "P, R and S only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 16,
+  "type": "statements_correctness",
+  "input": "Which of the following statements regarding the Comptroller and Auditor General of India is / are true? The Report of the Comptroller and Auditor General of India: P. Can be considered by the joint session of both Houses of Parliament Q. Includes examination of income and expenditure of all public sector undertaking R. Is placed before the Lok Sabha with the comments of the Estimates Committee S. Constitutes the basis for scrutiny by the Public Accounts Committee of the Parliament Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "Q and S",
+    "D": "Only S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The CAG submits three audit report to the president- audit report on appropriation accounts, audit report on financial accounts and audit report on public undertakings. The president lays these reports before both the Houses of parliament. After this the public accounts committee examines them and reports its findings to the parliament."
+}

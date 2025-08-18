@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 8,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. A Constitutional amendment inserting a regulation in the Ninth Schedule can be challenged on the ground of violation of basic structure of the Constitution. Q. Any legislation enacted by Parliament cannot be successfully challenged for affecting the basic structure of the Constiution. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

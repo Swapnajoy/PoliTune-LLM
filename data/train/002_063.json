@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 63,
+  "type": "mcq_single",
+  "input": "The Twentieth Law Commission was constituted through a government order with effect from 1st Sep. 2012. It has a three year term ending on 31st Aug. 2015. Who is the chairman of the commission?",
+  "options": {
+    "A": "Justice D.K. Jain",
+    "B": "Justice J.S. Verma",
+    "C": "Justice Markanday Katju",
+    "D": "Justice M. Mualyal"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Justice D K Jain is appointed the chairman of the Twentieth Law commission."
+}

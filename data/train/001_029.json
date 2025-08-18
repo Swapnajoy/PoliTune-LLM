@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 29,
+  "type": "assertion_reason",
+  "input": "Assertion (Q) : The Constitution of India has become the longest one. Reason (R) : The Chapter on Fundamental Rights has been borrowed from the model of American Constitution. Choose the correct answer using the code given below : Codes :",
+  "options": {
+    "A": "",
+    "B": "Both (a) and (R) are correct, but (R) is not the correct explanation of (a)",
+    "C": "(a) is true, but (R) is false",
+    "D": "(a) is false, but (R) is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

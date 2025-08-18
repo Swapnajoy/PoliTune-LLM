@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 6,
+  "type": "mcq_single",
+  "input": "What was the duration in the making of Indian Constitution?",
+  "options": {
+    "A": "1 Year 10 Months and 12 Days",
+    "B": "2 Years 10 Months and 5 Days",
+    "C": "2 Years 11 Months and 18 Days",
+    "D": "3 Years 6 Months and 7 Days"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Indian Constitution is the world’s longest Constitution. At the time of commencement, the Constitution had 395 articles in 22 parts and 8 schedules. It consists of almost 80,000 words and took 2 years 11 months and 18 days to make."
+}

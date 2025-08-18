@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 18,
+  "type": "mcq_single",
+  "input": "Nyaya Panchayats in Panchayti Raj system have no powers of awarding imprisonment except in the state of",
+  "options": {
+    "A": "West Bengal",
+    "B": "Jammu and Kashmir",
+    "C": "Maharashtra",
+    "D": "Bihar"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Nyaya Panchayat extends to the whole of India except the State of Jammu and Kashmir."
+}

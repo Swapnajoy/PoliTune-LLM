@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 17,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time. Reason (R) : Article 153 of the Constitution states that there shall be a Governor for each State. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "In article 158 of the Constitution, after clause (3), the following clause shall be inserted, namely: “(3A) Where the same person is appointed as Governor of two or more States, the emoluments and allowances payable to the Governor shall be allocated among the States in such proportion as the President may by order determine.” Clause 6 -Article 153 provides that there shall be a Governor for each State. Since it may be desirable in certain circumstances to appoint a Governor for two or more States, it is proposed to add a proviso to this article to remove any possible technical bar to such an appointment."
+}

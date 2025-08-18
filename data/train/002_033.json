@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 33,
+  "type": "statements_correctness",
+  "input": "Which of the following are the functions of the Union Public Service Commission? P. To conduct examinations for recruitment to the services of the Union. Q. To advise on matters referred to it by the President or the Governor. R. To advise on all disciplinary matters affecting a government servant. S. To advise on the principles to be followed in respect of promotions and transfers. Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P and Q",
+    "B": "P, Q and R",
+    "C": "P, R and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Union Public Service Commission has been established under Article 315 of the Constitution of India. The Commission consists of a Chairman and ten Members. The Union Public Service Commission has been entrusted with the following duties and roles under the Constitution: 1. Recruitment to services & posts under the Union through conduct of competitive examinations; 2. Recruitment to services & posts under the Central Government by Selection through Interviews; 3. Advising on the suitability of officers for appointment on promotion as well as transfer-on-deputation; 4. Advising the Government on all matters relating to methods of Recruitment to various services and posts; 5. Disciplinary cases relating to different civil services; and 6. Miscellaneous matters relating to grant of extra ordinary pensions, reimbursement of legal expenses etc."
+}

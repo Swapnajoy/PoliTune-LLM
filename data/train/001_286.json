@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 286,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are included in the Directive Principle of state policy? P. Prohibition of traffic in human beings and forced labours. Q. Prohibition of consumption except for medicinal purposes of intoxicating drinks and of other drugs which are injurious to health. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The directive Principles commit the state to raise the level of nutrition and the standard of living and to improve public health by prohibiting other drugs which are injurious to health."
+}

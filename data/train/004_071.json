@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 71,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. There are 25 high courts in India Q. Punjab, Haryana and the UT of Chandigarh have a common High Court. R. NCT of Delhi has a High Court of its own Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Q and R",
+    "B": "P and Q",
+    "C": "P, Q and R",
+    "D": "R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "All 1, 2 and 3 are correct."
+}

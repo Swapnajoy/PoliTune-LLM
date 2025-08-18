@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 92,
+  "type": "mcq_single",
+  "input": "The function of a Protem Speaker is to",
+  "options": {
+    "A": "conduct the proceeding of the House in the absence of the Speaker",
+    "B": "officiate as Speaker when the Speaker is to be elected",
+    "C": "swear members and hold charge till a regular Speaker is elected",
+    "D": "scrutinize the authenticity of the election certificates of members"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Protem Speaker performs the duties of the office of the Speaker from the commencement of the sitting of the new Lok Sabha till the election of the Speaker. Protem speaker is mainly an operating and temporary speaker."
+}

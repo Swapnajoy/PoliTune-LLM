@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 290,
+  "type": "mcq_single",
+  "input": "Which article of the Constitution permits the Supreme Court to review its own judgement or order?",
+  "options": {
+    "A": "Article 137",
+    "B": "Article 138",
+    "C": "Article 139",
+    "D": "Article 140"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

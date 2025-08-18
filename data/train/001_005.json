@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 5,
+  "type": "mcq_single",
+  "input": "How many members were assigned by Cabinet Mission in Constituent Assembly?",
+  "options": {
+    "A": "300",
+    "B": "309",
+    "C": "450",
+    "D": "296"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "There were 296 members assigned by Cabinet Mission in Constitution Assembly. The mission consisted of Lord Patrick-Lawrence, the Secretary of State for India, Sir Stafford Cripps, President of the Board of Trade, and A. V. Alexander, the First Lord of the Admiralty. 296 seats assigned in the cabnit mission in India Constitution."
+}

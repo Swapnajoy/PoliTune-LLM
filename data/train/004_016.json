@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 16,
+  "type": "statements_correctness",
+  "input": "Article 156 of the constitution of India provides that a Governor shall hold office for a term of five years from the date on which he enters upon his office. Which of the following can be deduced from this? P. No Governor can be removed from his office till the completion of this term Q. No Governor can continue in office beyond a period of five years.",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "As per Article 156, the governor shall hold office during the pleasure of the president. He can resign his office, or can be removed from his office by president at any time."
+}

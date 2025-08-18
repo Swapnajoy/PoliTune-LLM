@@ -8,13 +8,12 @@ Every question (regardless of type) must follow:
   "chapter_id": <int>,
   "chapter_title": "<string>",
   "qnum": <int>,
-  "type": "mcq_single | match | statements_correctness | assertion_reason",
+  "type": "mcq_single | match(skip) | statements_correctness | assertion_reason",
   "input": "<stem + context>",
   "options": { "A": "...", "B": "...", "C": "...", "D": "..." },
   "choices": ["A","B","C","D"],
   "answer": "<A|B|C|D>",
   "explanation": "<string or empty>",
-  "metadata": { "schema": "mcq_uniform_v1", "extra": { ...type-specific... } }
 }
 ```
 
@@ -47,11 +46,10 @@ Everything else is auxiliary for parsing or analysis.
   "choices": ["A","B","C","D"],
   "answer": "C",
   "explanation": "B.R. Ambedkar chaired the Drafting Committee.",
-  "metadata": { "schema": "mcq_uniform_v1" }
 }
 ```
 
-### 2) Match-the-Following → `"type": "match"`
+### 2) Match-the-Following → `"type": "match"`(skipped for now)
 
 ```
 {
@@ -69,13 +67,6 @@ Everything else is auxiliary for parsing or analysis.
   "choices": ["A","B","C","D"],
   "answer": "B",
   "explanation": "…from key…",
-  "metadata": {
-    "schema": "mcq_uniform_v1",
-    "extra": {
-      "left_labels": ["P","Q","R","S"],
-      "right_labels": ["1","2","3","4"]
-    }
-  }
 }
 ```
 
@@ -97,14 +88,6 @@ Everything else is auxiliary for parsing or analysis.
   "choices": ["A","B","C","D"],
   "answer": "B",
   "explanation": "…from key…",
-  "metadata": {
-    "schema": "mcq_uniform_v1",
-    "extra": {
-      "statement_mode": "identify_incorrect",
-      "original_statement_labels": ["1","2","3","4"],
-      "normalized_labels": ["P","Q","R","S"]
-    }
-  }
 }
 ```
 
@@ -126,9 +109,5 @@ Everything else is auxiliary for parsing or analysis.
   "choices": ["A","B","C","D"],
   "answer": "A",
   "explanation": "…from key…",
-  "metadata": {
-    "schema": "mcq_uniform_v1",
-    "extra": { "assertion_label": "Q", "reason_label": "R" }
-  }
 }
 ```

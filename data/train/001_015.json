@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 15,
+  "type": "mcq_single",
+  "input": "Draft of Indian Constitution was prepared by–",
+  "options": {
+    "A": "Sir B. N. Rao, “Advisor to the Constituent Assembly",
+    "B": "Sir Alladi Krishnaswamy Iyer Chairman Constitution Draft Committee",
+    "C": "Dr. B.R. Ambedkar, Union Law Minister",
+    "D": "Jawahar Lal Nehru, Prime Minister"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

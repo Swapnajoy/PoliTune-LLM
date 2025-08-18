@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 331,
+  "type": "mcq_single",
+  "input": "Among the three types of alternative dispute resolutions- arbitration, conciliation and mediation, the award is binding in the following",
+  "options": {
+    "A": "Arbitration",
+    "B": "Conciliation",
+    "C": "Mediation",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

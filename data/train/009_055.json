@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 55,
+  "type": "statements_correctness",
+  "input": "E - governance is – P. cost-efficient Q. transparent R. time-saving S. responsive Select the correct answer from the codes given below – Codes:",
+  "options": {
+    "A": "P and R",
+    "B": "P, Q and R",
+    "C": "P, R and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Electronic – governance is the application of information and communication technology for delivering government services, exchange of information, communication transactions etc. It is cost efficient, transparent, time – saving and responsive."
+}

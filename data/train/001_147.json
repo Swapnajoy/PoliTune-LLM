@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 147,
+  "type": "mcq_single",
+  "input": "Which one of the following pairs of the Schedule in the Constitution of India and its Content is not correctly matched? Schedule Content",
+  "options": {
+    "A": "Eighth Schedule : Languages",
+    "B": "Second Schedule : The forms of oaths and affirmations",
+    "C": "Fourth Schedule : Allocation of seats in the Council of States",
+    "D": "Tenth Schedule : Provisions as to disquialification on the ground of defection"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 283,
+  "type": "mcq_single",
+  "input": "In how many articles of Indian Constitution, Directive principles of the state policy are mentioned ?",
+  "options": {
+    "A": "From Article 36-51",
+    "B": "From Article 36-52",
+    "C": "From Article 36-53",
+    "D": "From Article 36-54"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "From Article 36-51. DPSP was borrowed from Irish constitution."
+}

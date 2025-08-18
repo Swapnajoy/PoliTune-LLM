@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 173,
+  "type": "mcq_single",
+  "input": "The Supreme Court has held that hoisting the National flag atop the private buildings is a fundamental right of every citizen under –",
+  "options": {
+    "A": "Article 14 of the Constitution",
+    "B": "Article 19(1) (a) of the Constitution",
+    "C": "Article 21 of the Constitution",
+    "D": "Article 25 of the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Supreme Court has held that hoisting the National flag atop the Private buildings is a fundamental right of every citizen under Article 19 (1) (a) of the constitution."
+}

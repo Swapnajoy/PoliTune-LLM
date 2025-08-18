@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 160,
+  "type": "mcq_single",
+  "input": "Which one of the following articles directs state Government of organize Village Panchayats?",
+  "options": {
+    "A": "Article 32",
+    "B": "Article 40",
+    "C": "Article 48",
+    "D": "Article 51"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 40 of the Indian constitution deals with organisation of village panchayats by state government."
+}

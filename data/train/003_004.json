@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 4,
+  "type": "statements_correctness",
+  "input": "Creation of the Legislative Council in a State Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "R and S only",
+    "D": "P and S only . Q Which of the following are matters on which a constitutional amendment is possible only with the ratification of the legislature of not less than one half of the states? P. Election of the president Q. Representation of the states in parliament R. Any of the lists in the 7th schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Art 253- Parliament has power to make any law for the whole or any part of the country or territory of India for implementing any treaty, agreement or convention with any other country or any decision made at any international conference, association or other body without the consent of any state."
+}

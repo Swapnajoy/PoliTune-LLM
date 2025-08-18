@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 235,
+  "type": "mcq_single",
+  "input": "Which one of the following powers of the Prime Minister of India is codified in the Constitution of India itself?",
+  "options": {
+    "A": "The power of advising the president as regards the appointment of other Ministers",
+    "B": "The power to allocate business amonst the Ministers",
+    "C": "The power of summon the meeting of the cabinet",
+    "D": "The power of transfer of Minister from one Department to another department"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

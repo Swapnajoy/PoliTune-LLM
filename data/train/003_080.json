@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 80,
+  "type": "mcq_single",
+  "input": "Who is responsible to make changes in names and boundaries of the states?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "Parliament",
+    "C": "Rajya Sabha",
+    "D": "Governor"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Under article 3 mentioned Parliament is responsible to make changes in names and boundaries of the state."
+}

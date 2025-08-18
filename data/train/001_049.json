@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 49,
+  "type": "statements_correctness",
+  "input": "Which of the following are considered as parts of the basic structure of the Indian Constitution ? P. Republication and democratic form of Government Q. Secular character of the Constitution R. Division between Fundamental Rights and Directive Principles of State Policy S. Federal character of the Constitution Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P, R and S",
+    "D": "P, Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

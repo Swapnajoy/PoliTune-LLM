@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 12,
+  "type": "statements_correctness",
+  "input": "Consider the following features : P. Presence of a nominal or titular head of state Q. Collective responsibility of cabinet R. Accountability of executive to the legislature S. Separation of powers Which of these are the features of a parliamentary form of Government ?",
+  "options": {
+    "A": "Q, R and S",
+    "B": "P, Q and S",
+    "C": "P, R and S",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The features of parliamentary government in India are: 1. Nominal and Real Executive 2. Majority Party Rule. 3. Collective Responsibility 4. Political homogeneity 5. Double Membership 6. Leadership of the Prime Ministers 7. Dissolution of the Lower House 8. Secrecy 9. Fusion of Powers"
+}

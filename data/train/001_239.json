@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 239,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below: Assertion (Q): Education is the fundamental right of every child between the age of 6 and 14 years. Reason (R): The 84th Constitutional Amendment Act provided for right to education. Codes:",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Constitution (Eighty-sixth Amendment) Act, 2002 inserted Article 21-A in the Constitution of India to provide free and compulsory education of all children in the age group of six to fourteen years as a Fundamental Right in such a manner as the State may, by law, determine. The Right of Children to Free and Compulsory Education (RTE) Act, 2009, which represents the consequential legislation envisaged under Article 21-A, means that every child has a right to full time elementary education of satisfactory and equitable quality in a formal school which satisfies certain essential norms and standards."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 142,
+  "type": "mcq_single",
+  "input": "According to Article 164(1) of the Constitution of India, in three States there shall be a Minister in charge of tribal welfare who may in addition be in charge of the welfare of the Scheduled Castes and Backward Classes. Which one of the following States is not covered by the Article?",
+  "options": {
+    "A": "Jharkhand",
+    "B": "Punjab",
+    "C": "Madhya Pradesh",
+    "D": "Odisha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to Article 164(1) in the State of Bihar, Madhya Pradesh and Orissa, there shall be a Minister in charge of tribal welfare who may in addition be in charge of the welfare of the Scheduled Castes and backward classes or any other work. Punjab is not covered by the Article."
+}

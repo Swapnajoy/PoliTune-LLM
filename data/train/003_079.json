@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 79,
+  "type": "statements_correctness",
+  "input": "Which of the following regarding the Rajya Sabha are correct? P. It is not subject to dissolution. Q. It has a term of six years. R. One-third of its members retire after every two years. S. Its members shall not be less than 25 year of age. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P and R",
+    "D": "Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Rajya Sabha is also known as “Council of States” or the upper house. Its members are indirectly elected by members of legislative bodies of the States. The Rajya Sabha has 250 members in all. Elections to it are scheduled and the chamber cannot be dissolved. Each member has a term of six years and elections are held for one-third of the seats after every two years. The composition is specified in Article 80 of the Constitution of India."
+}

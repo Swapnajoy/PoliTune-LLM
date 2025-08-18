@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 22,
+  "type": "mcq_single",
+  "input": "Who is called the Guardian of public purse?",
+  "options": {
+    "A": "President",
+    "B": "Comptroller and Auditor-General",
+    "C": "Parliament",
+    "D": "Council of Ministers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Constitution of India (Article 148) provides for an independent office of the Comptroller and Auditor General of India (CAG). He controls the entire financial system of the country at the Centre and the State."
+}

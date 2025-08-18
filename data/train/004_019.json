@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 19,
+  "type": "mcq_single",
+  "input": "State Governor is appointed by",
+  "options": {
+    "A": "Central Cabinet",
+    "B": "Chief justice of Supreme Court",
+    "C": "Speaker of Lok Sabha",
+    "D": "President of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Governor of the States of India is appointed by the President of India for a period of five years. A Governor is appointed on the advice of the Union Council of Ministers, or in reality on the advice of the Prime Minister."
+}

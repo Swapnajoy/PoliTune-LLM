@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 170,
+  "type": "mcq_single",
+  "input": "Who held the office of the Vice-President of India for two consecutive terms?",
+  "options": {
+    "A": "Dr. Radhakrishnan",
+    "B": "Mr. R. Venkataraman",
+    "C": "Dr. Shankar Dayal Sharma",
+    "D": "Mr. V.V. Giri"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

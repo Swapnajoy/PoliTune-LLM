@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 56,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about the Finance Commission: P. The duty of the Finance Commission is to make recommendations as to the distribution of revenue resources between the Union and the States. Q. It is appointed every fifth year by the President of India R. It raises revenue for central financial transfers to the States. S. It borrows money form the market for central grants to the States. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "P and Q",
+    "B": "P, Q and R",
+    "C": "P only",
+    "D": "Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

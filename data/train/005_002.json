@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 2,
+  "type": "mcq_single",
+  "input": "Which article of the Indian Constitution provides for the institution of Panchayti Raj?",
+  "options": {
+    "A": "Article 36",
+    "B": "Article 39",
+    "C": "Article 40",
+    "D": "Article 48"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 40, of the Indian Constitution provides for the institution of Panchayati Raj. The State shall take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self government. Article39 - Certain principles of policy to be followed by the state. Article 36 - Definition of DPSP. Article 48 - Organisation of agriculture and animal husbandry."
+}

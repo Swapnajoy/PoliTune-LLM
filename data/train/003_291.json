@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 291,
+  "type": "mcq_single",
+  "input": "Who is the custodian of Indian Constitution?",
+  "options": {
+    "A": "President",
+    "B": "Parliament",
+    "C": "Council Court",
+    "D": "Supreme Court"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

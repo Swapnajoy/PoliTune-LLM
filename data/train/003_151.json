@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 151,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : When a president is to be impeached for violation of the Constitution, no change can be preferred by either House of Parliament unless P. A resolution containing proposal is moved after seven days notice in writing signed by not less than one fourth of total number of members of that house. Q. The resolution is passed by the majority of not less than 2/3 rd of the total membership of that house. Which of the statement given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The charge of violation of constitution by the president of India for his impeachment can’t be preferred by a House unless a resolution containing proposal to prefer such charge is moved after at least fourteen days notice in writing signed by not less than one fourth of the total number of the members of that house."
+}

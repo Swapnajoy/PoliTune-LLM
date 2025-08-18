@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 64,
+  "type": "mcq_single",
+  "input": "The members of a Panchayat Samiti are:",
+  "options": {
+    "A": "Directly elected by the people",
+    "B": "Indirectly elected by the members of the Village Panchayat",
+    "C": "Nominated by the Block Development Officer",
+    "D": "Nominated by the president / chairman of the Panchayat Samiti"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

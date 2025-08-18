@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 53,
+  "type": "mcq_single",
+  "input": "Which one of the following is NOT the main jurisdiction of the High Court of a state?",
+  "options": {
+    "A": "Advisory Jurisdiction",
+    "B": "original Jurisdiction",
+    "C": "Supervisory Jurisdiction",
+    "D": "Appellate Jurisdiction"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The High Court of India does not have advisory jurisdiction. It has original, appellate and supervisory jurisdiction only. Supervisory jurisdiction refers to power of superior courts of general superintendence over all subordinate courts."
+}

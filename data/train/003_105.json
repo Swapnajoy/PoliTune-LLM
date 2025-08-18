@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 105,
+  "type": "statements_correctness",
+  "input": "Which of the following principles is/are taken into consideration by the Speaker while recognising a parliamentary party or group? P. An association of members who have an organisation both inside and outside the House Q. An association of members who shall have at least one-third of the total number of members of the House R. An association of members who have a distinct programme of parliamentary work Select the correct answer using the codes given below",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Onfy P",
+    "C": "P and R",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In recognizing a parliamentary party or group, the speaker shall take into consideration the following principles: An association of members who propose to form a parliamentary party: 1. Shall have an association of members who have a distinct programme of parliamentary work 2. Shall have an organization both inside and outside the house 3. Shall have at least a strength equal to the quorum fixed to constitute a sitting of the house i.e one tenth of the total number of members of the house."
+}

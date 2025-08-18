@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 49,
+  "type": "statements_correctness",
+  "input": "Consider the following statements with regard to the Finance Commission: P. The recommendations of the Finance Commission cover a period of five years. Q. The Report of the Finance Commission is submitted to the Prime Minister. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "• Article 280 of the constitution of India provides for a finance Commission as a quasi judicial body. It is constituted by the president of India every fifth year or at such earlier time as he considers necessary. The Finance Commission is required to make recommendations to the president of India on the following matters two of them are as follows : • The distribution of the net proceeds of taxes to be shared between the centre and the states, and the allocation between the states of the respective shares of such proceeds. • The principles that should govern the grants in aid to the states by the Centre (i.e. out of consolidated fund of India)"
+}

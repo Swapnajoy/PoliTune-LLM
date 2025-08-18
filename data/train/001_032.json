@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 32,
+  "type": "mcq_single",
+  "input": "In the Constitution of India, the term ‘federal’ appears in",
+  "options": {
+    "A": "The Preamble",
+    "B": "Part III of the Constitution",
+    "C": "Article 368",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "In the Constitution of India, the term ‘federal’ appears in the part I of the Constitution. The ‘Preamble’ is the brief’ introduction of the ‘Constitution’. It states about ‘the People of India’ having solemnly into Sovereignity, democracy, justice, liberty, equality etc. Part III constitution deals with ‘Fundamental rights (article 12 – 35). Article 368 is for provision of amendments in constitution."
+}

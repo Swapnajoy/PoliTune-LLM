@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 75,
+  "type": "mcq_single",
+  "input": "Which one of the following pairs is not correctly matched? State No. of members in the Rajya Sabha",
+  "options": {
+    "A": "Maharashtra – 19",
+    "B": "Tamil Nadu – 18",
+    "C": "Bihar – 18 – 16",
+    "D": "West Bengal – 16"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Bihar represents 16 members to Rajya Sabha. All the other options are correct."
+}

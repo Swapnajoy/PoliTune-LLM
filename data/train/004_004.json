@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 4,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding the chairman of the Legislative Council of a state in India: P. He is elected by the members of the concerned state legislature. Q. He can be removed from his office by a resolution passed by a majority of all those present and voting members of the concerned state legislature. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Legislative Council elects its Chairman and Deputy Chairman from amongst its memebers. A member holding office as Chairman or Deputy Chairman of a Legislative Council may be removed from his office by a resolution of the Council passed by a majority of all the then members of the Council."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 7,
+  "type": "mcq_single",
+  "input": "The States of the Indian Union can be reorganised or their boundaries altered by:",
+  "options": {
+    "A": "The Union Parliament by a simple majority in the ordinary process of legislation.",
+    "B": "Two-thirds majority of both the Houses of Parliament.",
+    "C": "Two-thirds majority of both the Houses of Parliament and the consent of the legislature of the concerned States.",
+    "D": "An executive order of the Union Government with the consent of the concerned State Governments."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Such Laws can be passed by a simple majority and by the ordinary legislative process."
+}

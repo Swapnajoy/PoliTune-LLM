@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 70,
+  "type": "mcq_single",
+  "input": "Who advises the Government of India on legal matters?",
+  "options": {
+    "A": "Attorney General",
+    "B": "Chief justice of Supreme Court",
+    "C": "Chairman, Law Commission",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Attorney general of India, appointed by President, advises the government of India on legal matters. Presently Venugopal is an Attorney General of India."
+}

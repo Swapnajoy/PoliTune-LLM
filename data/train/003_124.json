@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 124,
+  "type": "mcq_single",
+  "input": "Who among the following was the first Tribal speaker of Lok Sabha?",
+  "options": {
+    "A": "G. V. Mavalankar",
+    "B": "G. M. C. Balayogi",
+    "C": "Manohar Joshi",
+    "D": "P. A. Sangma"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "P.A. Sangma was the first tribal Speaker of Lok Sabha. He hailed from a small tribal village in Meghalaya."
+}

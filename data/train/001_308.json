@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 308,
+  "type": "statements_correctness",
+  "input": "Which among the following provisions of the Constitution of India is/are fulfilled by the National Social Assistance Programme launched by the Government of India? P. Fundamental Rights Q. Fundamental Duties R. Directive Principles of State Policy Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "P and R",
+    "C": "Only R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The National Social Assistance Programme(NSAP) represents a significant step towards the fulfilment of the Directive Principles in Article 41 of the Constitution. It came into effect from 15th August 1995."
+}

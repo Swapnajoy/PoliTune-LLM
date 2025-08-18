@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 99,
+  "type": "statements_correctness",
+  "input": "Consider the following statements relating to the procedure of the election of the Speaker and the Deputy Speaker of the Lok Sabha P. The election of a Speaker shall be held on such date as the Prime Minister may fix and the Secretary General shall send to every member . notice of this date. Q. The election of a Deputy Speaker shall be held on such date as the Speaker may fix and the Secretary General shall send to every member notice of this date. R. At anytime before noon on the day preceding the date so fixed, any member may give notice in writing of a motion that another member be chosen as the Deputy Speaker of the House. Which of the statement(s) given above is/are correct?",
+  "options": {
+    "A": "Q and R",
+    "B": "Only Q",
+    "C": "P and R",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Election of Speaker shall be held on such date as the President may fix, and the Secretary-General shall send notice of this dateto every member. The election of a Deputy Speaker shall be held on such date as the Speaker may fix and the Secretary-General shall send notice of this dateto every member. At any time before noon on the day preceding the date so fixed, any member may give notice in writing, addressed to the Secretary-General, of a motion that another member be chosen as the Deputy Speaker of the House and the notice shall be seconded by a third member and shall be accompanied by a statement by the member whose name is proposed in the notice that he is willing to serve as Deputy Speaker, if elected."
+}

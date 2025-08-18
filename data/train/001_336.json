@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 336,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. Part III of the Constitution of India dealing with Fundamental Rights is not applicable to the state of Jammu & Kashmir Q. Part IV of the Constitution of India dealing with Directive Principles is applicable to the state of Jammu & Kashmir with some exceptions and conditions Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Part IV (Directive Principles of the State Policy) and Part IVA (Fundamental Duties) of the Constitution are not applicable to J&K. In addition to other fundamental rights, Articles 19(1)(f) and 31(2) of the Constitution are still applicable to J&K; hence the Fundamental Right to property is still guaranteed in this state."
+}

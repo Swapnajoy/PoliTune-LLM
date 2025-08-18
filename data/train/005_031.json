@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 31,
+  "type": "mcq_single",
+  "input": "Panchayati Raj is based on the principles of",
+  "options": {
+    "A": "decentralisation",
+    "B": "deconcentration",
+    "C": "decmocratic centralization",
+    "D": "democratic decentralisation"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The principle of democratic decentralisation is very important and forms the basis of Panchayati Raj."
+}

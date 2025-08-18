@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 193,
+  "type": "statements_correctness",
+  "input": "Which of the following are the principles on the basis of which the Parliamentary system of government in India operates ? P. Nominal Executive Head Q. Vice-President as the Chairman of the Upper House R. Real executive authority with the Council of Ministers. S. Executive responsibility to the Lower House Choose the correct answer from the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P, Q and S",
+    "C": "P, R and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

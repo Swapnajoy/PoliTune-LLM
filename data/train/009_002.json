@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 2,
+  "type": "mcq_single",
+  "input": "Parliamentary Supremacy is the definite feature of the political system in",
+  "options": {
+    "A": "UK",
+    "B": "India",
+    "C": "Canada",
+    "D": "Australia"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "‘Parliamentary Supremacy’ is the definite feature of the political system in U.K."
+}

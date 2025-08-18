@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 206,
+  "type": "mcq_single",
+  "input": "Which of the following statements is not correct regarding recent guidelines issued by the Union Home Ministry for regulating surrogacy?",
+  "options": {
+    "A": "Surrogacy should be recognized in the country of the foreign couple who intended to have an Indian surrogate.",
+    "B": "Single foreigners as well as gay couples would not be eligible for Indian surrogate.",
+    "C": "Only these foreign men and women, who are married for at least two years, would be granted the visas.",
+    "D": "Foreign couples who intended to have an Indian surrogate should provide a letter from the Foreign Ministry of their country certifying that a child has the rights to enter the home country as a biological child."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

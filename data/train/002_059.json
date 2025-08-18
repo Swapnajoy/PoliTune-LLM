@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 59,
+  "type": "statements_correctness",
+  "input": "Consider the following qualifications with respect to the finance commission : or one P. A judge of High Court or one qualified to be the appointed as one. Q. A persons who has a specialised knowledge of finance and accounts of the government. R. A person who has wide experience in financial matters and in administration. S. A person who has special knowledge of economics. Who among the above can appointed as the member of the finance commission?",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, R and S only",
+    "C": "Q, R and S only",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Finance Commission of India includes 1. A Judge of High Court or one qualified to be appointed as one. 2. A person who has a special Knowledge of Finance and accounts of the government. 3. A person who has wide experience in financial matter and in administration."
+}

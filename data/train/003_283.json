@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 283,
+  "type": "mcq_single",
+  "input": "The power of the Supreme Court of India to decide disputes between the Centre and the State falls under its _________",
+  "options": {
+    "A": "Advisory Jurisdiction",
+    "B": "Appellate Jurisdiction",
+    "C": "Constitutional Jurisdiction",
+    "D": "original Jurisdiction"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 13,
+  "type": "mcq_single",
+  "input": "Who of the following moved the ‘Objective Resolution’ in the Constituent Assembly?",
+  "options": {
+    "A": "Dr. B.R. Ambedkar",
+    "B": "P. J.L Nehru",
+    "C": "Dr. Rajendra Prasad",
+    "D": "Dr. C.D. Deshmukh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "J. L. Nehru moved the ‘Objective Resolution’ in the constituent assembly."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 335,
+  "type": "statements_correctness",
+  "input": "Recently the Supreme Court of India issued certain guidelines to put a halt to eve-teasing. In this regard consider the following statements: P. women cops, in civil uniform, should be deputed at the public places Q. The court also ordered the states and the UTs to form a uniform law R. The eve-teasing can lead to violation of the fundamental rights. Which of the following statement given above are correct?",
+  "options": {
+    "A": "1and Q only",
+    "B": "P and R only",
+    "C": "Q and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

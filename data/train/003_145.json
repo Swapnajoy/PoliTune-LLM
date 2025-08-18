@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 145,
+  "type": "mcq_single",
+  "input": "The form of oath of office for a minister for the union of India is enshrined in the",
+  "options": {
+    "A": "first schedule",
+    "B": "second schedule",
+    "C": "third schedule",
+    "D": "fourth schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The form of oath of office for a minister for the union of India is enshrined in the third schedule of the Constitution. In first schedule List of States & Union Territories is mentioned. The second schedule is about salary of President, Governors, chief Judges, Judges of High court and supreme court, comptroller and Auditor General of India. Fourth schedule is for allocation of seats for each state of India in Rajya Sabha."
+}

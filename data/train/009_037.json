@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 37,
+  "type": "mcq_single",
+  "input": "Which one of the following State has granted Sanskrit language the status of the second official language of the state?",
+  "options": {
+    "A": "Bihar",
+    "B": "Chhattisgarh",
+    "C": "Uttar Pradesh",
+    "D": "Uttarakhand"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Uttarakhand has given to Sanskrit as the status of second official language of the state in January 2010."
+}

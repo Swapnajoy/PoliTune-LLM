@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 57,
+  "type": "mcq_single",
+  "input": "The term of the Lok Sabha",
+  "options": {
+    "A": "Can’t be extended under any circumstances",
+    "B": "Can be extended by six months at a time",
+    "C": "Can be extended by one year at a time during the proclamation of emergency",
+    "D": "Can be extended for two years at a time during the proclamation of emergency"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The term of the Lok Sabha can be extended by the Parliament beyond the five-year term during the period of time of emergency proclaimed under Art 352. But his extension is for a period of not more than one year at a time (no limit on the number of times in the Constitution)."
+}

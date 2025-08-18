@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 280,
+  "type": "statements_correctness",
+  "input": "Which of the following statements is/are true of the Fundamental Duties of an Indian citizen? P. A legislative process has been provided to enforce these duties. Q. They are correlative to legal duties. Select the correct answer using the code given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "At present there are no laws for enforcing the the duty to develop scientific temper, humanism and the spirit of inquiry and reform or to enforce the fundamental duty to strive towards excellence. So, first statement wrong. The list of fundamental duties does not cover other important duties like casting vote, paying taxes, family planning etc. so second statement also wrong."
+}

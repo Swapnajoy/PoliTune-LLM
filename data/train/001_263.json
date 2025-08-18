@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 263,
+  "type": "statements_correctness",
+  "input": "The Rights to Information means and includes P. Inspection of documents. Q. Taking out files from office to any place desired by the applicant. R. Taking photograph of files. S. Obtaining information in tapes. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and R",
+    "B": "P, Q and R",
+    "C": "Q and S",
+    "D": "All of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The right to information includes · Any document, manuscript and file · Any microfilm, microfiche and facsimile copy of a document; · Any reproduction of image or images embodied in such microfilm (whether enlarged or not). · Any other material produced by a computer or any other device"
+}

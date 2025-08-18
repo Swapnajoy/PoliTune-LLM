@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 301,
+  "type": "mcq_single",
+  "input": "Judicial Review signifies that the Supreme Court",
+  "options": {
+    "A": "has final authority in overall cases",
+    "B": "can declare a state law as unconstitutional",
+    "C": "can review cases whose decisions have been given by High Court",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

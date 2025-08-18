@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 293,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a Directive Principle of State Policy?",
+  "options": {
+    "A": "The State shall endeavour to secure for the citizens a uniform civil code.",
+    "B": "The State shall promote with special care the educational and economic interest of the weaker sections.",
+    "C": "The State shall endeavour to promote adult education to eliminate illiteracy.",
+    "D": "The State shall endeavour to protect every monument, place or object of artistic or historic interest."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "is not a directive principal of state policy."
+}

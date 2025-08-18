@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 32,
+  "type": "mcq_single",
+  "input": "Which one of the following is the correct sequence of persons who occupied the office of the President of India right from beginning?",
+  "options": {
+    "A": "C. Rajagopalachari, Rajendra Prasad, Zakir Hussian, V. V. giri",
+    "B": "Rajendra Prasad, S. Radhakrishna, V. V. giri, Zakir Hussian",
+    "C": "C. Rajagopalachari, Rajendra Prasad, S. Radhakrishna, Fakhruddin Ali Ahmad",
+    "D": "Rajendra Prasad, S. Radhakrishna, Zakir Hussian, V. V. Giri"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

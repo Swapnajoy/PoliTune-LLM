@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 24,
+  "type": "mcq_single",
+  "input": "Indian Parliament consists of",
+  "options": {
+    "A": "Lok Sabha and Rajya Sabha",
+    "B": "Lok Sabha, Rajya Sabha and Prime Minister",
+    "C": "Speaker and Lok Sabha",
+    "D": "President and both the Houses"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Indian Parliament consist of President and both the house."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 45,
+  "type": "mcq_single",
+  "input": "According to Iris L Calude Jr. which of the following is not a device for the management of power?",
+  "options": {
+    "A": "Arms control",
+    "B": "Collective security",
+    "C": "Balance of power",
+    "D": "World Government"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "According to Iris L Calude Jr. arms control is not a device for the management of power. He was a leading scholar in international relations and international organizations."
+}

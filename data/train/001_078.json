@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 78,
+  "type": "mcq_single",
+  "input": "Which schedule of Indian Constitution is related to Panchayti Raj ?",
+  "options": {
+    "A": "II Schedule",
+    "B": "VIII Schedule",
+    "C": "X Schedule",
+    "D": "XI Schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The XI schedule of the constitution deals with Panchayati Raj. IInd schedule deals with salary of President, Chief justice, Governors & CAG of India."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 215,
+  "type": "mcq_single",
+  "input": "According to the Constitution of India, the right to equality does not include",
+  "options": {
+    "A": "equality before law",
+    "B": "absolute equality",
+    "C": "equality of opportunity",
+    "D": "abolition of untouchability"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to the Constitution of India, the right to equality does not include absolute equality. ‘Right to Equality’ is the ‘Fundamental Rights’ mentioned in article 14 to article 18. The following rights are: Equality before law Prohibition of discrimination on basis of religion, race, caste, sex or place of birth. Equal opportunity in employment. Abolition of untouchability and abolition of titles."
+}

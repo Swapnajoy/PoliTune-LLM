@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 13,
+  "type": "mcq_single",
+  "input": "Rajya Sabha can delay the Finance bill sent for its consideration by the Lok Sabha for a maximum period of",
+  "options": {
+    "A": "One month",
+    "B": "One Year",
+    "C": "Seven days",
+    "D": "Fourteen days"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Rajya Sabha can delay the Finance Bill sent for its consideration by the Lok Sabha for a maximum period of fourteen days."
+}

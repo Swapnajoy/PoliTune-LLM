@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 45,
+  "type": "statements_correctness",
+  "input": "The Constitution of India authorizes the parliament to determine the qualifications of members of the Finance Commission of India and the manner in which they should be selected. In this regard consider the following statements : P. The commission consists of five members including its chairperson. Q. Its chairperson necessarily should be an economist. R. Its members are appointed from different fields such as finance and accounts, administration, judicial etc. Which of the statements given above are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The chairperson of the finance commission of India should be a person having experience in public affairs but there is no such compulsion that he should be an economist."
+}

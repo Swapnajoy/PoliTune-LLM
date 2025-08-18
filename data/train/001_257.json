@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 257,
+  "type": "statements_correctness",
+  "input": "Which of the following statements is/are correct? P. In India, the constitutional remedy under Article 32 is available only in case of Fundamental Rights, not in the case of rights which follow from some other provision in the Constitution. Q. Both the Supreme Court and High Courts can issue the writs of habeas corpus, mandamus, prohibition, certiorari and quo warranto only for the purpose of enforcement of Fundamental Rights. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "According to Article 32, when an individual feels that he has been “unduly deprived” of his fundamental rights, he can move the Supreme Court and seek justice. Apart from the Supreme Court, the High Courts also have the power to protect fundamental rights. Like the apex court, they also can issue writs for the enforcement of fundamental rights of the citizens. The both courts can issue five different writs - Certiorari, Habeas Corpus, Mandamus, Prohibition, and Quo Warranto."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 5,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. The State Information Commission entertains complaints and appeals pertaining to offices, financial institutions and public sector undertakings under the concerned state government. Q. The State Information Commission is a high-powered independent body. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

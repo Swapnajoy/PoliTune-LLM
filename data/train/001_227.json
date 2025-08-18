@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 227,
+  "type": "statements_correctness",
+  "input": "Consider the following statements in regard to the fundamental right for the protection of a person in respect to conviction for offences, guaranteed in the Indian constitution P. The government can’t enact any criminal or civil law with the retrospective effect Q. A person, accused of any offence can’t be compelled to be a witness against himself Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to the Article 20 of the Indian constitution, though the Govt. can’t enact any criminal law with the retrospective effect but it doesn’t prohibit the Govt. to impose any civil or tax law with the similar effect."
+}

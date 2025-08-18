@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 354,
+  "type": "mcq_single",
+  "input": "The Supreme Court of India is a ‘Court Record’. It implies that",
+  "options": {
+    "A": "It has to keep a record of its decisions.",
+    "B": "All its decisions have evidentiary value and cannot be questioned in any court",
+    "C": "It has the power to punish for its contempt",
+    "D": "No appeal can be made against its decisions."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

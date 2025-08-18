@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 229,
+  "type": "mcq_single",
+  "input": "A British citizen staying in India can’t claim right to:",
+  "options": {
+    "A": "Freedom of trade and profession",
+    "B": "Equality before the law",
+    "C": "Protection of life and personal liberty",
+    "D": "Freedom of religion"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The rights of equality before the law, protection of life and personal liberty and freedom of religion are available to both citizens and non-citizens of India."
+}

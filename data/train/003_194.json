@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 194,
+  "type": "statements_correctness",
+  "input": "Consider the following statement : P. The President nominates twelve members of the Rajya Sabha on the advice of the Council of Ministers. Q. The President has absolute power to appoint and remove the Chairman and members of statutory bodies at his discretion. Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

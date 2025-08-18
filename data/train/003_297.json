@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 297,
+  "type": "mcq_single",
+  "input": "Which article of Indian Constitution provides an advisory jurisdiction to the Supreme Court?",
+  "options": {
+    "A": "Article 129",
+    "B": "Article 132",
+    "C": "Article 143",
+    "D": "Article 32"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 100,
+  "type": "mcq_single",
+  "input": "Besides representation, the Parliament of India is also a deliberative body with diverse functions. Which one among the following is not a function of the Parliament of India?",
+  "options": {
+    "A": "Ventilating the grievances of the people",
+    "B": "Executing major policy decisions",
+    "C": "Holding the government accountable for its actions and expenditure",
+    "D": "Amending the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Our Parliamentary system blends the legislative and the executive organs of the State in as much as the executive power is wielded by a group of Members of the Legislature who command majority in the Lok Sabha."
+}

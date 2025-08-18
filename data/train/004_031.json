@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 31,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. The Governor cannot function without the State Council of Ministers. Q. A person who is not a member of the State Legislature cannot be appointed as a minister. R. The State Council of Ministers can function for sometime even after death or resignation of the Chief Minister. S. In the absence of the Chief Minister, only the Home Minister can preside over emergency meetings of the State Council of Ministers. Which of these is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "R and S",
+    "C": "P, Q and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Constitution provides that there shall be a Council of Ministers with the Chief Minister at the head to aid and advice the Governor in the exercise of his functions except in so far as he is by or under the Constitution required to act in his discretion. The governor appoints the Chief Minister and other Ministers on the advice of the Chief Minister."
+}

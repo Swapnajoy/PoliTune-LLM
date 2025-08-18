@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 76,
+  "type": "mcq_single",
+  "input": "Which one of the following has the right to address the Parliament?",
+  "options": {
+    "A": "Atorney General of India",
+    "B": "Chief Election Commissioner of India",
+    "C": "Chief Justice of India",
+    "D": "National Security Advisor"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Attorney general of India may speak in Parliament and can take part in proceedings without having right to vote."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 82,
+  "type": "mcq_single",
+  "input": "50% reservation for women in Panchayati Raj Institutions (PRIs) is legalized in certain states such as : I. Bihar II. Uttarakhand III. Madhya Pradesh IV. Himachal Pradesh",
+  "options": {
+    "A": "Only in III",
+    "B": "Only in II and III",
+    "C": "II, III and IV",
+    "D": "I, II, III and IV Urban Local Governments"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "50% reservation for women in Panchayati Raj Institutions (PRIs) is legalized in states such as Bihar, Uttarakhand, Madhya Pradesh, Himachal Pradesh."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 80,
+  "type": "mcq_single",
+  "input": "Who notify the alteration in limits of Block and Zila Panchayat?",
+  "options": {
+    "A": "Governor",
+    "B": "State Election Commission",
+    "C": "Divisional Commissioner",
+    "D": "Collector and District Returning Officer"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Governor will notify the alternation in limits of Block and Zila Panchayat."
+}

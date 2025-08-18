@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 107,
+  "type": "statements_correctness",
+  "input": "Which of the following statements in the context of structure of the Parliament is/are correct? P. The Parliament of India consists of the President, the Council of States and the House of the People. Q. The President of India is directly elected by an electoral college consisting of the elected members of both the Houses of the Parliament only. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 79- There shall be a Parliament for the Union which shall consist of the President and two Houses to be known respectively as the council of States and the House of the People. Article 54 - The President shall be elected by the members of an electoral college consisting of the elected members of both Houses of Parliament; and the elected members of the Legislative Assemblies of the States."
+}

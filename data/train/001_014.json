@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "The number of members included in the Constitution Drafting Committee was:",
+  "options": {
+    "A": "Seven",
+    "B": "Nine",
+    "C": "Eleven",
+    "D": "Thirteen"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The number of members included in the Constitution Drafting Committee was seven."
+}

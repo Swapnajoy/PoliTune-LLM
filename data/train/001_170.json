@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 170,
+  "type": "mcq_single",
+  "input": "Which Article of Indian Constitution defines a money Bill?",
+  "options": {
+    "A": "Article 110",
+    "B": "Article 150",
+    "C": "Article 280",
+    "D": "Article 285"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "A money bill is defined by Article 110 of the constitution."
+}

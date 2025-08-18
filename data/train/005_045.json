@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 45,
+  "type": "mcq_single",
+  "input": "In the new Panchayati Raj Bill enacted in 1993, there are several fresh provisions deviating from the past. Which one of the following is not one such provisions?",
+  "options": {
+    "A": "A number of added responsibilities in the area of agriculture rural development, primary education and social forestry among other",
+    "B": "Elections being made mandatory for all posts at the time they are due",
+    "C": "A statutory representation for women in the panchayats, up to a third of the strength",
+    "D": "Regular remuneration to the panchayat members, so as to ensure their punctuality and accountability"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Provision given in option (d) is not included under 73rd amendment act 1993."
+}

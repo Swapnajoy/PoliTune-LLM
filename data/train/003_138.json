@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 138,
+  "type": "mcq_single",
+  "input": "How many members of Lok Sabha are elected from Uttarakhand?",
+  "options": {
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "There are 5 members of Lok Sabha which are elected from uttarakhand."
+}

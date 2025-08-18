@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 61,
+  "type": "mcq_single",
+  "input": "Which one of the following Bills must be passed by each House of the Indian parliament separately, by special majority.",
+  "options": {
+    "A": "ordinary Bill",
+    "B": "Money Bill",
+    "C": "Finance Bill",
+    "D": "Constitution Amendment Bill"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Constitutional amendment bill must be passed by each house of the Indian Parliament separately by special majority."
+}

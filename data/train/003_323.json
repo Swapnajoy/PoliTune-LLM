@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 323,
+  "type": "mcq_single",
+  "input": "What is the number of Judges (including Chief Justice) in the Supreme Court of India as provided in the Constitution of India?",
+  "options": {
+    "A": "20",
+    "B": "24",
+    "C": "26",
+    "D": "28"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 33,
+  "type": "mcq_single",
+  "input": "The ministers in the Council of Ministers at the state level are appointed by :",
+  "options": {
+    "A": "President of the party",
+    "B": "Governor",
+    "C": "Chief Minister",
+    "D": "Prime Minister"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

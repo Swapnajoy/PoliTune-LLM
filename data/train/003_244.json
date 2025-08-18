@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 244,
+  "type": "mcq_single",
+  "input": "Which one of the following types of bureaucracy exhibits a bias towards party interests?",
+  "options": {
+    "A": "Guardian bureaucracy",
+    "B": "Caste bureaucracy",
+    "C": "Patronage bureaucracy",
+    "D": "Merit bureaucracy"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

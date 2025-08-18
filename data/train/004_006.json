@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 6,
+  "type": "mcq_single",
+  "input": "Which one of the following states of India has passed a legislation (1996) making the maintenance of one’s parents mandatory?",
+  "options": {
+    "A": "Kerala",
+    "B": "West Bengal",
+    "C": "Maharashtra",
+    "D": "Himachal Pradesh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Himachal Pradesh passed a legislation (1996) making the maintenance of one’s parents mandatory."
+}

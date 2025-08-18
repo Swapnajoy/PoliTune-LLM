@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 251,
+  "type": "statements_correctness",
+  "input": "Which of the following Fundamental Rights is / are available to non-citizens? (CDS 2015-II) P. Equality before Law Q. Right against Discrimination R. Equality of Opportunity S. Protection of Life and Personal Liberty Select the correct answer using the code given below.",
+  "options": {
+    "A": "P only",
+    "B": "P and S only",
+    "C": "P, Q and S",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Equality before law and protection of life and personal liberty are available to non citizens by fundamental Rights of Indian Constitution."
+}

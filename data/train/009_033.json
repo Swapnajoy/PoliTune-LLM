@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 33,
+  "type": "statements_correctness",
+  "input": "Arrange the following Indian States in a chronological order, according to their formation, and select the correct answer by using the codes given at the end. P. Chhattisgarh Q. Arunachal Pradesh R. Jharkhand S. Sikkim Codes :",
+  "options": {
+    "A": "S, P, Q, R",
+    "B": "S, Q, P, R",
+    "C": "R, Q, P, S",
+    "D": "P, S, Q, R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The above states were formed in the following order – 1. Sikkim – 1975 2. Arunachal – 1986 Pradesh 3. Chattisgarh – Nov. 1-2000 4. Jharkhand – Nov. 15, 2000"
+}

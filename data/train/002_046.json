@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 46,
+  "type": "mcq_single",
+  "input": "The primary function of the Finance Commission in India is to",
+  "options": {
+    "A": "Distribute revenue between the centre and the state.",
+    "B": "Advise the president on financial matters",
+    "C": "Advise the president on financial matters.",
+    "D": "Allocate funds to various ministries of the Union and state Governments."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The finance commission can only advise the president on financial matters such as distribution of the net proceeds of taxes between the Union and the states."
+}

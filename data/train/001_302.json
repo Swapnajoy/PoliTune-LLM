@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 302,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: Fundamental duties: P. Have always been a part of the Constitution of India Q. Have been added through an amendment R. Are mandatory on all citizens of India Which of these statements is/are correct?",
+  "options": {
+    "A": "P and R",
+    "B": "Only P",
+    "C": "Only Q",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Though the swaran singh committee suggested the incorporation of eight fundamental duties in the constitution, the 42nd Constitutional Amendment Act 1976 included ten fundamental duties."
+}

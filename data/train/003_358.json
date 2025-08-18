@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 358,
+  "type": "mcq_single",
+  "input": "Chief Justice of a High Court is appointed by the –",
+  "options": {
+    "A": "Chief Justice of India",
+    "B": "President of India",
+    "C": "Union Public Service Commission",
+    "D": "A collegium"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

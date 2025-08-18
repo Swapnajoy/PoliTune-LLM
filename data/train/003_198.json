@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 198,
+  "type": "statements_correctness",
+  "input": "Consider the following statements relating to the President of India : P. He may resign by writing to the Vice-President. Q. He shall continue, not withstanding the expiration of his term, to hold office until his successor enters upon his office. R. His is not entitled to hold the office for more than two terms. Which of the statements given above are correct ?",
+  "options": {
+    "A": "P and R only",
+    "B": "P and Q only",
+    "C": "P, Q and R",
+    "D": "Q and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 167,
+  "type": "mcq_single",
+  "input": "The appointment of a Governor in a state is made as per the provision in the Constitution under article.",
+  "options": {
+    "A": "153",
+    "B": "154",
+    "C": "155",
+    "D": "156"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Appointment of the Governor of Indian state is described under Article 155 of the Indian constitution."
+}

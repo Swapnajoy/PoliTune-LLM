@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 241,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. Quo-warranto is a very powerful instrument for safeguarding against the usurpation of public offices. Q. A High Court can issue a mandamus to compel a court or judicial tribunal to exercise its jurisdiction when it has refused to exercise it. Which of the statement given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

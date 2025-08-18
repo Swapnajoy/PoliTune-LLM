@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 234,
+  "type": "mcq_single",
+  "input": "Which one of the following statements about the Union Executive in India is correct ?",
+  "options": {
+    "A": "According to the Constitution of lndia, the total number of member of the Council of Ministers cannot exceed 20% of the total number of Members of the house of the People",
+    "B": "The rank of different Ministers is determined by the president",
+    "C": "The Ministers is appointed by the president on the advice of the Prime Minister",
+    "D": "Only a member of either House of Paliament can be appointed as a Minister."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

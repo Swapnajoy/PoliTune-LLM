@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 294,
+  "type": "statements_correctness",
+  "input": "Which of the following statements is/are correct? P. 42nd Amendment to the Constitution of India gave primacy to Directive Principles over Fundamental Rights. Q. Minerva Mills case ruled that there has to be a balance between Part III and Part IV of the Constitution. R. National Commission for Review of the Working of the Constitution has recommended that Directive Principles be made justiceable. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "P and R",
+    "D": "Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

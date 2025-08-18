@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 258,
+  "type": "mcq_single",
+  "input": "Consider the following statements in relation to the election of president of India. Statements: I. The total value of votes in president’s election is about 10,98,903 votes with each MP carrying a vote value of 708. The vote weight of an MLA depends on the population of the state he or she represents. II. For the purpose of calculation of value of votes of MPs / MLAs in President’s Election, the population of Census 1971 in considered. Which of the following is correct?",
+  "options": {
+    "A": "Only I",
+    "B": "Only II",
+    "C": "Both I and II",
+    "D": "Neither I nor II"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

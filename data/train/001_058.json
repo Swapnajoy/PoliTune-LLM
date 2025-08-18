@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 58,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about the Constitution of India: P. A Member of Parliament enjoys freedom of speech in the Parliament as a Parliamentary privilege protected by the Constitution of India . Q. The Constitution has vested the power to armed the Constitution in the Parliament Which of the statements given above is/are correct ?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

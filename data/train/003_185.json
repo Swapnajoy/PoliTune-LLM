@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 185,
+  "type": "statements_correctness",
+  "input": "Consider the following statements; In the electoral college for Presidential election in India P. The value of the vote of an electoral member of Legislative Assembly equals. Q. The value of the vote of an electing member of parliament equals. R. There were more than 5000 members in the latest elections. Which of these statements is/are correct?",
+  "options": {
+    "A": "P and Q",
+    "B": "Q only",
+    "C": "P and R",
+    "D": "R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

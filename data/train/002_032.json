@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 32,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion(Q) : The All-India Services violate the federal principal of the Constitution as well as the autonomy of States. Reason (R) : The All-India Service officers are governed by Central Government rules and the State Government do not have full control over them. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Though the all India Services violate the principle of federalism under the constitution by restricting the autonomy and patronage of the states. They are supported on the ground that (i) they help in maintaining high standard of administration in the centre as well as in the states (ii) they help to ensure uniformity of the administrative system throughout the country; and (iii) they facilitate liaison, cooperation, coordination and joint action on the issue of common interest between the Centre and States. These services are controlled jointly by the centre and the states. The ultimate control lies with the central government while the immediate control vests with the state governments."
+}

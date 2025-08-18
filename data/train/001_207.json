@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 207,
+  "type": "statements_correctness",
+  "input": "In which of the following years, the Citizenship Act, 1955 has been amended? P. 1986 Q. 1992 R. 2003 R. 2005 Select the correct answer using the codes given below:",
+  "options": {
+    "A": "Q, R and S",
+    "B": "P, Q and S",
+    "C": "P, Q, R and S",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The citizenship act 1955 has been amended in 1986, 1992, 2003 and 2005."
+}

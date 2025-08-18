@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 59,
+  "type": "mcq_single",
+  "input": "Which of the following statements is not correct?",
+  "options": {
+    "A": "In Lok Sabha, a no-confidence motion has to set out the grounds on which it is based.",
+    "B": "In the case of a no-confidence motion in Lok Sabha, no conditions of admissibility have been laid down in the rules.",
+    "C": "A motion of no-confidence once admitted has to be taken up within ten days of leave being granted.",
+    "D": "Rajya Sabha is not empowered to entertain a motion of no- confidence."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "‘No-confidence motion’ need not state the reason for it being adopted in the Lok Sabha"
+}

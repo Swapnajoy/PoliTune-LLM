@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 269,
+  "type": "mcq_single",
+  "input": "The citizens of India do not have which one of the following Fundamental Rights?",
+  "options": {
+    "A": "Right to reside and settle in any part of India",
+    "B": "Right to acquire, hold and dispose of property",
+    "C": "Right to practice any profession",
+    "D": "Right to form co-operative societies"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

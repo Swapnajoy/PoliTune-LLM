@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 78,
+  "type": "mcq_single",
+  "input": "The System of Panchayat Raj is mentioned in –",
+  "options": {
+    "A": "The Union List",
+    "B": "The State List",
+    "C": "The Concurrent List",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The system of Panchayat Raj is mentioned in the state list. Panchayat Raj is the system of local self-government for villages."
+}

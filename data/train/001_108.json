@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 108,
+  "type": "mcq_single",
+  "input": "Procedure for creation of Legislative Council in states has been described in which article of the Constitution?",
+  "options": {
+    "A": "Article 368",
+    "B": "Article 69",
+    "C": "Article 269",
+    "D": "Article 169"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 169 deals with abolition or creation of Legislative councils in states. Article 269 deals with taxes levied and collected by the Union but assigned to state."
+}

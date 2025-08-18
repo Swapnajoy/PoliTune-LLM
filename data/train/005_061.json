@@ -1,0 +1,19 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 61,
+  "type": "statements_correctness",
+  "input": "Which of the following statements are correct? Village Panchayats are responsible for : P. Agricultural production Q. Rural industrial development R. Maternity and child welfare S. Higher vocational education Select the correct answer using the codes given below :",
+  "options": {
+    "A": "P, Q and S",
+    "B": "P, Q and R",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

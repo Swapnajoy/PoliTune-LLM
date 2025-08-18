@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 74,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. The maximum number of Judges in a High Court are specified in the Constitution of India. Q. Every High Court has a power of superintendence over all courts and tribunals (except military tribunals) provided they are subject to appellate jurisdiction of the High Court. Which of the statements given above is / are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

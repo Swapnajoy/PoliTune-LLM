@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 31,
+  "type": "mcq_single",
+  "input": "We have a system of Judicial Review in",
+  "options": {
+    "A": "Indian only",
+    "B": "U. K. only",
+    "C": "U. S. A. only",
+    "D": "Both in India and U. S. A."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "We have the system of Judicial Review in both states of India and U. S. A."
+}

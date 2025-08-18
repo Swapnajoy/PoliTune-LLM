@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 310,
+  "type": "mcq_single",
+  "input": "The number of judges can be modified in the Supreme Court by",
+  "options": {
+    "A": "Presidential Order",
+    "B": "Supreme Court by Notification",
+    "C": "Parliament by Law",
+    "D": "Central Government by notification"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 15,
+  "type": "statements_correctness",
+  "input": "Consider the following officials of India; P. The State election commissioner Q. Chairman of the State Public Service Commission R. A judge of the High Court S. The Advocate General of the State. Which of the officials given above is/are appointed by the governor of the concerned state?",
+  "options": {
+    "A": "P, Q and S only",
+    "B": "Q and S only",
+    "C": "Q, R and S only",
+    "D": "S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The state election commissioner, chairman of the state PSC, and the advocate General of the state are appointed by the governor. A judge of the High Court is appointed by the President."
+}

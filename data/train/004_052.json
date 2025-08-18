@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 52,
+  "type": "mcq_single",
+  "input": "Which of the following High Courts has the largest number of Benches?",
+  "options": {
+    "A": "Kolkata High Court",
+    "B": "Madhya Pradesh High Court",
+    "C": "Bombay High Court",
+    "D": "Guwahati High Court"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Guwahati High Court has the largest number of Benches. The principal seat of the Gauhati High Court is at Guwahati in Assam. The court has 3 outlying benches. These are: The Kohima bench for Nagaland state. The Aizawl bench for Mizoram state. The Itanagar bench for Arunachal Pradesh state."
+}

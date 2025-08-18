@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 27,
+  "type": "statements_correctness",
+  "input": "The Preamble of the Indian constitution adopted on 26th November 1949 did not include the terms : P. Socialist Q. Secular R. Integrity S. Republic Select the correct answer from the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q, R and S",
+    "C": "P, Q and S",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Three word socialist secular and integrity in the preamble of Indian constitution were added by 42nd amendment Act of 1976."
+}

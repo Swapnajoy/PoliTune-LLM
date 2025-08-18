@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 288,
+  "type": "mcq_single",
+  "input": "Which of the following courts in India is/are known as the court(s) of Records?",
+  "options": {
+    "A": "The High Court only",
+    "B": "The Supreme Court only",
+    "C": "The High Court and Supreme Court",
+    "D": "The District Court"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

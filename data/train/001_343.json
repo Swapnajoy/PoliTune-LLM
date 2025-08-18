@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 343,
+  "type": "mcq_single",
+  "input": "Following is an example of residuary powers in India",
+  "options": {
+    "A": "Preventive detention",
+    "B": "Service taxation",
+    "C": "Labour Laws",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Service taxation is an example of residuary powers in India."
+}

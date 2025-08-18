@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 26,
+  "type": "mcq_single",
+  "input": "The Parliament can legislate on a subject in the state list",
+  "options": {
+    "A": "by the wish of the president",
+    "B": "if the Rajya Sabha passes such a resolution",
+    "C": "under any circumstances",
+    "D": "by asking the legislature of the concerned state"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The parliament can legislate on a subject in the state list if the Rajya Sabha passes such a resolution."
+}

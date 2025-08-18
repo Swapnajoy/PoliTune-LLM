@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 340,
+  "type": "mcq_single",
+  "input": "Sarkaria Commission was set up to review",
+  "options": {
+    "A": "the relation between the President and the Prime Minister",
+    "B": "the relation between the legislative and the executive",
+    "C": "the relations between the executive and the judiciary",
+    "D": "the relations between the Union and the State."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Sarkaria Commission was set up to review the relations between the Union and the States. Sarkaria Commission was set up in June 1983 by the central government of India."
+}

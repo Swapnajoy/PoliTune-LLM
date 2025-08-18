@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 1,
+  "type": "mcq_single",
+  "input": "The political parties got the Constitution recognition for the first time in the year",
+  "options": {
+    "A": "1975",
+    "B": "1977",
+    "C": "1985",
+    "D": "1995"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Political parties got the constitutional recognition for the first time in 1985."
+}

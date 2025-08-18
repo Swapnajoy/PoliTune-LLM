@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 133,
+  "type": "statements_correctness",
+  "input": "Consider the following — P. Elected members of the Lok Sabha. Q. Nominated members of Lok sabha. R. Elected members of Rajya Sabha. S. Nominated members of Rajya Sabha. Who among the above complete the electoral collect of the Vice- president?",
+  "options": {
+    "A": "P and Q",
+    "B": "P, R and S",
+    "C": "Q, R and S",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The electoral Collect of the vice President has 1. Elected members of the Lok Sabha 2. Nominated members of Lok Sabha 3. Elected members of Rajya Sabha 4. Nominated members of Rajya Sabha"
+}

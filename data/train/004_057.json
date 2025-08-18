@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 57,
+  "type": "mcq_single",
+  "input": "How many High Courts in India have jurisdiction over more than one state (Union territories not included)?",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Bombay High Court has jurisdiction over two states- Mumbai and Goa; Guwahti High Court has jurisdiction over Arunachal Pradesh, Assam, Mizoram and Nagaland; Punjab and Haryana High Court has jurisdiction over Punjab and Haryana."
+}

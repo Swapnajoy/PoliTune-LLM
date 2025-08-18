@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 284,
+  "type": "mcq_single",
+  "input": "Sovereignty of Indian Parliament is restricted by:",
+  "options": {
+    "A": "Powers of the President of India",
+    "B": "Judicial Review",
+    "C": "Powers of the Prime Minister of India",
+    "D": "Leader of the opposition"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 82,
+  "type": "mcq_single",
+  "input": "Which article of the constitution allows the centre to form new states ?",
+  "options": {
+    "A": "Article 3",
+    "B": "Article 4",
+    "C": "Article 5",
+    "D": "Article 6"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 3 of the Constitution allows the centre to form new states and is regarding formation of new States and alteration of areas, boundaries or names of existing States. Uniting two or more States or parts of States or uniting any territory to a part of any State; Article 4 deals with laws made under article 2 and 3 to provide amendment of the first and fourth schedule. Rights of citizenship of certain persons who have migrated to India from Pakistan is mentioned in Article 6."
+}

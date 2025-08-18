@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 41,
+  "type": "mcq_single",
+  "input": "The allocation of seats in the present Lok Sabha is based on which one of the following census?",
+  "options": {
+    "A": "1971",
+    "B": "1981",
+    "C": "1991",
+    "D": "2001"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "1971 census."
+}

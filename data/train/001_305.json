@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 305,
+  "type": "statements_correctness",
+  "input": "Which of the following statements regarding the Fundamental Duties contained in the Constitution of India are correct? P. Fundamental Duties can be enforced through writ jurisdiction. Q. Fundamental Duties have formed a part of the Constitution since its adoption. R. Fundamental Duties became a part of the Constitution in accordance with the recommendations of the Swaran Singh Committee. S. Fundamental Duties are applicable only to the citizens of India. Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and S",
+    "C": "Q and R",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The fundamental duties are defined as the moral obligations of all citizens to help promote a spirit of patriotism and too uphold the unity of India. The Fundamental Duties of citizens were added to the Constitution by the 42nd Amendment in 1976, upon the recommendations of the Swaran Singh Committee. The fundamental duties are contained in Art. 51APart IV(a) . The fundamental duties however are non-justifiable in character. This means that no citizen can be punished by a court for violation of a fundamental duty."
+}

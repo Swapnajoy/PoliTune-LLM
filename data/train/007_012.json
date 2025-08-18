@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 12,
+  "type": "statements_correctness",
+  "input": "Which of the following statements is/are correct? P. A registered voter in India can contest an election to Lok Sabha from any constituency in India. Q. As per the Representation of the People Act, 1951, if a person is convicted of any offence and sentenced to an imprisonment of 2 years or more, he will be disqualified to contest election. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither I nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "A registered voter in India can contest an election to Lok Sabha from any constituency in India except autonomous Districts of Assam, Lakshadweep and Sikkim. According to Section 8 of Representation of Peoples Act 1951,a person convicted of any offence and sentenced to imprisonment for not less than two years [other than any offence referred to in sub-section (a) or sub-section (b) ] shall be disqualified from the date of such conviction and shall continue to be disqualified for a further period of six years since his release."
+}

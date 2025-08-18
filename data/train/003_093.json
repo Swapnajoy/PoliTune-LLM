@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 93,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. The total elective membership of the Lok Sabha is distributed among the States on the basis of the population and the area of the State. Q. The 84th Amendment Act of the Constitution of India lifted the freeze on the delimitation of constituencies imposed by the 42nd Amendment. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The total elective membership of the Lok Sabha is distributed among States in such a way that the ratio between the number of seats allotted to each State and population of the State is, as far as practicable, the same for all States. The 84th Amendment to the Constitution (which was numbered as the 91st Amendment Bill before it was passed in Parliament) lifted the freeze on the delimitation of constituencies, as stipulated by the 42nd Constitution amendment of 1976, and allowed delimitation within States on the basis of the 1991 Census."
+}

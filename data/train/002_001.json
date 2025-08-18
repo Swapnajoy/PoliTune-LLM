@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 1,
+  "type": "mcq_single",
+  "input": "Which of the following is not a constitutional authority?",
+  "options": {
+    "A": "State Election Commission",
+    "B": "State Finance Commission",
+    "C": "Zila Panchayat",
+    "D": "State Electoral Officer"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "State Electoral officer is not a constitutional authority."
+}

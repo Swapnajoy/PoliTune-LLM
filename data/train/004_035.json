@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 35,
+  "type": "mcq_single",
+  "input": "The Governor may recommend the imposition of the President’s rule in the state",
+  "options": {
+    "A": "on the recommendation of the State Legislature",
+    "B": "on the recommendation of the President",
+    "C": "on the recommendation of the Chief Minister",
+    "D": "if he is convinced thai the Government of the State cannot be carried on in accordance with the provisions of the Constitution of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "President’s rule refers to Article 356 of the Constitution of India deals with the failure of the constitutional machinery of an Indian state. In the event that government in a state is not able to function as per the Constitution, the state comes under the direct control of the central government, with executive authority exercised through the Governor instead of a Council of Ministers headed by an elected Chief Minister accountable to the state legislature. Article 356 is invoked if there has been failure of the constitutional machinery in any states of India."
+}

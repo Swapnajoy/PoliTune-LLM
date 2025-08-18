@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 26,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about the Preamble of the Constitution and state which of them are correct with the help of given codes : P. The objective resolution proposed by Pt. Nehru ultimately became the Preamble. Q. It is not justiciable in nature. R. It cannot be amended. S. It cannot override the specific provisions of the Constitution. Codes:",
+  "options": {
+    "A": "Only P and Q",
+    "B": "Only P, Q and S",
+    "C": "Only P, Q and R",
+    "D": "Only Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "In Keshvanand Bharti V. State of Kerala is was laid down by the Supreme Court that the Preamble of the Indian Constitution is amended only those parts of the preamble which contain basic features could not be amended."
+}

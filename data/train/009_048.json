@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 48,
+  "type": "mcq_single",
+  "input": "The head of state of the United Kingdom is –",
+  "options": {
+    "A": "Queen Elizabeth I",
+    "B": "Queen Elizabeth II",
+    "C": "Queen Elizabeth III",
+    "D": "Queen Elizabeth IV (e) None of the above / More than one of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Queen Elizabeth II is the head of state of the United Kingdom."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 325,
+  "type": "mcq_single",
+  "input": "Public Interest Litigation (PIL) may be linked with",
+  "options": {
+    "A": "judicial review",
+    "B": "judicial activism",
+    "C": "judicial intervention",
+    "D": "judicial sanctity"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 224,
+  "type": "mcq_single",
+  "input": "Which of the following is not a fundamental duty under the Indian constitution ?",
+  "options": {
+    "A": "To protect monuments of national importance",
+    "B": "To develop scientific temper",
+    "C": "To uphold the unity and integrity of the nation",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Protection of monuments of national importance is not a fundamental duty."
+}

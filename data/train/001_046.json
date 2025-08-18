@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 46,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: The Indian Constitution is: P. an unwritten constitution. Q. a written constitution. R. largely based on the Government of India Act, 1935. S. a gift of British Parliament. Of these statements:",
+  "options": {
+    "A": "Q and S are correct",
+    "B": "Q and R are correct",
+    "C": "P and S are correct",
+    "D": "P and R are correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Indian Constitution is the lengthiest of all the written constitution of the world. It is largely based on Government of India Act 1935."
+}

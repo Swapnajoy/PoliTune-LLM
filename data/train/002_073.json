@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 73,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The Advocate General of a state in India is appointed by the President of India upon the recommendation of the Governor of the concerned state. Q. As provided in Civil procedure Code, High Courts have original appellate and advisory jurisdiction at the state level Which of the following statements is/are correct?",
+  "options": {
+    "A": "P Only",
+    "B": "Q Only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 165, Advocate-General for the state. The governor of each state shall appoint a person who is qualified to be appointed a judge of a High court to be advocate General for the state."
+}

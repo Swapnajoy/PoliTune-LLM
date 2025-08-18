@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 134,
+  "type": "mcq_single",
+  "input": "A seat of a M. P. can be declared vacant if he absents himself from the house for a continuous period of –",
+  "options": {
+    "A": "Six month",
+    "B": "Two month",
+    "C": "Three months",
+    "D": "None of the above / More than one of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "If for a period of sixty days a member of either House of Parliament is without permission of the House absent from all meetings thereof, the House may declare his seat vacant."
+}

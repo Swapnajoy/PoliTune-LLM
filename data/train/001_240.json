@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 240,
+  "type": "statements_correctness",
+  "input": "For which of the following can special provisions be made under Article 15 of the Constitution of India? P. Women and children Q. Scheduled Tribes R. Economically backward classes S. Socially backward classes Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P, Q and S",
+    "B": "P and R",
+    "C": "Q, R and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

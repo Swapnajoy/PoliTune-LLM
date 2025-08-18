@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 50,
+  "type": "mcq_single",
+  "input": "Which of the following Articles of the Constitution of India makes a specific mention of village panchayats?",
+  "options": {
+    "A": "Article 19",
+    "B": "Article 21",
+    "C": "Article 40",
+    "D": "Article 246"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 40 - Organisation of village Panchayats. Article 21 - Protection of life and personal liberty. Article 246 - Subject matter of laws made by parliament and by the legislature of states."
+}

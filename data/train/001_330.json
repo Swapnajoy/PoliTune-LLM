@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 330,
+  "type": "mcq_single",
+  "input": "Which of the states of Indian federation has a separate constitution ?",
+  "options": {
+    "A": "Goa",
+    "B": "Tamil Nadu",
+    "C": "Jammu & Kashmir",
+    "D": "Himachal Pradesh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The state of Jammu & Kashmir of Indian Federation has a separate constitution. Article 370 of the Indian Constitution, which is of a temporary nature, grants special status to Jammu and Kashmir. Limited government in which governmental intervention in personal liberties and the economy is not allowed by law usually in a written constitution e.g. India, USA etc."
+}

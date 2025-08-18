@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 343,
+  "type": "statements_correctness",
+  "input": "Which of the following statements regarding Supreme Court of India are correct ? P. It has the power to entertain appeal from any court or tribunal within India. Q. It has the power to deliver advisory opinion on any question of fact or law referred to it by the President. R. Salaries of the Judges of the Supreme Court are subject to vote by the Parliament. S. Its jurisdiction is binding on all other courts within India. Select the correct answer from the codes given below :",
+  "options": {
+    "A": "P and R",
+    "B": "Q and S",
+    "C": "Q, R and S",
+    "D": "P, Q and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

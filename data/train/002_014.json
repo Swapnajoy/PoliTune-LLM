@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "The office of the Comptroller and Auditor General of India was created",
+  "options": {
+    "A": "Through an act of the parliament",
+    "B": "By the Constitution",
+    "C": "Through a cabinet resolution",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "CAG of India was created by the constitution of India. (Article 148-151)"
+}

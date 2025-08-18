@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 12,
+  "type": "mcq_single",
+  "input": "If budget is disclosed before introducing in the Legislative Assembly, what will happen?",
+  "options": {
+    "A": "Council of Ministers will have to resign",
+    "B": "Chief Minister will have to resign",
+    "C": "Finance Minister will have to resign",
+    "D": "All of the above (e) None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "If budget is disclosed before introducing in the Legislative Assembly, the Finance Minister will have to resign."
+}

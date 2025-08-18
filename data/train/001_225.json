@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 225,
+  "type": "mcq_single",
+  "input": "Which of the following fundamental rights has been given to Indian citizen only",
+  "options": {
+    "A": "Equality before law",
+    "B": "Freedom of speech",
+    "C": "Life and personal liberty",
+    "D": "Freedom of religion"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Freedom of speech under fundamental rights has been given to Indian citizen only."
+}

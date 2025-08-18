@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 309,
+  "type": "mcq_single",
+  "input": "Which one among the following is not a fundamental duty of the citizen of India?",
+  "options": {
+    "A": "To develop scientific temper, humanism and the spirit of inquiry and reform",
+    "B": "To safeguard public property and to abjure violence",
+    "C": "To uphold and protect the sovereignty, unity and integrity of India",
+    "D": "To practice family planning and to control population"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "To practise family planning and to control population, is not a fundamental duty of the citizen of India. The Fundamental Duties of citizens were added to the Constitution by the 42nd Amendment in 1976. Originally ten in number, the Fundamental Duties were increased to eleven by the 86th Amendment in 2002, which added a duty on every parent or guardian to ensure that their child or ward was provided opportunities for education between the ages of six and fourteen years."
+}

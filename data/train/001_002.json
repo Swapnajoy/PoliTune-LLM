@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 2,
+  "type": "mcq_single",
+  "input": "How many members of the constituent assembly signed the Constitution of India?",
+  "options": {
+    "A": "284",
+    "B": "294",
+    "C": "274",
+    "D": "244"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "There were 284 members of the Constituent Assembly who signed the Constitution of India. The Constitution was drafted by the Constituent Assembly, which was elected by the elected members of the provincial assemblies."
+}

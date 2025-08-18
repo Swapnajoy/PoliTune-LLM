@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 12,
+  "type": "mcq_single",
+  "input": "Who recognises he political parties in India?",
+  "options": {
+    "A": "President of India",
+    "B": "Election Commission of India",
+    "C": "Ministry of Law and Justice",
+    "D": "Speaker of the Lok Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Election Commission of India recognises the political parties in the India."
+}

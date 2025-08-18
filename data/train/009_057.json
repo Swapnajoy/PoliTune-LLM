@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 57,
+  "type": "mcq_single",
+  "input": "Which one of the following was not the basis invoked by the US for attacking Iraq in March 2003?",
+  "options": {
+    "A": "Iraq possessed weapons of mass destruction",
+    "B": "Saddam Hussain had links with A1 Quaeda",
+    "C": "Regime Change in Iraq",
+    "D": "Iraq had not withdrawn from Kuwait complety"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The question of withdrawal of Iraq from kuwait was an issue in 1991 Iraq war. This was not an issue during 2003 Iraq war."
+}

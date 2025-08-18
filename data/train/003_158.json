@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 158,
+  "type": "mcq_single",
+  "input": "The vacancy of the office of the President of India must be filled up within",
+  "options": {
+    "A": "90 days",
+    "B": "6 months",
+    "C": "One year",
+    "D": "within the period decided by the Parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 152,
+  "type": "mcq_single",
+  "input": "Under which Article of Indian Constitution, President of India enjoys power to withhold his assent on any Bill?",
+  "options": {
+    "A": "Article 63",
+    "B": "Article 108",
+    "C": "Article 109",
+    "D": "Article 111"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "According to Article 111 when a bill is passed by both the House of Parliament it will be presented to the President for his assent. now the President will decide whether to given his assent to the bill or withhold his assent."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 3,
+  "type": "mcq_single",
+  "input": "The system of proportion of Representation as an electoral mechanism ensures",
+  "options": {
+    "A": "Representation of minorities",
+    "B": "Rule of majority",
+    "C": "Stability in government",
+    "D": "Common political thinking"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

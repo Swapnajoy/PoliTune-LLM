@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 267,
+  "type": "mcq_single",
+  "input": "Which of the following freedoms is not specifically mentioned in the Constitution of India as a Fundamental Right but has been subsequently upheld by the Supreme Court as such?",
+  "options": {
+    "A": "Freedom of trade, occupation and business",
+    "B": "Freedom to reside and settle in any part of the country",
+    "C": "Freedom of association and union",
+    "D": "Freedom of the press"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The constitution of India does not specifically mention the freedom of press. Freedom of press is implied from the Article 19(a) (a) of the Constitution."
+}

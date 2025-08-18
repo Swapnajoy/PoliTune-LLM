@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 144,
+  "type": "statements_correctness",
+  "input": "With reference to the Parliament of India, consider the following statements: P. A private member’s bill is a bill presented by a Memberof Parliament who is not elected but only nominated by the President of India. Q. Recently, a private member’s bill has been passed in the Parliament of India for the first time in its history. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q Union Executive"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

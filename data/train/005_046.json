@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 46,
+  "type": "mcq_single",
+  "input": "Swaraj Trophy is associated with which of the following",
+  "options": {
+    "A": "Best district",
+    "B": "Best Zila Parishad",
+    "C": "Best metropolitan",
+    "D": "Best Panchayat"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Kerala Government distributes the Swaraj Trophy and cash prize for the best local bodies. From 1999-2000 onwards, the prize extents for the best district panchayat, block panchayat and municipalities."
+}

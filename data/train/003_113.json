@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 113,
+  "type": "mcq_single",
+  "input": "Which one of the following statements about Money Bill is correct ?",
+  "options": {
+    "A": "A Bill shall be deemed to be a Money Bill only if it Provides for imposition of fines or penalties",
+    "B": "A Money Bill shall be introduced in the Rajya Sabha",
+    "C": "The Rajya Sabha can reject the Money Bill.",
+    "D": "The Speaker of the Lok Sabha finally decides if it is a Money Bill, should any dispute about it arise"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

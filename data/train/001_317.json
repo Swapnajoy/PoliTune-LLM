@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 317,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : When the financial emergency has been declared by the President under the Article 360, then its proclamation : P. May be revoked or varied by a subsequent proclamation Q. Shall cease to operate at the expiration of two months, unless before the expiration of that period it has been approved by the resolution of both Houses of Parliament Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "According to Article 360, (1) If the President is satisfied that a situation has arisen whereby the financial stability or credit of India or of any part of the territory thereof is threatened, he may by a Proclamation make a declaration to that effect. 334 (2) A Proclamation issued under clause (1) (a) may be revoked or varied by a subsequent Proclamation; (b) shall be laid before each House of Parliament; (c) shall cease to operate at the expiration of two months, unless before the expiration of that period it has been approved by resolutions of both Houses of Parliament."
+}

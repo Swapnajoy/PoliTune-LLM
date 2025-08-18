@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 34,
+  "type": "mcq_single",
+  "input": "India has borrowed the concept of Fundamental Rights from the Constitution of",
+  "options": {
+    "A": "UK",
+    "B": "USA",
+    "C": "Russia",
+    "D": "Ireland"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The concept of fundamental rights is borrowed from USA. Directive Principles of state policy, method of election of the President, nomination of members in the Rajya Sabha by the President are taken from Irish Constitution."
+}

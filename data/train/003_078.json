@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 78,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are correct in respect of ‘Zero Hour’ discussion? P. It is not directed against individual Minister. Q. It covers questions raised over matters of public importance. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "During the Zero Hour members raise matters of importance, especially those which cannot be delayed. Nobody knows which issue a member would raise during this hour. As a result, questions so raised without prior notice result in avoidable loss of precious time of the House."
+}

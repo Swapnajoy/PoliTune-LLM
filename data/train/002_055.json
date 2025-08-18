@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 55,
+  "type": "mcq_single",
+  "input": "The principles concerning the provisions of the grant-in-aid to the States out of the Consolidated Fund of India are recommended by the :",
+  "options": {
+    "A": "Planning Commission",
+    "B": "Administrative Reforms Commission",
+    "C": "Finance Commission",
+    "D": "Public Accounts Committee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

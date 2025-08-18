@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 35,
+  "type": "mcq_single",
+  "input": "Which one of the following writs is issued during the pendency of proceedings in a court?",
+  "options": {
+    "A": "Mandamus",
+    "B": "Certiorari",
+    "C": "Prohibition",
+    "D": "Quo warranto"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

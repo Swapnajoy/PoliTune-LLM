@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 74,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. The nature of a Bill, if it is certified by the Speaker of the House of People as a Money Bill, is not open to question in a Court of Law. Q. The President of India has the power to question the nature of a Bill to be taken as a Money Bill even if it is certified to be so by the Speaker of the House of People. Which of the statement(s) given above is/are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 109 special procedures in respect of Money Bills mentions a Money Bill shall not be introduced in the Council of States. After a Money Bill has been passed by the House of the People it shall be transmitted to the Council of States for its recommendations and the Council of States shall within a period of fourteen days from the date of its receipt of the Bill return the Bill to the House of the People with its recommendations. If a Money Bill passed by the House of the People and transmitted to the Council of States for its recommendations is not returned to the House of the People within the said period of fourteen days, it shall be deemed to have been passed by both Houses at the expiration of the said period in the form in which it was passed by the House of the People."
+}

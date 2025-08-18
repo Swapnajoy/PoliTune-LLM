@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 221,
+  "type": "mcq_single",
+  "input": "Which one of the following is not related to the fundamental rights of the Indian Constitution?",
+  "options": {
+    "A": "Freedom of association",
+    "B": "Freedom of movement",
+    "C": "Freedom of assembly",
+    "D": "Freedom to be elected as a member of parliament"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Freedom to be elected as a member of Parliament is not related to fundamental rights, it is a political right. Freedom of association is the right to join or leave or the right of the group to take collective action to pursue peruse the interests of members."
+}

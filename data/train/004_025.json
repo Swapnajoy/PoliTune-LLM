@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 25,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: The Governor of a State has the power of appoint: P. Judges of the High Court Q. Members of the State Public Service Commission R. Members of the State Finance Commission S. The Accountant General Which of these statements are correct?",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "P, R and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Governor has the power to appoint the Council of Ministers including the Chief Minister of the state, the Advocate General and the members of the State Public Service Commission. However, the Governor cannot remove the members of the State Public Service Commission as they can only be removed by an order of the President."
+}

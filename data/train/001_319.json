@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 319,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : An imminent danger of war or external aggression is not enough for the proclamation of emergency. Reason (R) : The Proclamation of Emergency shall cease to operate at the expiration of one month unless approved by both the Houses of Parliament. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "A state of emergency in India refers to a period of governance under an altered constitutional setup that can be proclaimed by the President of India, when he/she perceives grave threats to the nation from internal and external sources or from financial situations of crisis. Every Proclamation shall be laid before each House of Parliament and shall, except where it is a Proclamation revoking a previous Proclamation, cease to operate at the expiration of two months unless before the expiration of that period it has been approved by resolutions of both Houses of Parliament: Provided that if any such Proclamation (not being a Proclamation revoking a previous Proclamation) is issued at a time when the House of the People is dissolved or the dissolution of the House of the People takes place during the period of two months referred to in this clause."
+}

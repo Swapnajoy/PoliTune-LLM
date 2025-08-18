@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 30,
+  "type": "statements_correctness",
+  "input": "Which of the following is/are true relating to Nelson Mandela? P. He was the first President of South Africa. Q. Mandela spent 18 years in prison on Robben Island. R. Mandela became the President in 1990 after his release from the prison. Select the correct answer using the code given below",
+  "options": {
+    "A": "P and R only",
+    "B": "Q and R only",
+    "C": "Q only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Nelson Mandela was the first black president of South Africa (1994-99). Mandela spent 18 years(From 1964 to 1982) in prison on Robben island."
+}

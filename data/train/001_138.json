@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 138,
+  "type": "mcq_single",
+  "input": "Which one of the following Schedules of the Constitution of India includes the disqualification of a Legislator on grounds of defection?",
+  "options": {
+    "A": "8th Schedule",
+    "B": "7th Schedule",
+    "C": "6th Schedule",
+    "D": "10th Schedule"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The 10th Schedule to the Indian Constitution is known as Anti-Defection Law. It was inserted by the 52nd Amendment Act 1985 to the Constitution. It sets the provisions for disqualification of elected members on the grounds of defection to another political party."
+}

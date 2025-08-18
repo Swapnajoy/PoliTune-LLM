@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 140,
+  "type": "mcq_single",
+  "input": "The Tenure of which Lok Sabha was about 6 years?",
+  "options": {
+    "A": "5th Lok Sabha",
+    "B": "7th Lok Sabha",
+    "C": "9th Lok Sabha",
+    "D": "11th Lok Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Tenure of 5th Lok Sabha = March 16, 1971 till January 18, 1977"
+}

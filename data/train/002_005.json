@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 5,
+  "type": "statements_correctness",
+  "input": "Consider the following functions of State Election Commission and select correct answer by using code given below P. Prepares the electoral rolls for Panchayats and Municipalities elections in the State. Q. Conducts elections for Panchayat and Municipalities of the State. R. Conducts elections to various bodies except Panchayats and Municipalities as directed by the Governor. S. Prepares the electoral rolls and conducts elections as assigned by Election Commission of India. Codes:",
+  "options": {
+    "A": "P and Q",
+    "B": "R and S",
+    "C": "P, Q and S",
+    "D": "Only S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

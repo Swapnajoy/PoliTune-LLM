@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 26,
+  "type": "statements_correctness",
+  "input": "Consider the following statements about democracy P. It consists with the formation of government elected by the people. Q. In democracy, those currently in power have a fair chance of losing. R. Each vote has one value. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P and Q",
+    "B": "P, Q and R",
+    "C": "Only P",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Democracy is a form of government that allows people to choose their rulers. In a democracy only leaders elected by the people can rule the country. A democracy must be based on a free and fair election where those currently in power have a fair chance of losing. Each adult citizen must have one vote and each vote must have one value."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 35,
+  "type": "mcq_single",
+  "input": "Which of the following committees recommended that the elections to Panchayati Raj bodies should be held on party lines?",
+  "options": {
+    "A": "Balwant Rai Mehta committee",
+    "B": "Ashok committee",
+    "C": "Dhar Committee",
+    "D": "VKRV Rao committee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "According to Ashok Mehta Committee, there should be an official participation of political parties at all levels of Panchayat elections. Dhar committee demanded for different region mainly south India for reorganization of states on linguistic basis in 1948. VKRV Rao was member of several committees live Bombay economic Industrial survey committee, National income committee, UN Sub-committee on experts on levels of living etc."
+}

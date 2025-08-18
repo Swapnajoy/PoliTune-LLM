@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 306,
+  "type": "mcq_single",
+  "input": "What is the objective advocated for appointment of the National Judicial Commission?",
+  "options": {
+    "A": "Training of the judges",
+    "B": "Reforms in legal system",
+    "C": "Bringing about transparency and impartiality in the appointment of judges of the highest level.",
+    "D": "To examine the working period of the judges."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

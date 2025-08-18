@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 38,
+  "type": "mcq_single",
+  "input": "In which year, the 73rd Constitutional Amendment Act (1972) was assented by the President?",
+  "options": {
+    "A": "1990",
+    "B": "1991",
+    "C": "1993",
+    "D": "1994"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The constitutional 73rd &74th Amendment Acts 1992 received the assent of the president of India on 20th April 1993 and came into force on 24th April and on 1st June 1993 respectively."
+}

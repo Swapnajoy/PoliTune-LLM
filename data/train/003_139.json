@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 139,
+  "type": "mcq_single",
+  "input": "Who among the following doesn’t take oath of the office?",
+  "options": {
+    "A": "President",
+    "B": "Vice President",
+    "C": "Prime minister",
+    "D": "Speaker"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Speaker does not take oath of the office."
+}

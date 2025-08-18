@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 43,
+  "type": "mcq_single",
+  "input": "Who was the first Chairman of the Uttarakhand Public Service Commission?",
+  "options": {
+    "A": "N. P. Navani",
+    "B": "S. K. Das",
+    "C": "Lt. Gen. G.S. Negi",
+    "D": "Lt. Gen. M. C. BhandarI"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "N.P. Navani was the first chairman of the Uttarakhand Public Service Commission."
+}

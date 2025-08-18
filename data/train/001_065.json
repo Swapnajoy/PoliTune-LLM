@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 65,
+  "type": "mcq_single",
+  "input": "Which article of the Constitution of India deals with the ‘Right to Constitutional Remedies’?",
+  "options": {
+    "A": "Article 19",
+    "B": "Article 14",
+    "C": "Article 21",
+    "D": "Article 32"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "(Article 32 of the Constitution of India deals with the ‘Right to Constitutional Remedies’. Remedies for enforcement of rights conferred by this Part). The constitution of India provides the right of freedom in article 19 – 22. Article 19 guarantees the ‘Freedom of speech’ and ‘expression’ as one of its six freedoms. Article 21 A states that the state shall provide free and compulsory education to all children of age 6 – 14 years. Article 14 provides ‘right to Equality’. Equality before law, abolition of untouchability ‘prohibition of discrimination on ground’ of religion, caste, sector, place of birth are the major aspects of Article 14."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 72,
+  "type": "mcq_single",
+  "input": "Under which article the president of India can be removed by the process of impeachment?",
+  "options": {
+    "A": "Article 79",
+    "B": "Article 76",
+    "C": "Article 57",
+    "D": "Article 61"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under Article 61 of the Constitution, the President of India can be impeached for the violation of the Constitution, which is solely to be decided by the Parliament. Article 57 is about eligibility for re-election. Article 76 deals with Attorney General of India. Article 79-122 deals with Parliament. Article 79 mentioned about ‘constitution of Parliament’."
+}

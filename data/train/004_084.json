@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 84,
+  "type": "mcq_single",
+  "input": "Chief Justice of High Court is appointed by –",
+  "options": {
+    "A": "President of India",
+    "B": "Governor of the State",
+    "C": "Chief Justice of the Supreme Court of India",
+    "D": "Prime Minister of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Chief Justice of High Court is appointed by the President of India with the consultation of the chief Justice of the Supreme Court and the Governor of the State."
+}

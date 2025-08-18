@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 143,
+  "type": "statements_correctness",
+  "input": "The Parliament of India exercises control over the functions of the Council of Ministers through. P. Adjournment motion Q. Question hour R. Supplementary questions Select the correct answer using the code given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

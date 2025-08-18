@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 73,
+  "type": "statements_correctness",
+  "input": "Which of the following statements is/are correct regarding writ of ‘prohibition’? P. It is an order issued by the Higher Court commanding Lower Court to cease from proceeding in some matters not within its jurisdiction. Q. This writ is available against a public officer even if he is not vested with judicial powers. Select the correct answer using the codes given below.",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Writ of prohibition is not available against a public officer not vested with judicial or quasi judicial powers."
+}

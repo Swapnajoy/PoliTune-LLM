@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 39,
+  "type": "mcq_single",
+  "input": "Which one the following statements is not correct?",
+  "options": {
+    "A": "The Constitutional Amendment Bill has to be passed by both houses of Parliament separately with special majority",
+    "B": "Constitutional cases in Supreme Court is heard by minimum five judges",
+    "C": "Freedom of press is included in the fundamental right - Freedom of speech and expression.",
+    "D": "Zakir Hussain was the first Vice President of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Dr. Zakir Hussain served as second Vice President of India. Dr. Sarvepalli Radhakrishnan was the first Vice President of India."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 212,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. When the Vice-President of India acts as the President of India, he performs simultaneously the functions of the Chairman of Rajya Sabha. Q. The President, of India can promulgate ordinances at any time except when both Houses of Parliament are in session. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

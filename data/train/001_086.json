@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 86,
+  "type": "mcq_single",
+  "input": "In which part of the Indian Constitution, legislative relation between centre and state is given?",
+  "options": {
+    "A": "X",
+    "B": "XI",
+    "C": "XII",
+    "D": "XIII"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "In part XI relations between the union and the states is mentioned. Part XIII deals with Trade and commerce within the territory of India. Part XII is about Finance, property, contracts and suits."
+}

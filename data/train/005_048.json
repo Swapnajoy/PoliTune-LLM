@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 48,
+  "type": "mcq_single",
+  "input": "Under which Prime Minister were the 73rd and 74th amendment implemented?",
+  "options": {
+    "A": "Narasimha Rao",
+    "B": "Indira Gandhi",
+    "C": "Rajiv Gandhi",
+    "D": "Atal Bihari Vajpayee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "73rd and 74th amendment implemented in 1993 under period of PV Narsimha Rao (1991-1996), 9th Prime minister of India."
+}

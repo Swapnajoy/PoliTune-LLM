@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 142,
+  "type": "mcq_single",
+  "input": "Who declare the Rajya Sabha adjourned sine die?",
+  "options": {
+    "A": "President of India",
+    "B": "Chairperson of the Rajya Sabha",
+    "C": "Speaker of the Lok sabha",
+    "D": "Union Cabinet"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Adjournment Sine die means “without assigning a day for a further meeting or hearing”. To adjourn an assembly sine die is to adjourn it for an indefinite period. A legislative body adjourns sine die when it adjourns without appointing a day on which to appear or assemble again."
+}

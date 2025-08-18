@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 159,
+  "type": "mcq_single",
+  "input": "Which part of our Constitution envisages a three tier system of Panchayat?",
+  "options": {
+    "A": "Part IX",
+    "B": "Part X",
+    "C": "Part XI",
+    "D": "Part XII"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Part IX of the constitution under article 243-C deals with Composition of Panchayats"
+}

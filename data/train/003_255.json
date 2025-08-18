@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 255,
+  "type": "statements_correctness",
+  "input": "Consider the following statements in the context of Indian Constitution : P. The Union Council of Ministers shall be collectively responsible to the Lok Sabha. Q. Union Ministers shall hold office during the pleasure of the Prime Minister. Of these :",
+  "options": {
+    "A": "Only P is correct",
+    "B": "Both P and Q are correct",
+    "C": "Neither P nor Q is correct",
+    "D": "Only Q is correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

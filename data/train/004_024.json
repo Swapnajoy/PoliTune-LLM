@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 24,
+  "type": "statements_correctness",
+  "input": "Which of the following are functions to which the scope of the discretionary powers of the Governor is limited ? P. The appointment of the Chief Minister Q. The dismissal of the Ministry R. The dissolution of the Legislative Assembly S. Assent to Bills Choose the correct answer from the codes given below :",
+  "options": {
+    "A": "P, Q and R",
+    "B": "P, Q, R and S",
+    "C": "P, R and S",
+    "D": "Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "State Governor has constitutional discretion in the following cases: (i) Recommendation for the imposition of the President’s Rule in the State; (ii) Appointing the Chief Minister when no party has acquired clear cut majority in the State Legislative Assembly and when the Chief Minister dies when in office. (iii) Dismissal of the Council of Ministers when they lose the confidence of the State Legislative Assembly."
+}

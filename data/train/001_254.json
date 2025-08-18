@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 254,
+  "type": "mcq_single",
+  "input": "Which of the following would be construed as a reasonable restriction of the right to freedom’?",
+  "options": {
+    "A": "When the state disallows a candidate from securing votes in the name of religion",
+    "B": "When the state disallows citizens from forming a club out of State funds that denies access to women",
+    "C": "When the Government of Nagaland disallows temporary residents to buy immovable property in Nagaland.",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

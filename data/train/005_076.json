@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 76,
+  "type": "mcq_single",
+  "input": "The members of Gram Sabha are",
+  "options": {
+    "A": "Sarpanch, Upsarpanch and all elected Panchas",
+    "B": "Sarpanch, Upsarpanch and Village level worker",
+    "C": "sarpanch, Gram Sevak and elected Panchas",
+    "D": "Registered voters of Village Panchayat"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The members of Gram Sabha includes Registered voters of Village Panchayat."
+}

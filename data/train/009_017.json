@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 17,
+  "type": "mcq_single",
+  "input": "The ‘Panchsheel Agreement’ for peaceful coexistence was signed between (CDS 2015-II)",
+  "options": {
+    "A": "India and Bhutan",
+    "B": "India and Nepal",
+    "C": "India and China",
+    "D": "India and Pakistan"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Panchsheel Agreement was signed between India and China (29 April 1954) on the following principles - I. Mutual respect for each other’s territorial integrity and sovereignty. II. Mutual non-aggression III. Mutual non-interference in each other’s internal affairs. IV. Equality and mutual benefit and V. Peaceful coexistance."
+}

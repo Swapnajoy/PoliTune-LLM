@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 328,
+  "type": "mcq_single",
+  "input": "The minimum number of judges who are to sit for the purpose of deciding any case involving any substantial question of law for the purpose of hearing any reference under Art 143 shall be",
+  "options": {
+    "A": "Five",
+    "B": "Seven",
+    "C": "Nine",
+    "D": "Eleven"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

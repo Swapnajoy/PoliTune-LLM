@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 29,
+  "type": "mcq_single",
+  "input": "Who is the highest civil servant of the Union Government?",
+  "options": {
+    "A": "Attorney General",
+    "B": "Cabinet Secretary",
+    "C": "Home Secretary",
+    "D": "Principal Secretary of the P.M."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Cabinet Secretary is the highest civil servant of the Union Government. The Cabinet Secretary is the senior-most civil servant in the Government of India. Cabinet Secretary has been less than 3 years. His or her tenure however, can be extended."
+}

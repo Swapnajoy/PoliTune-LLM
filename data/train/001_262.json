@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 262,
+  "type": "mcq_single",
+  "input": "Which one among the following is not guaranteed by the Constitution of India?",
+  "options": {
+    "A": "Freedom to move freely throughout the country",
+    "B": "Freedom to assemble peacefully without arms",
+    "C": "Freedom to own, acquire and dispose property anywhere in the country",
+    "D": "Freedom to practice any trade or profession"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Indian Constitution does not recognize property right as a fundamental right. In the year 1978, the 44th amendment eliminated the right to acquire, hold and dispose of property as a fundamental right."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 164,
+  "type": "mcq_single",
+  "input": "Eleventh schedule of the Constitution of India is related? UP-PCS 2015]",
+  "options": {
+    "A": "Panchayati Raj",
+    "B": "Muncipality",
+    "C": "Centre Sate relations",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Eleventh Schedule of the Indian Constitution is related to Powers, authority and responsibilities of Panchayats."
+}

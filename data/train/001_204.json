@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 204,
+  "type": "mcq_single",
+  "input": "The Constitution of India divided the states of India in categories A, B, C and D in the year 1950. In this context which of the following statements is correct ?",
+  "options": {
+    "A": "The Chief Commissioner was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Governor was the executive head of categories C and D states",
+    "B": "The Rajpramukh was the executive head of category A states. The Chief Commissioner was the executive head of categories B and C states. The Governor was the executive head of the category D states",
+    "C": "The Governor was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Chief Commissioner was the executive head of categories C and D states",
+    "D": "The Governor was the executive head of category A states. The Chief Commissioner was the executive head of category B states. The Rajpramukh was the executive head of categories C and D states Citizenship"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The constitution of 1950 distinguished between three main types of states: The Part A states were ruled by an elected governor and state legislature. The Part B states were governed by a rajpramukh. The Part C states were governed by a chief commissioner appointed by the President of India. The Part D states were administered by a lieutenant governor appointed by the central government."
+}

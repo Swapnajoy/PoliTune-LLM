@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 150,
+  "type": "mcq_single",
+  "input": "The Seventh Schedule of the Constitution of India contains",
+  "options": {
+    "A": "provisions regarding the administration of tribal areas",
+    "B": "the Union List, the State List and the Concurrent List",
+    "C": "a list of recognized languages",
+    "D": "provisions about the disqualification of Members of Legislatures on grounds of defection"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Seventh Schedule is given under Article 246 and includesThe union (central government) state, and concurrent lists of responsibilities."
+}

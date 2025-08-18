@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 12,
+  "type": "mcq_single",
+  "input": "Who of the following has stated that ‘The Constitution has not been set in a right mould of Federalism’?",
+  "options": {
+    "A": "D.D. Basu",
+    "B": "K.M. Munshi",
+    "C": "B.R. Ambedkar",
+    "D": "A.K. Iyer"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "A. K. Aiyer was the member of constituent assembly of India from Madras state."
+}

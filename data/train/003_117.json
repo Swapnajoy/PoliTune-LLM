@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 117,
+  "type": "mcq_single",
+  "input": "The Provision for the Calling Attention Notices has restricted the scope of which of the following?",
+  "options": {
+    "A": "Short duration discussion",
+    "B": "Question hour",
+    "C": "Adjournment motion",
+    "D": "Zero hour"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

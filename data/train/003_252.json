@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 252,
+  "type": "mcq_single",
+  "input": "In case a President dies while in office, the Vice - President can act as President for a maximum period of –",
+  "options": {
+    "A": "1 year",
+    "B": "3 months",
+    "C": "6 months",
+    "D": "2 years"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

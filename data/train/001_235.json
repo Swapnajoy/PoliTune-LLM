@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 235,
+  "type": "statements_correctness",
+  "input": "Which of the following are mentioned under separate Articles in Part III of the Consitution of India pertaining to Fundamental Rights? P. Abolition of untouchability Q. Abolition of titles R. Freedom as to payment of taxes for promotion of any particular religion S. Protection of interests of minorities Select the correct answer by using the codes given below:",
+  "options": {
+    "A": "P and Q",
+    "B": "Q, R and S",
+    "C": "R and S",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Abolition of Untouchability –Article 17 Abolition of titles- Article 18 Freedom as to payment of taxes for promotion of any particular religion -Article 27 Protection of interests of minorities.— Article 29"
+}

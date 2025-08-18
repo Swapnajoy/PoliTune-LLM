@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 189,
+  "type": "statements_correctness",
+  "input": "With reference to Union Government consider the following statements : P. The constitution of India provides that all cabinet ministers shall be compulsorily the sitting members of Lok Sabha only. Q. The Union cabinet secretariat operates under the direction of the ministry of Parliamentary Affairs. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

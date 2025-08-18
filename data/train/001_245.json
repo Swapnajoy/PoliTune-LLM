@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 245,
+  "type": "statements_correctness",
+  "input": "Which of the following is not correct regarding writ? P. The Supreme Court of India and High Court are empowered to issue writs under Article 32 and 226 of the constitution but parliament of India confers this power on any other court in addition to the Supreme Court and High Court. Q. The Supreme Court has wider jurisdiction to issue writs than the High Courts. R. The Supreme Court may refuse to exercise its writ jurisdiction while a high court may not refuse to exercise its writ jurisdiction correct code:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Q and R only",
+    "D": "P,Q and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

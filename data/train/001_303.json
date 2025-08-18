@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 303,
+  "type": "mcq_single",
+  "input": "In which of the following years the Fundamental Duties have been added to the existent Fundamental Rights in the Constitution of India?",
+  "options": {
+    "A": "1965",
+    "B": "1976",
+    "C": "1979",
+    "D": "1982"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Fundamental Duties were added to the Constitution by the 42nd Amendment in 1976 on the recommendations of the Swaran Singh Committee. They were Originally ten in number, but by the 86th Amendment in 2002 they were increased to eleven."
+}

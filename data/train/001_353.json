@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 353,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a feature of Indian federalism?",
+  "options": {
+    "A": "There is an independent judiciary in India.",
+    "B": "Powers have been clearly divided between the Centre and the States.",
+    "C": "The federating units have been given unequal representation in the Rajya Sabha.",
+    "D": "It is the result of an agreement among the federating units."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Indian federation is not the result of an agreement among the states unlike the American federation. So, “D” is not the feature of Indian federalism."
+}

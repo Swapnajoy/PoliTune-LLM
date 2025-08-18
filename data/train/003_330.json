@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 330,
+  "type": "statements_correctness",
+  "input": "Special leave petition power of the Supreme Court does not extend to the following judgements, decrees etc. P. interim order Q. Any court or tribunal constituted by or under any law relating to the Armed forces R. Criminal cases.",
+  "options": {
+    "A": "P and R only",
+    "B": "Q and R only",
+    "C": "R only",
+    "D": "Q only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 6,
+  "type": "mcq_single",
+  "input": "Proportional representation is NOT necessary in a country where?",
+  "options": {
+    "A": "There are no reserved constituencies.",
+    "B": "A two-party system has developed",
+    "C": "The first past-post system prevails",
+    "D": "There is a fusion of presidential and parlia-mentary form of government."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "In proportional representation, a candidate requires 50% + 1 vote to get elected. In a bi-party system, one automatically secures it. Proportional representation (PR) is a concept in voting systems used to elect an assembly or council. PR means that the number of seats won by a party or group of candidates is proportionate to the number of votes received."
+}

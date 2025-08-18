@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 64,
+  "type": "mcq_single",
+  "input": "One High Court may have jurisdiction over two or more states if the following so decides",
+  "options": {
+    "A": "President of India",
+    "B": "Parliament",
+    "C": "Supreme Court",
+    "D": "The states involved"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Jurisdiction over two or more states."
+}

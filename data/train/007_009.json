@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 9,
+  "type": "statements_correctness",
+  "input": "The electronic voting machines are developed jointly with (CDS 2015-II) P. Bharat Heavy Electricals Limited Q. Bharat Electronics Limited R. Electronics Corporation of India Limited S. Bharat Sanchar Nigam Limited Select the correct answer using the code given below.",
+  "options": {
+    "A": "P, Q and R",
+    "B": "Q and R only",
+    "C": "Q and S",
+    "D": "R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Bharat Electronics Limited (BEL) and Electronics Corporation of India Limited both jointly developed EVM (Electronic voting Machine). It was implemented partly in 1999 election and totally in 2004 election."
+}

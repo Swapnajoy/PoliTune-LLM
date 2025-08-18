@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 307,
+  "type": "mcq_single",
+  "input": "Which one among the following is a Fundamental Duties of citizens under the Constitution of India?",
+  "options": {
+    "A": "To provide friendly co-operation to the people of the neighbouring countries",
+    "B": "To protect monuments of national importance",
+    "C": "To defend the country and render national service when called upon to do so",
+    "D": "To know more and more about the history of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Forty Second Constitution Amendment Act, 1976 has incorporated ten Fundamental Duties in Article 51(a) of the constitution of India. The 86th Constitution Amendment Act 2002 has added one more Fundamental Duty in Article 51(a) of the constitution of India. As a result, there are now 11 Fundamental Duties of the citizen of India."
+}

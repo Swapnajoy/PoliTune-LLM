@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 56,
+  "type": "statements_correctness",
+  "input": "Which of the following features is/are contrary to the norms of a federal polity? P. Common All India Service Q. Single integrated judiciary Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "India is a Quasi-Federal country because the Constitution of India is federal in nature but unitary in spirit. It has common features of a federation such as written Constitution, supremacy of Constitution, rigidity of Constitution, two governments, division of powers, bicameralism as well as unitary features like single Constitution, integrated judiciary and All-India Services etc."
+}

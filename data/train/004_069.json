@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 69,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding the High Courts in India: P. There are eighteen High Courts in the Country. Q. Three of them have jurisdiction over more than one state. R. No Union territory has a High Court of its own. S. Judges of the High court hold office till the age of 62.",
+  "options": {
+    "A": "P, Q and S",
+    "B": "Q and S",
+    "C": "P and S",
+    "D": "S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Centre has constituted three new High Courts in the northeast — Meghalaya, Manipur and Tripura — taking the total number of High Courts in the country from 21 to 24. The Constitution allows every judge of a High Court including additional and acting judges to hold office till 62 years. The Constitution (114th Amendment) Bill, 2010 increases the age limit to 65 years."
+}

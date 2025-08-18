@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 62,
+  "type": "statements_correctness",
+  "input": "‘Right to Equality’ finds a place in the Constitution under P. Art. 13 Q. Art. 14 R. Art. 15 S. Art. 16 Select the correct answer from the codes given below : Codes:",
+  "options": {
+    "A": "P and Q",
+    "B": "P, Q and R",
+    "C": "Q, R and S",
+    "D": "All the four"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Provisions relating right to equality are contained in Article 14, 15, 16 and 17 of the Indian Constitution."
+}

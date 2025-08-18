@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 292,
+  "type": "statements_correctness",
+  "input": "Which of the following are included in the Directive Principles of State Policy in the Constitution of India? P. Uniform civil code for the citizens Q. Separation of judiciary from executive R. Protection of monuments of national importance Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "P and R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Protection of monuments of national importance is not included in the Directive Principle of State Policy."
+}

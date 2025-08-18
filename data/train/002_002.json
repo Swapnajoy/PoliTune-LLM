@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 2,
+  "type": "mcq_single",
+  "input": "Which one among the following commissions was set up in pursuance of a definite provision under an Article of the Constitution of India?",
+  "options": {
+    "A": "University Grants Commission",
+    "B": "National Human Rights Commission",
+    "C": "Election Commission",
+    "D": "Central Vigilance Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "University Grants commission, N.H.R.C. and C.V.C are non-constitutional bodies, whereas election commission is a constitutional body under Article 324."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 50,
+  "type": "mcq_single",
+  "input": "The members of the Lok Sabha from the Union Territories of India are:",
+  "options": {
+    "A": "Nominated by the President",
+    "B": "Elected by the members of local bodies of the Union Territories.",
+    "C": "Chosen by direct election",
+    "D": "Chosen by direct election in Puducherry whereas nominated by the president in other territories."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "All the members of the Lok Sabha have chosen by direct election except two members may be nominated by the President from Anglo-Indian Community."
+}

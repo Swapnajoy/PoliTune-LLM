@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 17,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : The Comptroller and Auditor-General of India has to: P. Audit government expenditure Q. Make financial policy R. Sanction grants to various departments S. See that public expenditure are in conformity with the government rules Of these statements :",
+  "options": {
+    "A": "Q, R and S are correct",
+    "B": "P and R are correct",
+    "C": "Q and R are correct",
+    "D": "P and S are correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The work of CAG does not include making of financial policy and sanctioning grants to various departments."
+}

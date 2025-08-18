@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 41,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. The Chairman and the Members of the UPSC are appointed by the President. Q. The Chairman and the Members of the UPSC are eligible for further employment under the Government. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "According to Article 316(a) of the Indian Constitution, the chairman and the members of the UPSC are appointed by the president. Under Article 316(c) a person who holds office as a member of a Public Service Commission shall, on the expiration of his term of office, be ineligible for re- appointment to that office."
+}

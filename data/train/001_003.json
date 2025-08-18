@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 3,
+  "type": "mcq_single",
+  "input": "The permanent president of Constituent Assembly was",
+  "options": {
+    "A": "Dr. Ambedkar",
+    "B": "Dr. Rajendra Prasad",
+    "C": "K.M. munshi",
+    "D": "J.L. Nehru"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The permanent President of Constituent Assembly was Dr. Rajendra Prasad."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 313,
+  "type": "mcq_single",
+  "input": "The Supreme Courts of India enjoys",
+  "options": {
+    "A": "original jurisdiction",
+    "B": "original, appellate and advisory jurisdiction",
+    "C": "Advisory jurisdiction",
+    "D": "Appellate and advisory jurisdiction"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

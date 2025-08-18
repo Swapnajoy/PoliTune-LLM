@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 44,
+  "type": "statements_correctness",
+  "input": "Which of the following are the correct matching of the countries and the borrowed features of the Indian constitution from them? P. UK - Bicameral Parliament Q. USSR - Independence of Judiciary and judicial review R. Australia - Five year Plan S. US - Language of the preamble T. Japan - Law on which the Supreme Court function U. Ireland - Method of election of President",
+  "options": {
+    "A": "P, R and T",
+    "B": "P, Q, R and S",
+    "C": "P, T and U",
+    "D": "Q, R, T and U"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "UK — Nominal Head – President (like Queen); Cabinet System of Ministers; Post of PM; Parliamentary Type of Govt.; Bicameral Parliament; Lower House more powerful; Council of Ministers responsible to Lower House; Speaker in Lok Sabha US — Independence of Judiciary and judicial review; Written Constitution; Executive head of state known as President and his being the Supreme Commander of the Armed Forces; Vice- President as the ex-officio Chairman of Rajya Sabha; Fundamental Rights; Supreme Court; Provision of States; Preamble; Removal of Supreme court and High court Judges USSR — Five year Plan; Fundamental Duties Australia — Concurrent list; Language of the preamble; Provision regarding trade, commerce and intercourse Japan — Law on which the Supreme Court function Ireland — Method of election of President; Concept of Directive Principles of States Policy(Ireland borrowed it from SPAIN); Nomination of members in the Rajya Sabha by the President"
+}

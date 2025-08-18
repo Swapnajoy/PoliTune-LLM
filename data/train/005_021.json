@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 21,
+  "type": "mcq_single",
+  "input": "Provision regarding panchayats and municipalities was made in the Indian Constitution in which year?",
+  "options": {
+    "A": "1991",
+    "B": "1992",
+    "C": "1995",
+    "D": "2000"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Constitution (73rd Amendment) Act, 1992 relating to Panchayats containing articles 243 to 243-O and the Constitution (74th Amendment) Act, 1992 relating to Municipalities (articles 243P to 243ZG) imparted some basic features of certainty, continuity and strength to Panchayat Raj institutions all over the country."
+}

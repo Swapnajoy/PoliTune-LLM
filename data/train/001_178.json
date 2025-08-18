@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 178,
+  "type": "mcq_single",
+  "input": "Which one of the following Articles provides reservation of seats for the Scheduled Castes and Scheduled Tribes in the Panchayats?",
+  "options": {
+    "A": "Article 243 (d)",
+    "B": "Article 243 (c)",
+    "C": "Article 243 (b)",
+    "D": "Article 243 (a)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 243 (d) provides reservation of seats for the scheduled castes and scheduled Tribes in the panchayats."
+}

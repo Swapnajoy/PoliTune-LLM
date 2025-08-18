@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 13,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The Election Commission of India is a five-member body. Q. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and by-elections. R. Election Commission resolves the disputes relating to splits/mergers of recognized political parties. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q only",
+    "C": "Q and R only",
+    "D": "R only Comptroller & Auditor General(CAG)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Election Commission has three election Commissioners. So first statement is wrong. Election Commission decides the election schedule for the conduct of both general elections and bye-elections. So second statement is wrong.It also decides the disputes relating to splits/mergers of recognized political parties. So third statement is right. Hence answer “D” only 3."
+}

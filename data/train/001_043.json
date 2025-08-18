@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 43,
+  "type": "mcq_single",
+  "input": "The federal system of India was inspired by the Constitution of the following?",
+  "options": {
+    "A": "Canada",
+    "B": "United Kingdom",
+    "C": "U.S.A.",
+    "D": "Ireland"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Federal system - Canada"
+}

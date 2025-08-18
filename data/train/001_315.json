@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 315,
+  "type": "mcq_single",
+  "input": "The first proclamation of Emergency under article 352 was made by the President in",
+  "options": {
+    "A": "1975",
+    "B": "1971",
+    "C": "1965",
+    "D": "1962"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "First proclamation of emergency under article 352 (national emergency) was declared in India in 1962 (Indo-China War) 1971, (Indo-Pak War), 1975 (by Indira Gandhi) were made under article 352."
+}

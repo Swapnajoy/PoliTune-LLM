@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 146,
+  "type": "mcq_single",
+  "input": "The Sixth Schedule of the Indian Constitution contains provisions for the administration of Tribal areas. Which of the following States is not covered under this Schedule ?",
+  "options": {
+    "A": "Assam",
+    "B": "Manipur",
+    "C": "Meghalaya",
+    "D": "Tripura"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Tribal areas generally mean areas having preponderance of tribal population. However, the Constitution of India refers tribal areas within the States of Assam, Meghalaya, Tripura & Mizoram, as those areas specified in Parts I, II, IIA & III of the table appended to paragraph 20 of the Sixth Schedule."
+}

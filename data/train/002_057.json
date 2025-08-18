@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 57,
+  "type": "mcq_single",
+  "input": "Financial distribution between the Union and the State takes place on the basis of the recommendations of which one of the following?",
+  "options": {
+    "A": "The National Development Council",
+    "B": "The Inter-State Council",
+    "C": "The Planning Commission",
+    "D": "The Finance Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The Finance Commission is constituted by the President under article 280 of the Constitution, mainly to give its recommendations on distribution of tax revenues between the Union and the States and amongst the States themselves."
+}

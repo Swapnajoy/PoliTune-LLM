@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 39,
+  "type": "mcq_single",
+  "input": "In which year, Ashok Mehta Committee was appointed to review the working of Panchayati Raj institution?",
+  "options": {
+    "A": "1977",
+    "B": "1978",
+    "C": "1979",
+    "D": "1980"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "In December 1977, the Janata Government appointed a committee on Panchayati Raj institutions under the chairmanship of Ashoka Mehta."
+}

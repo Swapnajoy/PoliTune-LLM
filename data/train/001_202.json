@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 202,
+  "type": "statements_correctness",
+  "input": "Consider the following statements with reference to the linguistic reorganisation of states in independent India: P. The separate state of Andhra for the Telugu people came into existence in 1953. Q. Jawaharlal Nehru was particularly in favour of the movement for linguistic reorganisation of states that came in the wake of the success of the Andhra movement. Which one of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "another linguistic Provinces committee consisted of Jawahar Lal Nehru, Sardar Vallahbhai Patel and Pattabhi Sitaramayya, submitted its report in April 1949 and formally rejected language as the basis for reorganization of states."
+}

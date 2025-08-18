@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 15,
+  "type": "mcq_single",
+  "input": "Who amongst the following is not entitled to take part in the activities of Lok Sabha?",
+  "options": {
+    "A": "The Comptroller and Auditor General of India",
+    "B": "The Attorney General of India",
+    "C": "The Solicitor General",
+    "D": "The Secretary to President of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The secretary to the president of India is not entitled to take part in the activities of Lok Sabha. Other can take part."
+}

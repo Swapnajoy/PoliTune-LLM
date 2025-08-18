@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 73,
+  "type": "statements_correctness",
+  "input": "Consider the following statements relating to the procedure of the election of the Speaker and the Deputy Speaker of the Lok Sabha: P. The election of a Speaker shall be held on such date as the Prime Minister may fix and the Secretary General shall send to every member notice of this date. Q. The election of a Deputy Speaker shall be held on such date as the Speaker may fix and the Secretary General shall send to every member notice of this date. Which of the statement(s) given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Usually, a member belonging to the ruling party is elected the Speaker. A healthy convention, however, has evolved over the years whereby the ruling party nominates its candidate after informal consultations with the Leaders of other Parties and Groups in the House. This convention ensures that once elected, the Speaker enjoys the respect of all sections of the House. Once a decision on the candidate is taken, her name is normally proposed by the Prime Minister or the Minister of Parliamentary Affairs. If more than one notice is received, these are entered in the order of receipt. The Speaker pro term presides over the sitting in which the Speaker is elected, if it is a newly constituted House. If the election falls later in the life of a Lok Sabha the Deputy Speaker presides. The election of a Deputy Speaker shall be held on such date as the Speaker may fix, and the Secretary-General shall send to every member notice of this date."
+}

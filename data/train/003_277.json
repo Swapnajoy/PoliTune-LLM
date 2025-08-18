@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 277,
+  "type": "mcq_single",
+  "input": "What makes the judiciary the guardian of the constitution?",
+  "options": {
+    "A": "Independence",
+    "B": "Service conditions",
+    "C": "Salary",
+    "D": "Judicial Review"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 245,
+  "type": "mcq_single",
+  "input": "Which of the following are true of presidential system of government?",
+  "options": {
+    "A": "(a), (b) and (c)",
+    "B": "(a), (b), (c), and (d)",
+    "C": "(a), (b), and (d)",
+    "D": "(a), (c), and (d)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

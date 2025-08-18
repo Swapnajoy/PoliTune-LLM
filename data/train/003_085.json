@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 85,
+  "type": "mcq_single",
+  "input": "After the general elections, the Protem Speaker is (CDS 2015-II)",
+  "options": {
+    "A": "elected by the Lok Sabha",
+    "B": "appointed by the President of India",
+    "C": "appointed by the Chief Justice of the Supreme Court",
+    "D": "the senior most member of the Lok Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "After the general election and newly formed government, the legislative section prepares a list of senior Lok Sabha member (MPs), This list is submitted to the minister of parliamentary affairs through this process a pro tem Speaker is seleced and is approved by the President."
+}

@@ -1,0 +1,15 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 127,
+  "type": "mcq_single",
+  "input": "Which one of the following is the correct breakup of the composition of Lok Sabha Constituencies?",
+  "options": {
+    "A": "(b) (c) (d) Total Constituencies 545 543 543 545 General Constituencies 423 423 425 427 Schedule Caste 80 79 78 79 Constituencies Constituencies 42 41 40 39"
+  },
+  "choices": [
+    "A"
+  ],
+  "answer": "B",
+  "explanation": "Lok Sabha Constituencies Total Constituencies 543 General Constituencies 423 Schedule Caste 79 Constituencies Constituencies 41"
+}

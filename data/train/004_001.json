@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 1,
+  "type": "mcq_single",
+  "input": "As per the Constitution of India, what is the limit prescribed for the number of members in the Legislative Assembly of a State?",
+  "options": {
+    "A": "350 members",
+    "B": "400 members",
+    "C": "450 members",
+    "D": "500 members"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The number of members ranges between 60 and 500."
+}

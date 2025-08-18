@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 257,
+  "type": "mcq_single",
+  "input": "Consider the following facts about the election of President of India. I. All elected MPs of both the houses and MLAs of legislative assemblies, including Delhi and Puducherry are part of electoral college of the President. II. Unlike in voting by elected representatives in Legislative Assemblies and Parliament, Party whips cannot be issued in voting for presidential elections. Which of the above statements is correct?",
+  "options": {
+    "A": "Only I",
+    "B": "Only II",
+    "C": "Both I and II",
+    "D": "Neither I nor II"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 256,
+  "type": "mcq_single",
+  "input": "Which one of the following is a human right as well as a Fundamental Rights under the Constitution of India?",
+  "options": {
+    "A": "Right to Information",
+    "B": "Right to Education",
+    "C": "Right to Work",
+    "D": "Right to Housing"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Constitution (86th Amendment) Act, 2002 inserted Article 21-A in the Constitution of India to provide free and compulsory education of all children in the age group of six to fourteen years as a Fundamental Right. This is recognized in the International Covenant on Economic, Social and Cultural Rights as a human right that includes the right to free, compulsory primary education for all."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 319,
+  "type": "mcq_single",
+  "input": "Which is not a correct statement? The Supreme Court:",
+  "options": {
+    "A": "is a watch-dog of citizen’s liberty",
+    "B": "settles electoral disputes of the President and Vice-President of India",
+    "C": "interprets the Constitution",
+    "D": "protects the Directive Principles of State Policy"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

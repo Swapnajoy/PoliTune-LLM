@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 4,
+  "type": "mcq_single",
+  "input": "When was the Panchayati Raj System introduced in India?",
+  "options": {
+    "A": "1945",
+    "B": "1950",
+    "C": "1959",
+    "D": "1962"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "In 1959 the Panchayati Raj system was introduced in India. The Balwant Rai Mehta Committee was appointed by the Government of India in January 1957 to examine the working of the Community Development Programme (1952) and the National Extension Service (1953) and to suggest measures for their better working."
+}

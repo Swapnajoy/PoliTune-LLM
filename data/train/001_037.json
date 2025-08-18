@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 37,
+  "type": "mcq_single",
+  "input": "Which of the following is not a feature of the Indian Constitution ?",
+  "options": {
+    "A": "Written constitution",
+    "B": "Federalism",
+    "C": "Sovereignty of Parliament",
+    "D": "Judicial Review"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Sovereignty of Parliament is not a feature of Indian constitution. Judicial review refers to the power of the judiciary to interpret the constitution and law or order of the legislature and executive void."
+}

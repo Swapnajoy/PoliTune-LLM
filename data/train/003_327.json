@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 327,
+  "type": "mcq_single",
+  "input": "In the following cases, the Supreme Court has no adjudicatory jurisdiction to change the award",
+  "options": {
+    "A": "Inter state river water disputes",
+    "B": "Delimitation of constitution",
+    "C": "Both (a) and (b)",
+    "D": "Neither (a) nor (b)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

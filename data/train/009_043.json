@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 43,
+  "type": "mcq_single",
+  "input": "Which of the following statement/s about the Right to negative vote is / are correct? Select the correct answer from the codes given below : I. The Election Commission of India wanted that ‘None of the above’ button on Electronic voting machine should be offered to voters. II. The public interest litigation, in the Supreme Court for NOTA option was filed by the Association for Democratic Reforms. III. Elections in a constituency will be held again if NOTA gets the highest votes. IV. The candidate with highest number of votes will be declared elected even if she/ he receives less than the NOTA votes. Codes :",
+  "options": {
+    "A": "Only I and II are correct",
+    "B": "Only II and III are correct",
+    "C": "Only III and IV are correct",
+    "D": "Only I and IV are correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The public Interest Litigation (PIL) for granting NOTA was filed in supreme Court by the People’s Union for Civil Liberties. The supreme Court Judgement was delivered on 27 September, 2013. The NOTA option is not at present effectively implemented in Indian elections as it does affect the outcome of elections."
+}

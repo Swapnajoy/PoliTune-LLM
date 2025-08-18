@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 3,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a Panchayati Raj institution?",
+  "options": {
+    "A": "Gram Sabha",
+    "B": "Gram Panchayat",
+    "C": "Nyaya Panchayat",
+    "D": "Gram Co-operative Society"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Panchayati Raj Institutions include Gram Sabha, Gram Panchayat, Nyaya Panchayat, Panchayat Samiti and Zila Parishad. Gram Co-operative society is not a PRI."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 11,
+  "type": "mcq_single",
+  "input": "The proposal for framing of the Constitution of India by an elected Constituent Assembly was made by",
+  "options": {
+    "A": "Simon Commissions",
+    "B": "Government of India Act, 1935",
+    "C": "Cripps Mission",
+    "D": "British cabinet Delegation"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The proposal for framing of the constitution of India by an elected constituent assembly was made by British cabinet delegation."
+}

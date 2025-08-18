@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 49,
+  "type": "mcq_single",
+  "input": "Vote on Account is meant for –",
+  "options": {
+    "A": "Vote on the report of CAG",
+    "B": "To meet unforeseen expenditure",
+    "C": "Appropriating funds pending due to passing of budget",
+    "D": "Budget (e) None of the above/ More than one of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Vote on Account is the Special Provision given to the government to obtain the vote of Parliament to withdraw Money when the budget for the new financial year is not released or the elections are underway."
+}

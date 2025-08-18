@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 36,
+  "type": "statements_correctness",
+  "input": "The Governor of a State can act independent of the advice of the Council of Ministers in P. asking the government to prove its majority in the Assembly. Q. dismissing a Chief Minister R. reserving a bill for the consideration of the President of India. S. returning the bill passed by the legislature for reconsideration T. seeking the opinion of the High Court. Select the correct answer from the codes given below : Codes :",
+  "options": {
+    "A": "P, Q, R and S",
+    "B": "Q, R, S and T",
+    "C": "P, Q, S and T",
+    "D": "All the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

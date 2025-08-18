@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 47,
+  "type": "mcq_single",
+  "input": "Which one of the following authorities recommends the principles governing the grants-in-aid of the revenues to the states out of the consolidated fund of India?",
+  "options": {
+    "A": "Finance Commission",
+    "B": "Inter-State-Council",
+    "C": "Union Ministry of Finance",
+    "D": "Public Accounts Committee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Finance commission recommends the president on the principle that should govern the grants-in-aid to the states by the centre."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 50,
+  "type": "mcq_single",
+  "input": "Which one of the following expenditure is not charged on the consolidated fund of India?",
+  "options": {
+    "A": "Salary and allowances of the President of India",
+    "B": "Salary and allowances of the Vice President of India",
+    "C": "Salary and allowances of the Justice of the Supreme Court of India",
+    "D": "Salary and allowances of the speaker of the Lok Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Salary and allowances of the speakers of the Lok Sabha is not charged on the consolidated fund of India."
+}

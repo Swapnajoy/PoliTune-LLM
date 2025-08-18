@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 104,
+  "type": "mcq_single",
+  "input": "Which one of the following articles of the Indian Constitution provides for All India Services ?",
+  "options": {
+    "A": "Article 310",
+    "B": "Article 311",
+    "C": "Article 312",
+    "D": "Article 314"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 312 of the Indian Constitution provides for All India Services. The services known at the commencement of this Constitution as the Indian Administrative Service and the Indian Police Service shall be deemed to be services created by Parliament under this article. Article 310 - Tenure of office of persons serving the union or a state Article 314 - Provision for protection of existing officers of certain services. Article 311 - Dismissal, removal or reduction in rank of persons employed in civil capacities under the union or a state."
+}

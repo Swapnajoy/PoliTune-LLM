@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 46,
+  "type": "mcq_single",
+  "input": "The modern state system with its territorial sovereignty came into existence first in Europe in the wake of the :",
+  "options": {
+    "A": "Treaty of Versailles",
+    "B": "Congress of Vienna",
+    "C": "Treaty of Westphalia",
+    "D": "Congress of Berlin"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The peace treaties of West phalia were signed in 1648, which led to the emergence of modern state system in international relations."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 91,
+  "type": "mcq_single",
+  "input": "Identify the correct sequence of passing a Budget in the Parliament",
+  "options": {
+    "A": "Vote on Account, Finance Bill, Appropriation Bill Discussion on Budget",
+    "B": "Finance Bill, Appropriation Bill, Discussion on Budget, Vote on Accounts",
+    "C": "Discussion on Budget, Vote on Account, Finance Bill, Appropriation Bill",
+    "D": "Discussion on Budget, Appropriation Bill, Finance Bill, Vote on Account"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The correct sequence is, Discussion on Budget, Appropriation Bill, Finance Bill, Vote on Account."
+}

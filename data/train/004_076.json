@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 76,
+  "type": "mcq_single",
+  "input": "The Bombay High Court does not have a bench at which one of the following places?",
+  "options": {
+    "A": "Nagpur",
+    "B": "Panaji",
+    "C": "Pune",
+    "D": "Aurangabad"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Bombay High Court has benches in Nagpur, Aurangabad and Panaji."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 267,
+  "type": "mcq_single",
+  "input": "The guardian of fundamental rights is",
+  "options": {
+    "A": "Judiciary",
+    "B": "Executive",
+    "C": "Parliament",
+    "D": "None of above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

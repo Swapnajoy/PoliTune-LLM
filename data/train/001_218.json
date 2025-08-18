@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 218,
+  "type": "mcq_single",
+  "input": "What is the main difference between Fundamental Rights and the Directive Principles of state policy?",
+  "options": {
+    "A": "Constitutional Protection",
+    "B": "Political Protection",
+    "C": "Judicial Protection",
+    "D": "Moral Protection"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Fundamental rights are enforceable rights which means on violation of these rights you can move to court of law but directive principles are not enforceable which means on violation of these you can’t move to court law."
+}

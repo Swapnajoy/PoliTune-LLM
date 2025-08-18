@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 7,
+  "type": "mcq_single",
+  "input": "The Chief Election Commissioner of India holds office for a period of",
+  "options": {
+    "A": "six years",
+    "B": "during the pleasure of the President",
+    "C": "for 6 years or till the age of 65 years, whichever is earlier",
+    "D": "for 5 years or till the age of 60 years, whichever is earlier"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The Chief Election Commissioner holds office for a term of six years or until they attain the age of 65 years, whichever is earlier."
+}

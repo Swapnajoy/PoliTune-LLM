@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 312,
+  "type": "mcq_single",
+  "input": "Consider the following statements:",
+  "options": {
+    "A": "1 only",
+    "B": "2 only",
+    "C": "Both 1 and 2",
+    "D": "Neither 1 nor 2"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

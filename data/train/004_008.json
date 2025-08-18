@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 8,
+  "type": "mcq_single",
+  "input": "Who among the following recommends to the Parliament for the abolition of the Legislative Council in a State?",
+  "options": {
+    "A": "The President of India",
+    "B": "The Governor of the concerned State",
+    "C": "The Legislative Council of the concerned State",
+    "D": "The Legislative Assembly of the concerned State"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The legislative assembly of the concerned state recommends to the parliament for the abolition of the legislative council in a state (Article 169)."
+}

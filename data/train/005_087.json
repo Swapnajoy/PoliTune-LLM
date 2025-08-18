@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 87,
+  "type": "statements_correctness",
+  "input": "Reducing water consumption and improvising water efficiency in building is a major step towards sustainable water management. How do we reduce our water footprint? P. Conventional faucet should be replaced by modern taps. Q. We should use top-loading washing machines in place of front loading washing machines. R. Single-flush toilets should be replaced by dual-flush toilets. Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

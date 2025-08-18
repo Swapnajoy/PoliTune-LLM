@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 38,
+  "type": "mcq_single",
+  "input": "Who was the Speaker of the First Elected Legislative Assembly of Uttarakhand?",
+  "options": {
+    "A": "Prakash Pant",
+    "B": "Harbansh Kapur",
+    "C": "Govind Singh Kunjwal",
+    "D": "Yashpal Arya"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Yashpal Arya was the speaker of the First Elected Legislative Assembly of Uttrakhand."
+}

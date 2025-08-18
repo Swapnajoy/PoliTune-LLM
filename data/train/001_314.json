@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 314,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: With reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon P. legislative function. Q. executive function. Which of the above statements is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q Emergency Provisions"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The phrase ‘Directive Principles of State Policy’ denotes the ideals that the State should keep in mind while formulating policies and enacting laws. These are the constitutional instructions or recommendations to the State in legislative, executive and administrative matters. Noted constitutional author Granville Austin considers DPSP as “positive obligations” of the state.So, all of above points that answer “D” neither 1 nor 2."
+}

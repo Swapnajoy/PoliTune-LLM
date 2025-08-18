@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 186,
+  "type": "mcq_single",
+  "input": "Which one of the following liberties is not embodied in the Preamble to the Constitution of India?",
+  "options": {
+    "A": "Liberty of thought",
+    "B": "Liberty of expression",
+    "C": "Liberty of belief",
+    "D": "Economic liberty"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Economic liberty is not embodied in the Preamble to the constitution of India."
+}

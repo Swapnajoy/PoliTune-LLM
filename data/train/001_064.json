@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 64,
+  "type": "mcq_single",
+  "input": "Which article of the Indian Constitution provides for uniform civil code for the citizens?",
+  "options": {
+    "A": "Article 42",
+    "B": "Article 44",
+    "C": "Article 46",
+    "D": "Article 48"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "(Article 44 of the Indian Constitution provides for uniform civil code for the citizens). A uniform civil code administers the same set of secular civil laws to govern all people irrespective of their religion, caste and tribe. Uniform civil code is the proposal to replace the personal laws of each major religious community in India. 46th amendment, amending articles 269, 286, 366 to agate judicial pronouncements on scope and applicability on sales Tax. 48th amendment amending article 356 of president rule. It permits President’s rule up to two years in the state of Punjab."
+}

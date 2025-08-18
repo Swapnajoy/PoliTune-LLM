@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 26,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: Under Article 200 of the Constitution of India, the Governor may: P. Withhold his assent to a Bill passed by the State Legislature. Q. Reserve the Bill passed by the State Legislature for the consideration of the President. R. Return a Bill, other than a Money Bill, for reconsideration of the legislature. Which of the statements given above are correct?",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and R",
+    "C": "P and R",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under Article 200 of the constitution of India, the Governor may withhold his assent to a Bill passed by the State Legislature, reserve the Bill passed by the State Legislature for consideration of the President and return a Bill, for reconsideration of the Legislature."
+}

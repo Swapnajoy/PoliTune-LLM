@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 31,
+  "type": "mcq_single",
+  "input": "Who among the following was not a member of the Drafting committee of the Constitution of India?",
+  "options": {
+    "A": "B. R. Ambedkar",
+    "B": "K. M. Munshi",
+    "C": "M. K. Gandhi",
+    "D": "Krishnaswamy Iyer Basic Features of Constitution & Sources"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "M.K. Gandhi was not a member of the Drafting committee of the constitution of India."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 174,
+  "type": "mcq_single",
+  "input": "Who among the following Indian Prime Ministers resigned before facing a vote of no-confidence in the Lok Sabha?",
+  "options": {
+    "A": "Chandra Shekhar",
+    "B": "Morarji Desai",
+    "C": "Chaudhary Charan Singh",
+    "D": "V.P. Singh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

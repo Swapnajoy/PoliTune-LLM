@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 64,
+  "type": "statements_correctness",
+  "input": "Consider the following statements regarding law commission of India: P. Recently, the 20th law commission was constituted under the chairmanship of D.K. Jain Q. The commission is constituted for a period of five years R. Codification of the penal code, and the Criminal Procedure Code were recommended by the law commission constituted under charter Act of 1833. Which of the statements given above are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and S only",
+    "C": "P and R only",
+    "D": "P,R and S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The law commission of India is constituted for the period of three years. It is a statutory body."
+}

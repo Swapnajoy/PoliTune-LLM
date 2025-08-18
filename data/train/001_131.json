@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 131,
+  "type": "mcq_single",
+  "input": "The entry “Public health and Sanitation” is included in the Constitution of India in",
+  "options": {
+    "A": "Union List",
+    "B": "State List",
+    "C": "Concurrent List",
+    "D": "None of these"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The entry “public health and sanitation” is included in the state list of the constitution of India. The legislative section is divided into three lists - Union list, State list and Concurrent list."
+}

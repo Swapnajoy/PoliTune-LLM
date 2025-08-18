@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 264,
+  "type": "mcq_single",
+  "input": "Which one among the following writs literally means you many have the body?",
+  "options": {
+    "A": "Certiorari",
+    "B": "Habeas Corpus",
+    "C": "Mandamus",
+    "D": "Quo Warranto"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Habeas corpus writs literally means you should have the body. It is writ that a person may seek from a court to obtain immediate release from an unlawful confinement."
+}

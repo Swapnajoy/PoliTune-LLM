@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 175,
+  "type": "mcq_single",
+  "input": "The Union Executive of India consists of:",
+  "options": {
+    "A": "The President; Vice-President, Lok Sabha Speaker and the Council of Ministers",
+    "B": "The President, Deputy Chairman of the Rajya Sabha, Lok Sabha Speaker and the Prime Minister",
+    "C": "The President and the Council of Ministers only",
+    "D": "The President, Vice-President and the Council of Ministers only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

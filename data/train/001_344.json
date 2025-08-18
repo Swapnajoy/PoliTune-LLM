@@ -1,0 +1,19 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 344,
+  "type": "mcq_single",
+  "input": "With respect to Article 371 A of the Constitution of India, the Governor of which one of the following States has special responsibility with respect to law and order of the State?",
+  "options": {
+    "A": "Asom",
+    "B": "Manipur",
+    "C": "Nagaland (d) andhra Pradesh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C"
+  ],
+  "answer": "C",
+  "explanation": "Article 371A deals with theSpecial provision with respect to the State of Nagaland."
+}

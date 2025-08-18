@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 353,
+  "type": "mcq_single",
+  "input": "Which of the following statements about Indian Judiciary is not correct ?",
+  "options": {
+    "A": "The Constitution of India has not provided for double system of courts as in the United States",
+    "B": "The organization of the subordinate judiciary in India varies slightly from State to State",
+    "C": "Every State in India has separate High Court",
+    "D": "The Supreme Court has issued direction to constitute an All India Judicial Service to bring about uniformity in designation of officers in criminal and civil side"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

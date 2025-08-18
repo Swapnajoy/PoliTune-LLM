@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 222,
+  "type": "mcq_single",
+  "input": "Who among the following was elected President of India unopposed?",
+  "options": {
+    "A": "Dr Rajendra Prasad",
+    "B": "Dr S Radhakrishnan",
+    "C": "Dr Neelam Sanjeeva Reddy",
+    "D": "K R Narayanan"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

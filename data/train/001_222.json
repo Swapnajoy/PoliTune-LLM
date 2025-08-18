@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 222,
+  "type": "mcq_single",
+  "input": "Which one of the following fundamental rights was described by Dr. Ambedkar as the heart and soul of the Constitution ?",
+  "options": {
+    "A": "Right to freedom against exploitation",
+    "B": "Right to freedom of religion",
+    "C": "Right to equality",
+    "D": "Right to constitutional remedies"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 269,
+  "type": "statements_correctness",
+  "input": "Consider the following functionaries P. Cabinet Secretary Q. Chief Election Commissioner R. Union Cabinet Minister S. Chief Justice of India Their correct sequence, in the order of precedence is",
+  "options": {
+    "A": "R, S, Q, P",
+    "B": "S, R, P, Q",
+    "C": "S, R, Q, P",
+    "D": "R, S, P, Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 129,
+  "type": "mcq_single",
+  "input": "Which one of the following is correctly matched about the outcome of the XVI Lok Sabha elections?",
+  "options": {
+    "A": "National Democratic Alliance — 336 seats and 35 percent vote share.",
+    "B": "United Progressive Alliance — 54 seats and 23 per cent vote share.",
+    "C": "Left Front — 10 seats and 4.8 per cent vote share.",
+    "D": "Congress — 44 seats and 17 per cent vote share."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "United Progressive Alliance-54 Seats and 23 percent vote share."
+}

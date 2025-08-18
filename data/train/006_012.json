@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 12,
+  "type": "statements_correctness",
+  "input": "With reference to Lok Adalat, consider the following statements: P. An award made by a Lok Adalat is deemed to be a decree of a Civil Court and no appeal lies against thereto before any Court. Q. Matrimonial/Family disputes are not covered under Lok Adalat Which of the statement(s) given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "An award made by a Lok adalat is deemed to be a decree of a Civil Court and no appeal lies against thereto before any court. It was according to the Legal Services Authority Act 1987, which gave statutory status to Lok Adalat."
+}

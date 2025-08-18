@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 8,
+  "type": "mcq_single",
+  "input": "Which one among the following is the distinguishing factor between a pressure group and a political party?",
+  "options": {
+    "A": "Pressure groups are confined to a few, while political parties involve larger number of people",
+    "B": "Pressure groups do not seek active political power, political parties do",
+    "C": "Pressure groups do not politically motivate people, while political parties do",
+    "D": "Political parties take political stance, while pressure groups do not bother about political issues"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Pressure groups do not seek active political power, political parties do. Political parties exist to gain power over governmental policy by winning elections for political office. Interest groups do not necessarily have their members run for office and they vote in a nonpartisan way, supporting candidates who promote their point of view."
+}

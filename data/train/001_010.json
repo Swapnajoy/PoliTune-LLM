@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 10,
+  "type": "mcq_single",
+  "input": "The Constitution of India was completed by which of the following dates :",
+  "options": {
+    "A": "Jan 26, 1950",
+    "B": "Nov 26, 1949",
+    "C": "Feb 11, 1948",
+    "D": "None of above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Nov 26, 1949 constitution was completed."
+}

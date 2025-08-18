@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 243,
+  "type": "mcq_single",
+  "input": "In the absence of both the President of India and the Vice President of India who shall act as the President of India?",
+  "options": {
+    "A": "Chief Justice of the Supreme Court",
+    "B": "Speaker of the Lok Sabha",
+    "C": "Vice Chairman of Rajya Sabha",
+    "D": "A person elected by the Lok Sabha with two third majority"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

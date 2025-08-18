@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 306,
+  "type": "mcq_single",
+  "input": "The purpose of Directive Principles of State Policy is to",
+  "options": {
+    "A": "lay down positive instructions which would guide State Policy at all levels",
+    "B": "implement Gandhiji’s idea for a decentralised state",
+    "C": "check the use of arbitrary powers by the government",
+    "D": "promote welfare of the backward sections of the society"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The purpose of Directive Principle of State Policy is to lay down positive instructions which would guide State Policy at all levels. The Directive Principles of State Policy contained in Part IV, Articles 36-51 of the Indian constitution. The Directive Principles may be said to contain the philosophy of the constitution. The Directive principles are broad directives given to the state in accordance with which the legislative and executive powers of the state are to be exercised."
+}

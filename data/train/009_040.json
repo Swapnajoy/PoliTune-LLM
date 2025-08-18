@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 40,
+  "type": "mcq_single",
+  "input": "The largest Union Territory of India is",
+  "options": {
+    "A": "Daman and Diu",
+    "B": "Puducherry",
+    "C": "Delhi",
+    "D": "Chandigarh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The top three largest union territories are Andaman & Nicobar Islands, Delhi and Puducherry."
+}

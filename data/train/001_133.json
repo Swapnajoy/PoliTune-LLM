@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 133,
+  "type": "mcq_single",
+  "input": "Which of the following is incorrect regarding schedule VI of our Constitution?",
+  "options": {
+    "A": "The areas are administered as Autonomous districts over which the executive authority of the states extends",
+    "B": "The Government has the power to create new autonomous districts",
+    "C": "The autonomous districts are provided with elected bodies known as district councils",
+    "D": "It deals with the administration of the tribal areas of Arunachal Pradesh, Manipur and Nagaland"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "schedule VI of our Constitution does not deal with the administration of the tribal areas of Arunachal Pradesh, Manipur and Nagaland. There is the provision for administration of Tribal Area in Assam, Meghalaya, Tripura, Mizoram & Arunachal Pradesh in VI schedule of Indian Constitution."
+}

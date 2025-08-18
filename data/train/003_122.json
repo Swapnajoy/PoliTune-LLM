@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 122,
+  "type": "mcq_single",
+  "input": "Who nominates the Chairman of the Public Accounts Committee of Indian Parliament?",
+  "options": {
+    "A": "The Speaker of Lok Sabha",
+    "B": "The Prime Minister",
+    "C": "The President",
+    "D": "The Chairman of Rajya Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Public Accounts Committee is constituted by Parliament for one year term. The Chairman is appointed by the Speaker of Lok Sabha amongst its members."
+}

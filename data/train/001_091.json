@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 91,
+  "type": "mcq_single",
+  "input": "The term ‘state’ has been defined in which of the following articles of Indian Constitution ?",
+  "options": {
+    "A": "Article 1",
+    "B": "Article 8",
+    "C": "Article 10",
+    "D": "Article 12"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "‘State’ word is mentioned in Article 8. In article 1 ‘union and state’ is mentioned. Article 12 deals with definition of fundamental rights."
+}

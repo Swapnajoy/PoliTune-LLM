@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 90,
+  "type": "mcq_single",
+  "input": "What is correct about the recall of President of Municipal Council? (i) The procedure of recall may be initiated with a proposal signed by 3/4 members of council. (ii) The procedure of recall may be initiated with a proposal signed by 3/4 elected members of council. (iii) If the council passed a resolution by majority, collector will take action. (iv) President may be recalled by general voters with majority. (v) President may be recalled by general voters with 2/3 majority. (vi) The process of recall may be initiated once in his whole term. (vii)The process of recall may be initiated twice in his whole term.",
+  "options": {
+    "A": "(i), (iii), (v)",
+    "B": "(ii), (iv), (vi)",
+    "C": "(i), (v), (vii)",
+    "D": "(ii), (iv), (vii)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The procedure of recall of President of Municipal Council may be initiated with a proposal signed by 3/4 members of council. President may be recalled by general voters with majority. The process of recall may be initiated once in his whole term."
+}

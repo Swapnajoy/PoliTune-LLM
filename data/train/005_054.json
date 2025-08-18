@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 54,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The goal of empowering Gram Sabha as the voice of Panchayats through Article 243A of the constitution was to provide a democratic basis to decentralized decision making. Q. The Ministry of Environment and Forests, has recently modified a circular it issued in 2009 and allowed building activities in forests areas without the need for Gram Sabha consent. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Article 243 A of the constitution is to provide a democratic basis to decentralized decision-making. A Gram Sabha may exercise such powers and perform such functions at the village level as the legislature of a state may by law, provide"
+}

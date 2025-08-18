@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 18,
+  "type": "mcq_single",
+  "input": "Right to vote and to be elected in India is a",
+  "options": {
+    "A": "Fundamental Right",
+    "B": "Natural Right",
+    "C": "Constitutional Right",
+    "D": "Legal Right"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "New NCERT Class 9: Democratic Politics, Page 109: Right to vote in elections is an important constitutional right. New NCERT,Std. 11, Introduction to Indian Constitution, Page 66 one of the important decisions of the framers of India Constitution was to guarantee every adult citizen in India, the right to vote. Combining the interpretation of both textbooks, “C” is the answer."
+}

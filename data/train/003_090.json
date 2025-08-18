@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 90,
+  "type": "mcq_single",
+  "input": "The quorum for Joint Sitting of the Indian Parliament is",
+  "options": {
+    "A": "One- twelveth of the total number of members of the House",
+    "B": "One-sixth of the total numbers of members of the House",
+    "C": "One-tenth of the total number of members of the House",
+    "D": "Two-third of the total number of members of the House"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The quorum to constitute a joint sitting shall be one-tenth of the total number of members of the Houses."
+}

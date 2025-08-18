@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 54,
+  "type": "statements_correctness",
+  "input": "Though the Rajya Sabha and Lok Sabha are constitutent part of Parliament, on some subject they have unequal powers which of the following matters depict the difference of powers between these two houses? P. No confidence motion Q. Power to vote on Demand for Grants R. Impeachment of judges of the High Court S. Passing of laws in the national interest on the subject enumerated in state list T. Creation of all India services. Select the correct answer by using the codes given below:",
+  "options": {
+    "A": "P, R and S only",
+    "B": "Q, R and T only",
+    "C": "P, Q, S and T only",
+    "D": "P, Q and T only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Both the Houses have been enshrined with equal powers on the matter of impeachment of judges of the High Courts. Soumitra Sen is a retired judge of the Calcutta High Court. He was the first judge in independent India to be impeached in India’s Rajya Sabha for misappropriation of funds."
+}

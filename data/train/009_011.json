@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 11,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : Parliamentary system of government is based on the principle of collective responsibility. Reason (R) : A parliamentary defeat is not necessarily a sufficient cause for resignation of the Ministry. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The ministers are collectively responsible to the parliament in general and to the Lok Sabha in particular (Article 75). The principle of collective responsibility implies that the Lok Sabha can remove the ministry (Council of Ministers headed by the prime minister) from office by passing a vote of no confidence."
+}

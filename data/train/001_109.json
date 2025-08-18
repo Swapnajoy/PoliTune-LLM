@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 109,
+  "type": "mcq_single",
+  "input": "Which of the Constitution provisions lays down that taxes can neither be carried nor collected without the authority of law?",
+  "options": {
+    "A": "Article 265",
+    "B": "Article 266",
+    "C": "Article 300",
+    "D": "Article 368"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 265 of the constitutional provisions lays down that taxes can neither be levied nor collected without the authority of law. Taxes are not to be imposed by authority of law. Article 266 deals with taxes not to be imposed by authority of law. Suits and proceedings of property, assets, rights, liabilities mentioned in article 300."
+}

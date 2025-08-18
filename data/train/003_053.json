@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 53,
+  "type": "statements_correctness",
+  "input": "Which of the following Bills requires prior assent of the President before presenting in the Parliament? P. A Bill for the formation of boundaries of a state Q. A money Bill R. A Bill which involved expenditures from the consolidated fund of India S. A Bill affecting taxation in which the interest of states is vested",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q, R and S only",
+    "C": "R and S only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "There are some bills which require prior recommendation of the President: Bill that seeks to alter the boundaries of the states and names of the states, Money Bill (as per Article 110) & Finance Bill, Any bill which affects the taxation in which the states are interested (Article 274) and State Bills which impose restriction upon freedom of trade."
+}

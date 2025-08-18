@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 29,
+  "type": "mcq_single",
+  "input": "The Panchayati Raj is included in the",
+  "options": {
+    "A": "Union list",
+    "B": "State list",
+    "C": "Concurrent list",
+    "D": "Residuary list"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Panchayati Raj is included in the State List of the Seventh Schedule of the Constitution. Article 248 - Residuary powers of legislation 7th schedule - Concurrent list or list -III 7th schedule - Union list or list I."
+}

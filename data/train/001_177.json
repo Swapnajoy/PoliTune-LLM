@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 177,
+  "type": "mcq_single",
+  "input": "The provisions of reservation for OBC is made in the Constitution under which Articles?",
+  "options": {
+    "A": "Article 13 (II) and 14",
+    "B": "Article 14 and 15",
+    "C": "Article 15 (IV) and 16 (IV)",
+    "D": "Article 17 and 18"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under Article 15 (IV) and 16 (IV), the provision of reservation for OBC is made in the constitution."
+}

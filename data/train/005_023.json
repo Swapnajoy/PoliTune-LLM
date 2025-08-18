@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 23,
+  "type": "mcq_single",
+  "input": "Which committee had first of all recommended three-tier Panchayati Raj in India in 1957?",
+  "options": {
+    "A": "Balwant Rai Committee",
+    "B": "Ashok Mehta Committee",
+    "C": "Setalwad Committee",
+    "D": "Hanumantayaa Committee"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Balwant Rai Mehta Committee had first of all recommended three-tier Panchayati Raj in India in 1957. The Act aims to provide a 3-tier system of Panchayati Raj for all States having a population of over 2 million, to hold Panchayat elections regularly every 5 years."
+}

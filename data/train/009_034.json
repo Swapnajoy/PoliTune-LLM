@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 34,
+  "type": "statements_correctness",
+  "input": "The following States were created after 1960. Arrange them in ascending chronological order of their formation and choose your answer from the given code. P. Haryana Q. Sikkim R. Nagaland S. Meghalaya Codes :",
+  "options": {
+    "A": "P, Q, R, S",
+    "B": "Q, R, S, P",
+    "C": "R, P, S, Q",
+    "D": "Q, S, P, R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The ascending chronological order will be as following : A. Nagaland – 1961 B. Haryana – 1966 C. Meghalaya – 1972 D. Sikkim – 1975"
+}

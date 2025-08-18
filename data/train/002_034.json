@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 34,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : A member of the Union Public Service Commission is : P. Debarred from re-appointment as a member Q. Ineligible for any other employment under the Central or State Government R. Disqualified from becoming a constitutional functionary like a Governor Of the above statements :",
+  "options": {
+    "A": "P, Q and R are correct",
+    "B": "Q and R are correct",
+    "C": "P and R are correct",
+    "D": "P and Q are correct"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

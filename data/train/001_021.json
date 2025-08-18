@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 21,
+  "type": "statements_correctness",
+  "input": "Which of the following statements about the formation of the Constituent Assembly is / are correct? (CDS 2015-II) P. The members of the Constituent Assembly were chosen on the basis of the provincial elections of 1946. Q. The Constituent Assembly did not include representatives of the Princely States. R. The discussions within the Constituent Assembly were not influenced by opinions expressed by the public. S. In order to create a sense of collective participation, submissions were solicited from the public. Select the correct answer using the code given below.",
+  "options": {
+    "A": "P only",
+    "B": "Q and R",
+    "C": "R and S",
+    "D": "P and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The formation of the Constituent Assembly includes the following facts- (i) On the basis of the provincial election of 1946, the members of the Constituent Assembly. (ii) Opinions were invited from the public to evolve a sense of mass participation."
+}

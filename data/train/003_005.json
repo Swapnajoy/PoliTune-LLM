@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 5,
+  "type": "statements_correctness",
+  "input": "Abolition of the Legislative Council of a State.",
+  "options": {
+    "A": "Through Parliamentary Committee",
+    "B": "Through Consultative Committee of various ministers",
+    "C": "By making the administration send periodic reports",
+    "D": "By compelling the executives to issue writs"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Parliament supervises the Activities of the executives with the help of its committees like committees on Govt. assurance, committees on subordinate legislation, committees on petition etc. Considering the volume of legislation to be handled by the Parliament, committees have been established to transact a good deal of the legislation. Parliamentary Committees are of two kinds - Standing Committees and Ad hoc Committees. The former are elected or appointed periodically and they work on a continuous basis. The latter are appointed on an ad hoc basis as need arises and they cease to exist as soon as they complete the task assigned to them."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 19,
+  "type": "mcq_single",
+  "input": "Which of the following Indian states has no Panchayati Raj institution?",
+  "options": {
+    "A": "Assam",
+    "B": "Tripura",
+    "C": "Kerala",
+    "D": "Nagaland"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Nagaland has no Panchayat Raj institution. Currently, the Panchayati Raj system exists in all the states except Nagaland, Meghalaya and Mizoram, and in all Union Territories except Delhi."
+}

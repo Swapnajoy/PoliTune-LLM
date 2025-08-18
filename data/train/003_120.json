@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 120,
+  "type": "mcq_single",
+  "input": "No money bill can be introduced in the Legislative Assembly of the a State, except on the recommendations of",
+  "options": {
+    "A": "the Parliament",
+    "B": "the Governor of the State",
+    "C": "the president of India",
+    "D": "a Special Committee of Ministers"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "A Money Bill cannot be introduced in the Legislative Assembly of a state except on the recommendations of the Governor of the state."
+}

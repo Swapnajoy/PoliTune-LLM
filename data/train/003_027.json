@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 27,
+  "type": "mcq_single",
+  "input": "The function of the pro-tem in the absence of Speaker is to",
+  "options": {
+    "A": "conduct the proceedings of the House in the absence of speakers.",
+    "B": "officiate as speaker when the speaker is to be elected",
+    "C": "only check if the election certificates of the members are in order",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The first meeting after the election when the Speaker and the Deputy Speaker are selected by members of the Parliament is held under the Protem Speaker."
+}

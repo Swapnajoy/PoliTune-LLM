@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 71,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. The Attorney General of India is appointed by the President upon the recommendation of the Chief Justice of Supreme Court. Q. The Attorney General of India has the right to speak in the Parliament but he can’t vote. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The proposal for appointment of Law officers viz. Attorney General, Solicitor General, is sent to the Appointments committee of the cabinet for its approval. On the recommendation of cabinet the president appoints Attorney General."
+}

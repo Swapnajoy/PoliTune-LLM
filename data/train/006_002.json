@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 2,
+  "type": "assertion_reason",
+  "input": "Assertions (Q) : The word minority is not defined in the Constitution of India. Reason (R) : The Minorities Commission is not a constitutional body. Which of the following is correct?",
+  "options": {
+    "A": "Both Q and R true and R is the correct explanation of Q.",
+    "B": "Both Q and R are true but R is not a correct explanation of Q",
+    "C": "Q is true but R is false.",
+    "D": "Q is false but R is true."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The word minority is not defined in the constitution of India, yet it recognizes two types of minorities, based on religion and language. The minorities commission is a statutory body constituted in 1993 by an act of Parliament."
+}

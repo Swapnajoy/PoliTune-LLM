@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 181,
+  "type": "mcq_single",
+  "input": "The term District Judge is mentioned in which of the following Article of Constitution?",
+  "options": {
+    "A": "Article 230",
+    "B": "Article 231",
+    "C": "Article 232",
+    "D": "Article 233"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "In Article 233, the term District Judge has been mentioned in the Indian Constitution."
+}

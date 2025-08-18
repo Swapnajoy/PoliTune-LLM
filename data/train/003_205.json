@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 205,
+  "type": "statements_correctness",
+  "input": "India started Visa on Arrival (VOA) facility for Pakistan. Consider the following statements regarding this VOA facility. P. The visas are valid for Pakistan senior citizens only. Q. This visa will be given at Attari/Wagah checkpost for 45 days. R. It will be a multiple entry visa. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

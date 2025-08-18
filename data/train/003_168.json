@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 168,
+  "type": "mcq_single",
+  "input": "The President of India enjoys emergency powers of",
+  "options": {
+    "A": "Two types",
+    "B": "Three types",
+    "C": "Four types",
+    "D": "Five types"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

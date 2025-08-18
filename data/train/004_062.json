@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 62,
+  "type": "mcq_single",
+  "input": "Which High Court has jurisdiction over the State of Arunachal Pradesh?",
+  "options": {
+    "A": "Guwahati",
+    "B": "Mumbai",
+    "C": "Kolkata",
+    "D": "Chandigarh"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "The Guwahati High Court was established on 1 March, 1948 after the Government of India Act 1935 was passed. It was originally known as the High Court of Assam and Nagaland, but renamed as Gauhati High Court in 1971."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 311,
+  "type": "mcq_single",
+  "input": "In which year Supreme Court of India came into being?",
+  "options": {
+    "A": "1937 January 28",
+    "B": "1947 January 28",
+    "C": "1950 January 28",
+    "D": "1949 January 28"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

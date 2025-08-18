@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 66,
+  "type": "mcq_single",
+  "input": "The tenure of every Panchayat shall be for five years from the date of",
+  "options": {
+    "A": "its first meeting",
+    "B": "issue of notification for the conduct of elections to the Panchayat",
+    "C": "declaration of the election results",
+    "D": "taking oath of office by the elected members"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "According to Article 243(e), every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 320,
+  "type": "mcq_single",
+  "input": "The main sources of law in India are: I. The Constitution II. Statutes III. Customary law IV. Judicial decisions of superior courts Choose the answer from the code:",
+  "options": {
+    "A": "I and II",
+    "B": "I, II and IV",
+    "C": "II and IV",
+    "D": "I, II, III and IV"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

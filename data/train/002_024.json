@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 24,
+  "type": "statements_correctness",
+  "input": "Consider the following statements with respect to the Comptroller and Auditor General of India P. He shall only be removed from office in like manner and on the ground as a Judge of the Supreme Court. Q. He shall not be eligible for further office either under the Government of India or under the Government of any State after he has ceased to hold his office. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Under Article 148 of the Indian Constitution the Comptroller and Auditor General (CAG) of India is an authority who audits all receipts and expenditure of the Government of India and the state governments, including those of bodies and authorities substantially financed by the government. The CAG shall only be removed from office in like manner and on the like grounds as a judge of the Supreme Court of India :Article148(a) The Comptroller and Auditor General shall not be eligible for further office either under the Government of India or under the Government of any State after he has ceased to hold his office :Article 148(d)"
+}

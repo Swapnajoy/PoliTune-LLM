@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 188,
+  "type": "mcq_single",
+  "input": "Department of Border management is a department of which one of the following Union Ministers ?",
+  "options": {
+    "A": "Ministry of Defense",
+    "B": "Ministry of Home Affairs.",
+    "C": "Ministry of Shipping, Road Transport and Highways",
+    "D": "Ministry of Environment and Forest."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

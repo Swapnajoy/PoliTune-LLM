@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 236,
+  "type": "statements_correctness",
+  "input": "Which of the following statements relating to election as the President of India is/are correct? P. A person above the age of thirty-five years is eligible for election as the President of India. Q. The President of India is eligible for re-election for more than one term. R. A person is not eligible for election as the President of India if the person holds an office of profit. Select the correct answer using the code given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q only",
+    "C": "P, Q and R",
+    "D": "R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

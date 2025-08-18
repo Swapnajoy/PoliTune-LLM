@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 277,
+  "type": "mcq_single",
+  "input": "The concept of ‘Right of service’ originated in –",
+  "options": {
+    "A": "The United States of America",
+    "B": "Switzerland",
+    "C": "Great Britain",
+    "D": "China"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The concept of ‘Right of Service’ originated in Great Britain."
+}

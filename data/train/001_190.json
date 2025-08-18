@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 190,
+  "type": "statements_correctness",
+  "input": "Among the following ideals and philosophy, identify those enshrined in the Preamble to the Constitution of India: P. Sovereign democratic republic Q. Socialism and secularism R. Capitalism and free trade Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q only",
+    "B": "P and R only",
+    "C": "P, Q and R",
+    "D": "Q and R only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

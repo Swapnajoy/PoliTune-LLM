@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 66,
+  "type": "statements_correctness",
+  "input": "Consider the following statements related to women members of 15th Lok Sabha P. They are less than 10% of the total members of the Lok Sabha. Q. The maximum women members are from Indian National Congress. R. Three women members are elected from Rajasthan. S. The maximum women members are elected from Uttar Pradesh. Which of the above statement(s) is/are correct?",
+  "options": {
+    "A": "P, Q and R only",
+    "B": "P, R and S only",
+    "C": "Q, R and S only",
+    "D": "P, Q and S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

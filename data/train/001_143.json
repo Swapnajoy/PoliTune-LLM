@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 143,
+  "type": "statements_correctness",
+  "input": "Which of the following statements is/are correct? Under the provisions of Article 200 of the Constitution of India the Governor of a state may P. Withhold his assent to a Bill passed by the state legislature. Q. Reserve the Bill passed by the state legislature for consideration of the President. R. Return the Bill, other than a money Bill, for reconsideration of the legislature. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "P and Q",
+    "C": "Q and R",
+    "D": "All of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "All of the above statements are correct."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 87,
+  "type": "mcq_single",
+  "input": "The Indian Constitution is divided into",
+  "options": {
+    "A": "16 chapters",
+    "B": "22 chapters",
+    "C": "24 chapters",
+    "D": "25 chapters"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Divided into 22 chapters, 395 articles and 11 schedules."
+}

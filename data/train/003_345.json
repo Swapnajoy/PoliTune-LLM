@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 345,
+  "type": "statements_correctness",
+  "input": "Consider the following statements P. The maximum number of the Judges of the Supreme Court of India is prescribed in the Constitution of India. Q. The maximum number of the Members of the Union Public Service Commission is prescribed in the Constitution of India. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "Only I",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

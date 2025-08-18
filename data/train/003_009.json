@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 9,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. An amendment of the Constitution of India can be initiated by the introduction of a Bill only in the Lok Sabha. Q. The Bill for amendment of the Constitution of India has to be passed in each House by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House Present and voting. Which of the statements given above is / are correct?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "An amendment of the constitution can be initiated only by the introduction of a bill for the purpose in either House of Parliament and not in the state legislatures."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 39,
+  "type": "mcq_single",
+  "input": "Which one of the following is not a part of the ‘basic structure’ of the Indian Constitution ?",
+  "options": {
+    "A": "Rule of law",
+    "B": "Secularism",
+    "C": "Republican form of government",
+    "D": "Parliamentary form of government"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Republican form of government is not a part of the ‘basic structure’ of Indian constitution. India is a Democratic- republic country. Parliamentary form of government means Prime Minister is the head of the council of ministers."
+}

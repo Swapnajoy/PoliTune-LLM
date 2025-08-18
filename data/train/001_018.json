@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 18,
+  "type": "statements_correctness",
+  "input": "Consider the following statements: P. Dr. Sachchidanand Sinha was elected as the Provisional President of the Constituent Assembly. Q. H.C. Mukherjee was elected as the Vice-President of the Constituent Assembly.",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Dr. Sachchidanand Sinha – Provisional president of the Constituent assembly. H.C Mukharjee- Vice President of the Constituent Assembly."
+}

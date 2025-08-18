@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 98,
+  "type": "mcq_single",
+  "input": "Which article of Indian Constitution declares Devnagri Hindi as an official language of India?",
+  "options": {
+    "A": "Article 343",
+    "B": "Article 348",
+    "C": "Article 154",
+    "D": "Article 156"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 343 declares Devnagri Hindi as an official language of India. Article 348 is about language used in the Supreme Court and High Courts. Article 154 deals with executive power of state. Article 156 declares term of office of Governor."
+}

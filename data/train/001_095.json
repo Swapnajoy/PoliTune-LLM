@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 95,
+  "type": "mcq_single",
+  "input": "Which article of the Indian Constitution empowers parliament to legislate on a subject of the state list ?",
+  "options": {
+    "A": "Article 115",
+    "B": "Article 116",
+    "C": "Article 226",
+    "D": "Article 249"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 249 empowers the power of Parliament to legislate with respect to a matter in the state list in the national interest. Article 226 gives power of high courts to issue certain writs. Article 116 deals with votes on account, votes of credit and exceptional grants."
+}

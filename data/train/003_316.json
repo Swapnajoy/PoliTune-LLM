@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 316,
+  "type": "mcq_single",
+  "input": "Which one of the following subjects comes under the common jurisdiction of the Supreme Court and the High Court?",
+  "options": {
+    "A": "Protection of the Fundamental Rights",
+    "B": "Mutual disputes among the states",
+    "C": "Disputes between Centre and States",
+    "D": "Protection from the violation of the Constitution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

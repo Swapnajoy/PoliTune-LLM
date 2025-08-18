@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 361,
+  "type": "mcq_single",
+  "input": "In which year was the Collegium System for the appointment of Judges adopted by the Supreme Court of India ?",
+  "options": {
+    "A": "1993",
+    "B": "1996",
+    "C": "2000",
+    "D": "2004"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

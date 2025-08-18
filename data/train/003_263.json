@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 263,
+  "type": "mcq_single",
+  "input": "Which of the following ministers can attend the meetings of the cabinet? I. Cabinet Minister II. Minister of State independent charge III. Minister of State IV. Deputy Minister",
+  "options": {
+    "A": "Only I",
+    "B": "Only I and II",
+    "C": "I, II and III",
+    "D": "I, II, III and IV"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

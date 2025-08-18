@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 165,
+  "type": "assertion_reason",
+  "input": "Assertion (Q) : Under Article 368, the Parliament can amend any part of the Constitution. Reason (R) : The Parliament is the Supreme Legislative body elected by the people of India. Choose the correct answer using the codes given below : Codes :",
+  "options": {
+    "A": "",
+    "B": "Both (a) and (R) are correct, but (R) is not the correct explanation of (a)",
+    "C": "(a) is true, but (R) is false",
+    "D": "(a) is false, but (R) is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Article 368 of the Constitution deals with the powers of Parliament to amend the Constitution and its procedure. The Parliament of India is the supreme legislative body of the Republic of India. The Indian Parliament consists of the President, Lok Sabha (the Lower House), and the Rajya Sabha (Upper House)."
+}

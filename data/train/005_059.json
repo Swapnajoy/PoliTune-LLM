@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 59,
+  "type": "statements_correctness",
+  "input": "Consider the following statements : P. Courts have no jurisdiction to examine the validity of a law relating to delimitation of constituencies or allotment of seats in respect of Panchayats. Q. An election to a Panchayat can be called in question only by an election petition, which should be presented to such authority and in such manner as may be prescribed by the State Election Commission. Which of the statements given above is / are correct ?",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": ""
+}

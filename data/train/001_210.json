@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 210,
+  "type": "mcq_single",
+  "input": "In which part of the Constitution, details of citizenship are mentioned?",
+  "options": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Details of Citizenship are mentioned in part ll(Article 5-11) of the constitution."
+}

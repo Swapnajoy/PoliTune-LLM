@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 22,
+  "type": "mcq_single",
+  "input": "Which one of the following statements about the Parliament of India is not correct?",
+  "options": {
+    "A": "The Constitution provides for a parliamentary form of government",
+    "B": "The foremost function of the parliament is to provide a cabinet",
+    "C": "The membership of the cabinet is restricted to the lower house",
+    "D": "The cabinet has to enjoy the confidence of the majority in the popular chamber"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The membership of the cabinet is for both upper house and lower house."
+}

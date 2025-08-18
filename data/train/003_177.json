@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 177,
+  "type": "statements_correctness",
+  "input": "Which of the following bodies of India are headed by the Prime Minister? P. National Development Council Q. Interstate Council R. National Water Resource Council S. National Integration Council Select the correct answer using the codes given below",
+  "options": {
+    "A": "P and S only",
+    "B": "P, Q and S only",
+    "C": "Q, R and S only",
+    "D": "P, Q, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

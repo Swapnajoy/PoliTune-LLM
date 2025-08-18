@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 282,
+  "type": "mcq_single",
+  "input": "Concept of welfare state in Indian Constitution is included in",
+  "options": {
+    "A": "Fundamental Rights",
+    "B": "Directive Principles of State Policy",
+    "C": "Citizenship",
+    "D": "Provision of Election Commission"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The directive principles of state policy are the guidelines given to the central and state government of India. These provisions are contained in part IV (Article 36-51) of the Constitution of India and these are not enforceable by any court."
+}

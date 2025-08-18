@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 76,
+  "type": "assertion_reason",
+  "input": "Consider the following statements and select the correct answer from the codes given below : Assertion (Q) : After a Money Bill is passed by the Lok Sabha and transmitted to the Rajya Sabha, the recommendations of the Rajya Sabha have to be accepted by the Lok Sabha within 14 days from receipt of the recommendations and then get them incorporated in the Bill. Reason (R) : A Money Bill cannot be introduced in the Rajya Sabha. Codes :",
+  "options": {
+    "A": "Both Q and R are individually true and R is the correct explanation of Q",
+    "B": "Both Q and R are individually true but R is not the correct explanation of Q",
+    "C": "Q is true but R is false",
+    "D": "Q is false but R is true"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Under article 110(1) of the Constitution a Money Bill can be introduced in Lok Sabha only. If any question arises whether a Bill is a Money Bill or not, the decision of Speaker thereon is final. The Speaker is under no obligation to consult any one in coming to a decision or in giving his certificate that a Bill is a Money Bill. The certificate of the Speaker to the effect that a Bill is a Money Bill, is to be endorsed and signed by him when it is transmitted to Rajya Sabha and also when it is presented to the President for his assent."
+}

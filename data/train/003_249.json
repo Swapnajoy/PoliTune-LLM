@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 249,
+  "type": "mcq_single",
+  "input": "Which of the following is not a constitutional prerogative of the President of India?",
+  "options": {
+    "A": "Returning back an ordinary bill for reconsideration",
+    "B": "Returning back a money bill for reconsideration",
+    "C": "Dissolution of Lok Sabha",
+    "D": "Summoning of the session of the Rajya Sabha"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

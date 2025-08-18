@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 176,
+  "type": "mcq_single",
+  "input": "Vice-President of India is elected by an electoral college consisting of",
+  "options": {
+    "A": "members of both Houses of Parliament",
+    "B": "members of Rajya Sabha only",
+    "C": "elected members of both Houses of Parliament",
+    "D": "elected members of Lok Sabha only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

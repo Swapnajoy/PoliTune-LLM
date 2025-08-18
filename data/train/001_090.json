@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 90,
+  "type": "mcq_single",
+  "input": "Which of the following articles of Indian Constitution enunciates fundamental duties?",
+  "options": {
+    "A": "Article 35",
+    "B": "Article 51(a)",
+    "C": "Article 32",
+    "D": "Article 14"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Article 51A enlisted fundamental duties. Article 32 deals with remedies for enforcement of fundamental rights. Article 35 provides legislation to give effect to the fundamental rights."
+}

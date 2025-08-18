@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 188,
+  "type": "statements_correctness",
+  "input": "Consider the following statements in regard to the preamble of the Constitution of India; P. It provides equality of opportunity to its all citizens. Q. It provides liberty of faith to its all citizens. R. It is given by the citizen of India to themselves. Which of the statements given above are correct?",
+  "options": {
+    "A": "P and Q only",
+    "B": "Q and R only",
+    "C": "Q and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "According to the preamble of the constitution for India it is given by the people of India to themselves but the rights to justice, liberty and equality are provided to its citizens."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 80,
+  "type": "mcq_single",
+  "input": "The Chief Justice of Uttarakhand who also became the Chief Justice of India –",
+  "options": {
+    "A": "Justice Ashok A. Desai",
+    "B": "Justice P. C. Verma",
+    "C": "Justice Barin Ghosh",
+    "D": "Justice S. H. Kapadia"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "There are 2 Former chief justices of uttarakhand S.H. Kapadia and J.S. Khehar who later become chief Justice of India."
+}

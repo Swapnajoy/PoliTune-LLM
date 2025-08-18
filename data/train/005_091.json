@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 91,
+  "type": "mcq_single",
+  "input": "Local self-government can be best explained as an exercise in",
+  "options": {
+    "A": "Federalism",
+    "B": "Democratic decentralization",
+    "C": "Administrative delegation",
+    "D": "Direct democracy"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Balwant Rai G Mehta Committee submitted its report in November 1957 and recommended the establishment of the scheme of ‘democratic decentralisation’, which ultimately came to be known as Panchayati Raj."
+}

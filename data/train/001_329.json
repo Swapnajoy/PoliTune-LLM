@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 329,
+  "type": "mcq_single",
+  "input": "Which one of the following is a subject of the concurrent list?",
+  "options": {
+    "A": "Police",
+    "B": "Criminal matters",
+    "C": "Radio and Television",
+    "D": "Foreign Affairs."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Criminal matters is a subject of the concurrent list."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 83,
+  "type": "statements_correctness",
+  "input": "Which of the following statements regarding Rajya Sabha is / are correct ? (CDS 2016-I) P. The maximum Permissible strength of Rajya Sabha is 250 Q. In Rajya Sabha, 238 members are elected indirectly from the States ans Union Territories. R. It shares legislative powers equally with Lok Sabha in matters such as creation of All India Services Select the correct answer using the code given below.",
+  "options": {
+    "A": "P and Q only",
+    "B": "P, Q and R",
+    "C": "Q and R only",
+    "D": "P only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The Constitution lays down 250 as the maximum strength of the Rajya Sabha, out of which 12 are nominated by the President from among persons who have achieved distinction in literature, art, science and social services."
+}

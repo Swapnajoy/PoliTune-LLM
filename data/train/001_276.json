@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 276,
+  "type": "mcq_single",
+  "input": "Choose the fundamental rights available to Indian Citizen but not to aliens – I. Freedom of Speech and Expression II. Equality Before the Law III. Right of minorities IV. Protection of Life and Liberty",
+  "options": {
+    "A": "I and II",
+    "B": "I and IV",
+    "C": "II and IV",
+    "D": "II and III"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Freedom of speech and Expression and Equality before the law are the fundamental rights available to Indian citizens but not to aliens."
+}

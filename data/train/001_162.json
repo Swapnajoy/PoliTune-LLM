@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 162,
+  "type": "mcq_single",
+  "input": "Which one of the following Articles of Indian Constitution vests in the President of India the power to issue ordinances?",
+  "options": {
+    "A": "Article 74",
+    "B": "Article 78",
+    "C": "Article 123",
+    "D": "Article 124 (2)"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "President can issue ordinance when one of the houses of the Parliament is not in session. The Article 123 deals with Power of President to promulgate Ordinances during recess of Parliament."
+}

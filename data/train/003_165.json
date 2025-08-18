@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 165,
+  "type": "mcq_single",
+  "input": "The Council of Ministers has to resign if no-confidence motion is passed by a majority of members of",
+  "options": {
+    "A": "Lok Sabha",
+    "B": "Rajya Sabha",
+    "C": "Both the Houses separately",
+    "D": "Both the Houses in joint sitting"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 88,
+  "type": "mcq_single",
+  "input": "In India, the first municipal corporation was set up in which one of the following",
+  "options": {
+    "A": "Calcutta",
+    "B": "Madras",
+    "C": "Bombay",
+    "D": "Delhi"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "In 1687, the first municipal corporation in India was set up at Madras during the British rule period. The Chennai Municipal Corporation (officially the Corporation of Chennai), formerly known as the Corporation of Madras, is the civic body that governs the city of Chennai (formerly Madras), India. Inaugurated on September 29, 1688, under a Royal Charter issued by King James II on December 30, 1687 as the Corporation of Madras, it is the oldest municipal body of the Commonwealth of Nations outside Great Britain. It is headed by a mayor, who presides over 200 councilors each of whom represents one of the 200 wards of the city. It is also the second oldest corporation in the world."
+}

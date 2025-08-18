@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 342,
+  "type": "mcq_single",
+  "input": "Who among the following is Constitution empowered to declare a geographic area as a scheduled area?",
+  "options": {
+    "A": "Governor",
+    "B": "Chief Minister",
+    "C": "Prime Minister",
+    "D": "President"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The term `Scheduled Areas has been defined in the Indian Constitution as “such areas as the President may by order declare to be Scheduled Areas”."
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 46,
+  "type": "mcq_single",
+  "input": "The Chief Justice of a High Court is appointed by",
+  "options": {
+    "A": "President",
+    "B": "Governor",
+    "C": "Chief Justice of India",
+    "D": "President on the advice of Governor of the state concerned and the Chief Justice of India"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Judges in High Court are appointed by the President of India in consultation with the Chief Justice of India and the governor of the state. High Courts are headed by a Chief Justice."
+}

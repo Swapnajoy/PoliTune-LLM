@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 4,
+  "type": "mcq_single",
+  "input": "Government is classified as parliamentary and presidential on the basis of which of the following?",
+  "options": {
+    "A": "Relations between legislature and executive",
+    "B": "Relations between politician and civil servants",
+    "C": "Written or unwritten Constitutions",
+    "D": "Rigid or Flexible Constitutions"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Government is classified as parliamentary and presidential on the basis of relations between legislature and executive."
+}

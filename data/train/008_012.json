@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 12,
+  "type": "mcq_single",
+  "input": "A political party is recognized as a regional party, if",
+  "options": {
+    "A": "It gets 4% votes in the State either in Lok Sabha or the Assembly election",
+    "B": "It gets 6% votes in the State either in Lok Sabha or the Assembly election",
+    "C": "It gets 8% votes in the State either in Lok Sabha or the Assembly election",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "A political party is entitled to be recognised as a state party only if it secures at least 6% of the valid votes polled in the State at a general election either to the Lok Sabha or to the Legislative Assembly of the State concerned and in addition wins at least 2 seats in the State Legislative Assembly of concerned state."
+}

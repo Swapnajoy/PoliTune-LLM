@@ -1,0 +1,21 @@
+{
+  "chapter_id": 6,
+  "chapter_title": "statutory bodies",
+  "qnum": 7,
+  "type": "statements_correctness",
+  "input": "The National Human Rights Commission can: P. Enquire only on the presentation of a petition of the victim and not suo moto, into the complaint of violation of human rights. Q. Not intervene in any proceeding involving violation of human rights pending before a court. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The commission can inquire suo moto or on a petition presented to it by victim or any person on his behalf or on a direction into complaint of violation of human rights."
+}

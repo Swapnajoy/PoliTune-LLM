@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 55,
+  "type": "mcq_single",
+  "input": "Which one of the following is incorrect in respect of local government in India?",
+  "options": {
+    "A": "According to the Indian constitution, local government is not an independent tier in the federal system.",
+    "B": "30% of the seats in local bodies are reserved for women.",
+    "C": "Local government finances are to be provided by a commission.",
+    "D": "Elections to local bodies are to be determined by a commission."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Under Article 243, it has been mentioned that not less than 1/3rd (33%) seats in the local bodies shall be reserved for women."
+}

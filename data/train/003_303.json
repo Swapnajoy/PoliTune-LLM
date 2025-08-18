@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 303,
+  "type": "mcq_single",
+  "input": "The Provisions concerning the powers of the Union judiciary in the constitution can be amended by",
+  "options": {
+    "A": "Simple majority of the Parliament",
+    "B": "Two-third majority of the Parliament",
+    "C": "Two-third majority of the Parliament and the majority of states",
+    "D": "None of the above"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 14,
+  "type": "mcq_single",
+  "input": "In which of the following houses the chairperson is not the member of that house?",
+  "options": {
+    "A": "Lok Sabha",
+    "B": "Rajya Sabha",
+    "C": "Legislative Assembly",
+    "D": "Legislative council"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "The chairperson of Rajya sabha in not the member of house. Presently vice president of India Venkaiah Naidu is the chairman of upper house."
+}

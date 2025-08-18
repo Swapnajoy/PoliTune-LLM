@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 82,
+  "type": "mcq_single",
+  "input": "A Member of Lok Sabha does not become disqualified to continue as a Member of the House if the Member (CDS 2016-I)",
+  "options": {
+    "A": "voluntarily gives up his / her membership of the political party from which he /she was elected",
+    "B": "is expelled by the political party from which he / she had been elected to the House",
+    "C": "Joins a political party after being elected as an independent candidate",
+    "D": "abstains from voting contrary to the direction by his / her political party"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "An MP elected from a particular party does not become disqualified for a member of a house, when he is expelled by that particular party."
+}

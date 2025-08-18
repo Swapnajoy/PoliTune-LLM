@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 41,
+  "type": "mcq_single",
+  "input": "The idea of concurrent list in the Indian Constitution has been borrowed from",
+  "options": {
+    "A": "USA",
+    "B": "Switzerland",
+    "C": "Australia",
+    "D": "U.S.S.R."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "The ides of concurrent list, provision regarding trade, commerce and intercourse, languages of preamble have been borrowed from Australia."
+}

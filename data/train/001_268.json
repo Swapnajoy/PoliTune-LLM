@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 268,
+  "type": "mcq_single",
+  "input": "Which one of the following categories of persons is not treated at par so far as the availability of Fundamental Rights is concerned ?",
+  "options": {
+    "A": "Members of the armed forces",
+    "B": "Members of the forces charged with the responsibility of maintenance of public order",
+    "C": "Members of the forces employed in connection with the communication systems set up in the country",
+    "D": "Members of the forces employed in connection with the communication systems set up for maintenance of public order"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "Members of Armed Forces are not treated at par so far as the availability of Fundamental Rights is concerned."
+}

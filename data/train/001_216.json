@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 216,
+  "type": "mcq_single",
+  "input": "According to the Constitution of India, which one of the following rights cannot be taken away during emergency?",
+  "options": {
+    "A": "Right to speak",
+    "B": "Right to freedom of movement",
+    "C": "Right to life",
+    "D": "Right to organize"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "According to the Constitution of India Freedom of Press (Article-19) right to life (Article - 21) can’t be taken away during emergency. Article 19 - Freedom of press, freedom of speech. Article 21 - Right to life."
+}

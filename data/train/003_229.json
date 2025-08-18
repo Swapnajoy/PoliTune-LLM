@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 229,
+  "type": "statements_correctness",
+  "input": "The principle of “collective responsibility’ under parliamentary democracy implies that P. a motion of no-confidence can be moved against the Council of Ministers as a whole as well as an individual minister. Q. no person shall be nominated to the cabinet except on the advice of the Prime Minister. R. no person shall be retained as a member of the Cabinet if the Prime minister says that he shall be dismissed. Select the correct answer using the codes given below",
+  "options": {
+    "A": "Only P",
+    "B": "Only Q",
+    "C": "Only R",
+    "D": "Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

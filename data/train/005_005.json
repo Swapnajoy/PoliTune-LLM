@@ -1,0 +1,21 @@
+{
+  "chapter_id": 5,
+  "chapter_title": "local government",
+  "qnum": 5,
+  "type": "mcq_single",
+  "input": "Which of the following is a source of income of the Gram Panchayats?",
+  "options": {
+    "A": "Income Tax",
+    "B": "Sales Tax",
+    "C": "Professional Tax",
+    "D": "Duties"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Levy duties is a source of income of the Gram Panchayats. The panchayats receive funds from three sources: Local body grants, as recommended by the Central Finance Commission. Funds for implementation of centrally sponsored schemes."
+}

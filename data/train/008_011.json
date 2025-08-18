@@ -1,0 +1,21 @@
+{
+  "chapter_id": 8,
+  "chapter_title": "political parties and pressure groups",
+  "qnum": 11,
+  "type": "statements_correctness",
+  "input": "The Election Commission recognizes a political party as a national party if P. it secures at least six percent of the total valid votes polled in four or more States in a general election to the Lok Sabha or to the State Legislative Assemblies. Q. it wins at least four seats in a general election to the Lok Sabha from any State or States. Select the correct answer using the code given below:",
+  "options": {
+    "A": "P only",
+    "B": "Q only",
+    "C": "Both P and Q",
+    "D": "Neither P nor Q"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 153,
+  "type": "mcq_single",
+  "input": "Which one of the following pairs about the subject and the respective list under the Constitution of India is not correctly matched? Subject List",
+  "options": {
+    "A": "Forests – Concurrent List",
+    "B": "Stock Exchange – Concurrent List",
+    "C": "Post Office – Union List Saving Bank",
+    "D": "Public Health – State List"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Share Market relates to Union list."
+}

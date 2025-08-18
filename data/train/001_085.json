@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 85,
+  "type": "mcq_single",
+  "input": "Which article of Indian Constitution deals with amendment procedure ?",
+  "options": {
+    "A": "Article 268",
+    "B": "Article 352",
+    "C": "Article 356",
+    "D": "Article 368"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Article 368 of the Indian Constitution deals with amendment procedure. Article 368 has been amended by the 24th and 42nd Amendments in 1971 and 1976 respectively. Article 268 deals with duties levied by Union but collected and appropriated by the states. Article 352 is about proclamation of emergency. Article 356 provisions in case of failure of constitutional machinery in states."
+}

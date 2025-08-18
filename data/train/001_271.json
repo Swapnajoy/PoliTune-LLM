@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 271,
+  "type": "statements_correctness",
+  "input": "Which of the following statements are true for the Fundamental Right to Life and Personal Liberty as guaranteed under Article 21 of the Constitution of India? P. The Right is available to citizens as well as aliens. Q. It covers protection against arbitrary executive and legislative action. R. It includes the right to live with human dignity. S. It can be taken away according to the procedure established by law. Select the correct answer using the code given below.",
+  "options": {
+    "A": "P, Q and R only",
+    "B": "Q, R and S only",
+    "C": "P, Q, R and S",
+    "D": "P and S only"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "explanation": "Option (c) is the correct answer."
+}

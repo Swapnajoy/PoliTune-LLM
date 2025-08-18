@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 318,
+  "type": "mcq_single",
+  "input": "The minimum number of judges to sit on the Constitutional Bench or on Bench which gives its advisory opinion on the reference by the President must be:",
+  "options": {
+    "A": "One half of the total strength of the Supreme Court",
+    "B": "Seven",
+    "C": "Three",
+    "D": "One-third of the total strength of the court"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}

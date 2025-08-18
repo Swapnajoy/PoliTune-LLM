@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 53,
+  "type": "statements_correctness",
+  "input": "Consider the following statements in regard to ‘equality before law’ introduced by the British in India. P. There were similar courts for Indians and Europeans. Q. Justice now became costlier than before. R. The government officials often favoured the rich. Which of the statements given above are correct?",
+  "options": {
+    "A": "1and Q only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P, Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "There were separate courts and even laws for Indians and Europeans. In Criminal cases the Europeans could be tried only by European judges."
+}

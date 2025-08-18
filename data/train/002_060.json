@@ -1,0 +1,21 @@
+{
+  "chapter_id": 2,
+  "chapter_title": "constitutional bodies",
+  "qnum": 60,
+  "type": "statements_correctness",
+  "input": "Consider the following statements – The state government shall appoint a finance commission to review the financial positions of the Panchayats and to make recommendations as to – P. The distribution between the state and Panchayats of the net proceeds of taxes tolls and fees leviable by the states. Q. The determination of the taxes, duties, tolls and fees which may be assigned to the Panchayats R. The principles that will determine grants-is-aid to the panchayats. Which of the statements given above is/are correct?",
+  "options": {
+    "A": "P only",
+    "B": "Q and R only",
+    "C": "P and R only",
+    "D": "P,Q and R"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "The state government shall appoint a finance commission to review the financial positions of the panchayats and to make recommendations as to. 1. The distribution between the State and Panchayats of the net proceeds of taxes tolls and fees leviable by the states. 2. The determination of the taxes, duties, tolls and fees which may be assigned to the Panchayats. 3. The principles that will determine grants–in–aid to the panchayats."
+}

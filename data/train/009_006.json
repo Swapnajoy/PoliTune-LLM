@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 6,
+  "type": "mcq_single",
+  "input": "The cabinet in the Parliamentary system is accountable to",
+  "options": {
+    "A": "The President",
+    "B": "The Prime Minister",
+    "C": "The Council of Ministers",
+    "D": "The Legislature"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Cabinet in Parliamentary system is accountable to legislature Presidential system is accountable to executive."
+}

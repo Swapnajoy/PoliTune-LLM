@@ -1,0 +1,21 @@
+{
+  "chapter_id": 7,
+  "chapter_title": "electoral system and its reform",
+  "qnum": 5,
+  "type": "mcq_single",
+  "input": "If in an election to a state Legislative Assembly, the candidate who is declared elected loses his deposit, it means that?",
+  "options": {
+    "A": "The polling was very poor.",
+    "B": "The election was for a multi-member constituency.",
+    "C": "The elected candidate’s victory over his nearest rival was very marginal.",
+    "D": "A very large number of candidates contested the election."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "A candidate loses his deposit only when he is polled less than 1/6th of votes. It can only be possible when a very large number of candidates contested the elections."
+}

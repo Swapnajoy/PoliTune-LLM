@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 299,
+  "type": "statements_correctness",
+  "input": "Which of the following duties have been prescribed by the Indian Constitution as Fundamental Duties? P. To defend the country Q. To pay income tax R. To preserve the rich heritage of our composite culture S. To safeguard public property Select the correct answer using the codes given below:",
+  "options": {
+    "A": "P and Q",
+    "B": "Q and S",
+    "C": "P, Q and S",
+    "D": "P, R and S"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": ""
+}

@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 94,
+  "type": "mcq_single",
+  "input": "With reference to the conduct of government business in the Parliament of India, the term ‘closure’ refers to",
+  "options": {
+    "A": "suspension of debate at the terminatan of a day’s sitting of the Parliament",
+    "B": "a rule of legislative procedure under which further debate on a motion can be halted",
+    "C": "the termination of a Parliamentary session",
+    "D": "refusal on the part of tie Government to have the opposition look at important documents"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "explanation": "“Closure” is one of the means by which a debate may be brought to a close by a majority decision of the House, even though all members wishing to speak have not done so."
+}

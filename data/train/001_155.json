@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 155,
+  "type": "mcq_single",
+  "input": "Under which one of the following Articles of the Indian Constitution, the Legislative Assembly is allowed to resolve for the creation of the Legislative Council?",
+  "options": {
+    "A": "168",
+    "B": "169",
+    "C": "170",
+    "D": "171"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": ""
+}

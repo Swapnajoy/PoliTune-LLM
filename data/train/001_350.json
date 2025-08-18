@@ -1,0 +1,21 @@
+{
+  "chapter_id": 1,
+  "chapter_title": "constitutional provisions",
+  "qnum": 350,
+  "type": "statements_correctness",
+  "input": "Centre - state relations in India are dependent upon P. Constitutional provisions Q. Conventions and practises R. Judicial interpretations S. Mechanisms for dialogue Select the correct answer from the codes given below : Codes :",
+  "options": {
+    "A": "P and Q",
+    "B": "P, Q and R",
+    "C": "Q, R and S",
+    "D": "All the four"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "Centre state relation in India are dependent upon. Constitutional provisions, conventions and practice. Judicial interpretation and Mechanism for dialogue."
+}

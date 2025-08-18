@@ -1,0 +1,21 @@
+{
+  "chapter_id": 4,
+  "chapter_title": "state government",
+  "qnum": 47,
+  "type": "mcq_single",
+  "input": "Which of the following state/Union territories have a common High Court?",
+  "options": {
+    "A": "Uttar Pradesh and Bihar",
+    "B": "Punjab, Haryana and Chandigarh",
+    "C": "Punjab and Jammu and Kashmir",
+    "D": "Assam and Bengal"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "explanation": "Punjab, Haryana and Chandigarh share a high court under the High Court (Punjab) Order, 1947."
+}

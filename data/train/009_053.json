@@ -1,0 +1,21 @@
+{
+  "chapter_id": 9,
+  "chapter_title": "world polity and miscellaneous",
+  "qnum": 53,
+  "type": "mcq_single",
+  "input": "The House of Lords in Great Britain is mainly retained because –",
+  "options": {
+    "A": "It is as important as the House of Commons",
+    "B": "It plays an important role of checks and balances",
+    "C": "It acts as a judicial court",
+    "D": "It is maintained as an institution"
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "D",
+  "explanation": "It is observed That British people are very conservative and have great regard for their historical institutions. Therefore, they continue to support historical institutions like Crown and House of Lords."
+}

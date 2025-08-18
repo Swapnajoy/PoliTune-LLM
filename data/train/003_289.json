@@ -1,0 +1,21 @@
+{
+  "chapter_id": 3,
+  "chapter_title": "union government",
+  "qnum": 289,
+  "type": "mcq_single",
+  "input": "The system of Judicial Review exists in",
+  "options": {
+    "A": "India only",
+    "B": "U.K. only",
+    "C": "U.S.A. only",
+    "D": "India and U.S.A."
+  },
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "",
+  "explanation": ""
+}
